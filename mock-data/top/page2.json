@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "top_021",
+      "title": "Global leaders meet to discuss climate action roadmap",
+      "description": "World leaders gathered to strengthen cooperation on climate change policies.",
+      "content": "The summit focused on renewable energy, emission reduction targets, and long-term sustainability goals.",
+      "pubDate": "2025-01-02 09:00:00",
+      "image_url": "https://picsum.photos/600/400?random=21",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_022",
+      "title": "Artificial intelligence investments surge across tech industry",
+      "description": "Major tech companies are increasing funding for AI research and development.",
+      "content": "Experts believe AI will reshape healthcare, education, and finance sectors globally.",
+      "pubDate": "2025-01-02 09:30:00",
+      "image_url": "https://picsum.photos/600/400?random=22",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_023",
+      "title": "Global stock markets trade cautiously amid inflation concerns",
+      "description": "Investors remain cautious as inflation data influences market sentiment.",
+      "content": "Analysts advise diversified investments during short-term market volatility.",
+      "pubDate": "2025-01-02 10:00:00",
+      "image_url": "https://picsum.photos/600/400?random=23",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_024",
+      "title": "Breakthrough battery technology boosts renewable energy storage",
+      "description": "Scientists announce a new battery capable of storing clean energy efficiently.",
+      "content": "This advancement may accelerate global adoption of renewable power sources.",
+      "pubDate": "2025-01-02 10:30:00",
+      "image_url": "https://picsum.photos/600/400?random=24",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_025",
+      "title": "Healthcare sector embraces AI-driven diagnostics",
+      "description": "Hospitals adopt AI tools to improve diagnostic accuracy and speed.",
+      "content": "Medical professionals say AI reduces workload and enhances patient outcomes.",
+      "pubDate": "2025-01-02 11:00:00",
+      "image_url": "https://picsum.photos/600/400?random=25",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_026",
+      "title": "International space agencies announce joint moon mission",
+      "description": "A collaborative lunar exploration project has been officially unveiled.",
+      "content": "The mission aims to establish sustainable research facilities on the moon.",
+      "pubDate": "2025-01-02 11:30:00",
+      "image_url": "https://picsum.photos/600/400?random=26",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_027",
+      "title": "Online education platforms reshape global learning",
+      "description": "Digital education tools are expanding access to learning worldwide.",
+      "content": "Students benefit from flexible schedules and diverse course offerings.",
+      "pubDate": "2025-01-02 12:00:00",
+      "image_url": "https://picsum.photos/600/400?random=27",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_028",
+      "title": "Global tourism industry shows steady recovery",
+      "description": "International travel rebounds as confidence grows among tourists.",
+      "content": "Industry leaders expect gradual growth throughout the coming year.",
+      "pubDate": "2025-01-02 12:30:00",
+      "image_url": "https://picsum.photos/600/400?random=28",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_029",
+      "title": "Cybersecurity spending increases amid rising digital threats",
+      "description": "Organizations boost cybersecurity investments to protect data.",
+      "content": "Experts warn cyberattacks are becoming more sophisticated.",
+      "pubDate": "2025-01-02 13:00:00",
+      "image_url": "https://picsum.photos/600/400?random=29",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_030",
+      "title": "Smart city initiatives gain momentum worldwide",
+      "description": "Urban planners adopt smart technologies to improve city living.",
+      "content": "Smart infrastructure enhances energy efficiency and public services.",
+      "pubDate": "2025-01-02 13:30:00",
+      "image_url": "https://picsum.photos/600/400?random=30",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_031",
+      "title": "Electric vehicle adoption accelerates globally",
+      "description": "More consumers are switching to electric vehicles worldwide.",
+      "content": "Government incentives and improved charging infrastructure drive adoption.",
+      "pubDate": "2025-01-02 14:00:00",
+      "image_url": "https://picsum.photos/600/400?random=31",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_032",
+      "title": "Renewable energy projects attract record investments",
+      "description": "Clean energy initiatives receive strong financial backing.",
+      "content": "Solar and wind projects lead the investment surge.",
+      "pubDate": "2025-01-02 14:30:00",
+      "image_url": "https://picsum.photos/600/400?random=32",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_033",
+      "title": "Digital banking transforms financial services",
+      "description": "Banks expand digital platforms to improve customer experience.",
+      "content": "Mobile banking adoption continues to grow rapidly.",
+      "pubDate": "2025-01-02 15:00:00",
+      "image_url": "https://picsum.photos/600/400?random=33",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_034",
+      "title": "Global food supply chains adapt to climate challenges",
+      "description": "Agriculture sectors respond to climate-related disruptions.",
+      "content": "Sustainable farming practices gain importance worldwide.",
+      "pubDate": "2025-01-02 15:30:00",
+      "image_url": "https://picsum.photos/600/400?random=34",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_035",
+      "title": "Space tourism industry prepares for commercial flights",
+      "description": "Private companies advance space tourism initiatives.",
+      "content": "Commercial space travel could begin within the next few years.",
+      "pubDate": "2025-01-02 16:00:00",
+      "image_url": "https://picsum.photos/600/400?random=35",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_036",
+      "title": "Remote work continues to reshape workplace culture",
+      "description": "Companies adopt hybrid work models post-pandemic.",
+      "content": "Employees report improved work-life balance with flexible schedules.",
+      "pubDate": "2025-01-02 16:30:00",
+      "image_url": "https://picsum.photos/600/400?random=36",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_037",
+      "title": "Mental health awareness gains global attention",
+      "description": "Governments and organizations prioritize mental well-being initiatives.",
+      "content": "Increased awareness reduces stigma and encourages support.",
+      "pubDate": "2025-01-02 17:00:00",
+      "image_url": "https://picsum.photos/600/400?random=37",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_038",
+      "title": "Global trade outlook improves amid policy reforms",
+      "description": "Trade policies ease tensions and support economic growth.",
+      "content": "Experts predict gradual improvement in global trade volumes.",
+      "pubDate": "2025-01-02 17:30:00",
+      "image_url": "https://picsum.photos/600/400?random=38",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_039",
+      "title": "Urban green spaces expand in major cities",
+      "description": "Cities invest in parks and green infrastructure.",
+      "content": "Urban greenery improves air quality and public health.",
+      "pubDate": "2025-01-02 18:00:00",
+      "image_url": "https://picsum.photos/600/400?random=39",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_040",
+      "title": "Advancements in robotics transform manufacturing",
+      "description": "Robotics innovation boosts productivity in factories.",
+      "content": "Automation improves efficiency while reducing operational costs.",
+      "pubDate": "2025-01-02 18:30:00",
+      "image_url": "https://picsum.photos/600/400?random=40",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "top_041",
+      "title": "Global renewable energy capacity reaches new milestone",
+      "description": "Renewable energy installations hit record levels worldwide.",
+      "content": "Solar and wind power continue to dominate new energy projects as countries push for cleaner alternatives.",
+      "pubDate": "2025-01-03 09:00:00",
+      "image_url": "https://picsum.photos/600/400?random=41",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_042",
+      "title": "Tech startups drive innovation in smart healthcare",
+      "description": "Healthcare startups leverage technology to improve patient care.",
+      "content": "AI-powered diagnostics and remote monitoring tools are transforming medical services.",
+      "pubDate": "2025-01-03 09:30:00",
+      "image_url": "https://picsum.photos/600/400?random=42",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_043",
+      "title": "International trade agreements boost global commerce",
+      "description": "New trade deals aim to strengthen economic cooperation.",
+      "content": "Experts believe these agreements will reduce tariffs and promote market access.",
+      "pubDate": "2025-01-03 10:00:00",
+      "image_url": "https://picsum.photos/600/400?random=43",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_044",
+      "title": "Advances in biotechnology open doors for new treatments",
+      "description": "Biotech research accelerates the development of innovative therapies.",
+      "content": "Scientists focus on gene editing and personalized medicine solutions.",
+      "pubDate": "2025-01-03 10:30:00",
+      "image_url": "https://picsum.photos/600/400?random=44",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_045",
+      "title": "Global manufacturing adopts automation at scale",
+      "description": "Factories increasingly rely on automation to enhance productivity.",
+      "content": "Robotic systems improve efficiency while maintaining product quality.",
+      "pubDate": "2025-01-03 11:00:00",
+      "image_url": "https://picsum.photos/600/400?random=45",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_046",
+      "title": "Climate finance gains momentum among developing nations",
+      "description": "Funding initiatives support climate adaptation projects.",
+      "content": "International organizations increase support for sustainable development.",
+      "pubDate": "2025-01-03 11:30:00",
+      "image_url": "https://picsum.photos/600/400?random=46",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_047",
+      "title": "Digital transformation reshapes small businesses",
+      "description": "Small enterprises embrace digital tools to stay competitive.",
+      "content": "E-commerce platforms and cloud services drive business growth.",
+      "pubDate": "2025-01-03 12:00:00",
+      "image_url": "https://picsum.photos/600/400?random=47",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_048",
+      "title": "Global education systems adopt hybrid learning models",
+      "description": "Blended learning gains popularity worldwide.",
+      "content": "Institutions combine digital tools with traditional classroom teaching.",
+      "pubDate": "2025-01-03 12:30:00",
+      "image_url": "https://picsum.photos/600/400?random=48",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_049",
+      "title": "Cybersecurity awareness increases across industries",
+      "description": "Organizations prioritize cybersecurity training.",
+      "content": "Employee awareness programs help reduce digital threats.",
+      "pubDate": "2025-01-03 13:00:00",
+      "image_url": "https://picsum.photos/600/400?random=49",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_050",
+      "title": "Urban mobility solutions evolve with smart transport",
+      "description": "Cities invest in smart mobility systems.",
+      "content": "Electric buses and intelligent traffic management improve commuting.",
+      "pubDate": "2025-01-03 13:30:00",
+      "image_url": "https://picsum.photos/600/400?random=50",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_051",
+      "title": "Artificial intelligence enhances customer experiences",
+      "description": "AI-driven personalization improves user engagement.",
+      "content": "Businesses use AI insights to tailor products and services.",
+      "pubDate": "2025-01-03 14:00:00",
+      "image_url": "https://picsum.photos/600/400?random=51",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_052",
+      "title": "Global logistics adapt to supply chain disruptions",
+      "description": "Logistics firms innovate to maintain supply chain stability.",
+      "content": "Digital tracking and predictive analytics support resilience.",
+      "pubDate": "2025-01-03 14:30:00",
+      "image_url": "https://picsum.photos/600/400?random=52",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_053",
+      "title": "Sustainable fashion gains traction worldwide",
+      "description": "Fashion brands adopt eco-friendly practices.",
+      "content": "Consumers increasingly support sustainable clothing options.",
+      "pubDate": "2025-01-03 15:00:00",
+      "image_url": "https://picsum.photos/600/400?random=53",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_054",
+      "title": "Smart agriculture technologies boost crop yields",
+      "description": "Farmers adopt smart tools to improve productivity.",
+      "content": "IoT sensors and data analytics support efficient farming.",
+      "pubDate": "2025-01-03 15:30:00",
+      "image_url": "https://picsum.photos/600/400?random=54",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_055",
+      "title": "Global tourism embraces digital innovation",
+      "description": "Tourism sector adopts digital platforms.",
+      "content": "Online booking and virtual tours enhance travel experiences.",
+      "pubDate": "2025-01-03 16:00:00",
+      "image_url": "https://picsum.photos/600/400?random=55",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_056",
+      "title": "Energy-efficient buildings reduce urban carbon footprint",
+      "description": "Green buildings contribute to sustainability goals.",
+      "content": "Innovative materials and designs enhance energy efficiency.",
+      "pubDate": "2025-01-03 16:30:00",
+      "image_url": "https://picsum.photos/600/400?random=56",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_057",
+      "title": "Global fintech adoption accelerates",
+      "description": "Fintech solutions reshape financial services.",
+      "content": "Digital payments and lending platforms gain widespread adoption.",
+      "pubDate": "2025-01-03 17:00:00",
+      "image_url": "https://picsum.photos/600/400?random=57",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_058",
+      "title": "Space exploration initiatives attract private investment",
+      "description": "Private sector participation increases in space missions.",
+      "content": "Collaboration accelerates innovation in space technology.",
+      "pubDate": "2025-01-03 17:30:00",
+      "image_url": "https://picsum.photos/600/400?random=58",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_059",
+      "title": "Global health initiatives focus on preventive care",
+      "description": "Preventive healthcare gains importance worldwide.",
+      "content": "Early diagnosis and wellness programs improve public health.",
+      "pubDate": "2025-01-03 18:00:00",
+      "image_url": "https://picsum.photos/600/400?random=59",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_060",
+      "title": "Digital creativity tools empower content creators",
+      "description": "Creators leverage digital platforms to reach global audiences.",
+      "content": "Advanced editing tools enhance creativity and productivity.",
+      "pubDate": "2025-01-03 18:30:00",
+      "image_url": "https://picsum.photos/600/400?random=60",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

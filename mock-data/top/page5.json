@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "top_081",
+      "title": "Space tourism industry prepares for commercial flights",
+      "description": "Private companies move closer to space tourism launches.",
+      "content": "New spacecraft designs aim to make space travel safer and accessible.",
+      "pubDate": "2025-01-05 09:00:00",
+      "image_url": "https://picsum.photos/600/400?random=81",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_082",
+      "title": "Artificial intelligence reshapes creative industries",
+      "description": "AI tools influence design, music, and visual arts.",
+      "content": "Creators use AI to enhance productivity and explore new ideas.",
+      "pubDate": "2025-01-05 09:30:00",
+      "image_url": "https://picsum.photos/600/400?random=82",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_083",
+      "title": "Global tourism rebounds with sustainable travel trends",
+      "description": "Eco-friendly tourism gains popularity worldwide.",
+      "content": "Travelers prioritize sustainability and cultural preservation.",
+      "pubDate": "2025-01-05 10:00:00",
+      "image_url": "https://picsum.photos/600/400?random=83",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_084",
+      "title": "Cybersecurity investments increase across industries",
+      "description": "Companies strengthen defenses against digital threats.",
+      "content": "Advanced security solutions protect sensitive information.",
+      "pubDate": "2025-01-05 10:30:00",
+      "image_url": "https://picsum.photos/600/400?random=84",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_085",
+      "title": "Next-generation batteries promise longer energy storage",
+      "description": "Battery technology evolves to support renewable energy.",
+      "content": "Innovations improve storage capacity and charging speed.",
+      "pubDate": "2025-01-05 11:00:00",
+      "image_url": "https://picsum.photos/600/400?random=85",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_086",
+      "title": "Digital healthcare platforms expand remote access",
+      "description": "Telemedicine services grow in adoption.",
+      "content": "Patients access healthcare services through digital platforms.",
+      "pubDate": "2025-01-05 11:30:00",
+      "image_url": "https://picsum.photos/600/400?random=86",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_087",
+      "title": "Renewable energy jobs rise globally",
+      "description": "Clean energy sector creates new employment opportunities.",
+      "content": "Solar and wind industries lead green job growth.",
+      "pubDate": "2025-01-05 12:00:00",
+      "image_url": "https://picsum.photos/600/400?random=87",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_088",
+      "title": "Digital learning tools enhance student engagement",
+      "description": "Education technology boosts interactive learning.",
+      "content": "Gamification and AI tutors personalize education.",
+      "pubDate": "2025-01-05 12:30:00",
+      "image_url": "https://picsum.photos/600/400?random=88",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_089",
+      "title": "Smart agriculture improves crop productivity",
+      "description": "Technology-driven farming optimizes yields.",
+      "content": "Sensors and AI help farmers monitor soil and weather.",
+      "pubDate": "2025-01-05 13:00:00",
+      "image_url": "https://picsum.photos/600/400?random=89",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_090",
+      "title": "Global fintech startups attract record funding",
+      "description": "Fintech innovation draws investor interest.",
+      "content": "Digital banking and payment solutions expand rapidly.",
+      "pubDate": "2025-01-05 13:30:00",
+      "image_url": "https://picsum.photos/600/400?random=90",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_091",
+      "title": "Augmented reality enhances retail experiences",
+      "description": "AR technology reshapes shopping interactions.",
+      "content": "Virtual try-ons and immersive displays attract customers.",
+      "pubDate": "2025-01-05 14:00:00",
+      "image_url": "https://picsum.photos/600/400?random=91",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_092",
+      "title": "Global cooperation strengthens climate action",
+      "description": "Nations collaborate to reduce emissions.",
+      "content": "International agreements target climate resilience.",
+      "pubDate": "2025-01-05 14:30:00",
+      "image_url": "https://picsum.photos/600/400?random=92",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_093",
+      "title": "Digital storytelling gains popularity in media",
+      "description": "Interactive narratives engage modern audiences.",
+      "content": "Multimedia formats redefine journalism and content creation.",
+      "pubDate": "2025-01-05 15:00:00",
+      "image_url": "https://picsum.photos/600/400?random=93",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_094",
+      "title": "Smart logistics optimize global supply chains",
+      "description": "AI-driven logistics enhance efficiency.",
+      "content": "Automation reduces delays and operational costs.",
+      "pubDate": "2025-01-05 15:30:00",
+      "image_url": "https://picsum.photos/600/400?random=94",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_095",
+      "title": "Digital wellness apps promote healthy lifestyles",
+      "description": "Apps encourage fitness and mindfulness habits.",
+      "content": "Users track health goals and mental well-being.",
+      "pubDate": "2025-01-05 16:00:00",
+      "image_url": "https://picsum.photos/600/400?random=95",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_096",
+      "title": "Robotic process automation boosts business efficiency",
+      "description": "RPA tools automate repetitive tasks.",
+      "content": "Businesses save time and reduce operational costs.",
+      "pubDate": "2025-01-05 16:30:00",
+      "image_url": "https://picsum.photos/600/400?random=96",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_097",
+      "title": "Digital currencies influence global finance",
+      "description": "Central banks explore digital currency adoption.",
+      "content": "CBDCs reshape payment systems and monetary policy.",
+      "pubDate": "2025-01-05 17:00:00",
+      "image_url": "https://picsum.photos/600/400?random=97",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_098",
+      "title": "Smart wearables integrate deeper health insights",
+      "description": "Wearables evolve beyond fitness tracking.",
+      "content": "Advanced sensors monitor vital health indicators.",
+      "pubDate": "2025-01-05 17:30:00",
+      "image_url": "https://picsum.photos/600/400?random=98",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_099",
+      "title": "Global digital divide narrows with connectivity efforts",
+      "description": "Connectivity initiatives reach remote regions.",
+      "content": "Affordable internet access supports education and growth.",
+      "pubDate": "2025-01-05 18:00:00",
+      "image_url": "https://picsum.photos/600/400?random=99",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_100",
+      "title": "Future-ready skills become essential for workforce",
+      "description": "Upskilling gains importance in evolving job markets.",
+      "content": "Digital literacy and adaptability shape career success.",
+      "pubDate": "2025-01-05 18:30:00",
+      "image_url": "https://picsum.photos/600/400?random=100",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

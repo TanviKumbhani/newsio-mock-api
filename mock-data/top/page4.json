@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "top_061",
+      "title": "Smart cities adopt AI-powered infrastructure",
+      "description": "Urban infrastructure becomes smarter with AI integration.",
+      "content": "AI-driven systems improve traffic flow, energy use, and public safety.",
+      "pubDate": "2025-01-04 09:00:00",
+      "image_url": "https://picsum.photos/600/400?random=61",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_062",
+      "title": "Global markets respond to economic policy changes",
+      "description": "Markets show volatility amid new policy announcements.",
+      "content": "Investors monitor inflation and interest rate signals closely.",
+      "pubDate": "2025-01-04 09:30:00",
+      "image_url": "https://picsum.photos/600/400?random=62",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_063",
+      "title": "Electric vehicle adoption accelerates worldwide",
+      "description": "EV sales continue to rise across global markets.",
+      "content": "Government incentives and charging infrastructure drive growth.",
+      "pubDate": "2025-01-04 10:00:00",
+      "image_url": "https://picsum.photos/600/400?random=63",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_064",
+      "title": "Remote work trends redefine workplace culture",
+      "description": "Organizations adapt to hybrid and remote work models.",
+      "content": "Flexibility and digital collaboration tools reshape productivity.",
+      "pubDate": "2025-01-04 10:30:00",
+      "image_url": "https://picsum.photos/600/400?random=64",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_065",
+      "title": "Breakthroughs in quantum computing research",
+      "description": "Quantum computing achieves new research milestones.",
+      "content": "Scientists solve complex problems faster using quantum systems.",
+      "pubDate": "2025-01-04 11:00:00",
+      "image_url": "https://picsum.photos/600/400?random=65",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_066",
+      "title": "Global food security initiatives gain funding",
+      "description": "Efforts to combat hunger receive international support.",
+      "content": "Sustainable agriculture programs target vulnerable regions.",
+      "pubDate": "2025-01-04 11:30:00",
+      "image_url": "https://picsum.photos/600/400?random=66",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_067",
+      "title": "5G technology expands digital connectivity",
+      "description": "5G networks enhance mobile internet speeds.",
+      "content": "Improved connectivity supports innovation across industries.",
+      "pubDate": "2025-01-04 12:00:00",
+      "image_url": "https://picsum.photos/600/400?random=67",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_068",
+      "title": "Mental health awareness rises globally",
+      "description": "Mental health initiatives gain social acceptance.",
+      "content": "Organizations invest in wellness and support programs.",
+      "pubDate": "2025-01-04 12:30:00",
+      "image_url": "https://picsum.photos/600/400?random=68",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_069",
+      "title": "E-learning platforms transform education access",
+      "description": "Online education reaches broader audiences.",
+      "content": "Digital courses provide flexible learning opportunities.",
+      "pubDate": "2025-01-04 13:00:00",
+      "image_url": "https://picsum.photos/600/400?random=69",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_070",
+      "title": "Clean water technologies improve global access",
+      "description": "Innovative solutions address water scarcity.",
+      "content": "Advanced filtration systems deliver safe drinking water.",
+      "pubDate": "2025-01-04 13:30:00",
+      "image_url": "https://picsum.photos/600/400?random=70",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_071",
+      "title": "Digital payments reshape consumer behavior",
+      "description": "Cashless transactions gain widespread adoption.",
+      "content": "Mobile wallets and contactless payments dominate markets.",
+      "pubDate": "2025-01-04 14:00:00",
+      "image_url": "https://picsum.photos/600/400?random=71",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_072",
+      "title": "Wearable technology advances health monitoring",
+      "description": "Wearables track health metrics more accurately.",
+      "content": "Devices help users manage fitness and wellness goals.",
+      "pubDate": "2025-01-04 14:30:00",
+      "image_url": "https://picsum.photos/600/400?random=72",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_073",
+      "title": "Autonomous vehicles progress toward commercialization",
+      "description": "Self-driving technology nears market readiness.",
+      "content": "Testing and regulation shape the future of transport.",
+      "pubDate": "2025-01-04 15:00:00",
+      "image_url": "https://picsum.photos/600/400?random=73",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_074",
+      "title": "Green finance supports sustainable investments",
+      "description": "Investors prioritize environmentally responsible projects.",
+      "content": "Green bonds fund renewable and conservation initiatives.",
+      "pubDate": "2025-01-04 15:30:00",
+      "image_url": "https://picsum.photos/600/400?random=74",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_075",
+      "title": "Global entertainment industry embraces streaming",
+      "description": "Streaming platforms reshape content consumption.",
+      "content": "On-demand access changes viewer preferences worldwide.",
+      "pubDate": "2025-01-04 16:00:00",
+      "image_url": "https://picsum.photos/600/400?random=75",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "top_076",
+      "title": "Smart home devices enhance everyday living",
+      "description": "Smart homes offer convenience and efficiency.",
+      "content": "Connected devices automate lighting, security, and climate.",
+      "pubDate": "2025-01-04 16:30:00",
+      "image_url": "https://picsum.photos/600/400?random=76",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_077",
+      "title": "Global research collaboration accelerates innovation",
+      "description": "International research partnerships grow stronger.",
+      "content": "Shared knowledge drives scientific breakthroughs.",
+      "pubDate": "2025-01-04 17:00:00",
+      "image_url": "https://picsum.photos/600/400?random=77",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_078",
+      "title": "Digital privacy regulations gain global attention",
+      "description": "Governments strengthen data protection laws.",
+      "content": "Regulations aim to protect user data and privacy.",
+      "pubDate": "2025-01-04 17:30:00",
+      "image_url": "https://picsum.photos/600/400?random=78",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_079",
+      "title": "Robotics revolutionize industrial operations",
+      "description": "Robots increase precision and efficiency.",
+      "content": "Advanced robotics support manufacturing and logistics.",
+      "pubDate": "2025-01-04 18:00:00",
+      "image_url": "https://picsum.photos/600/400?random=79",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    },
+    {
+      "article_id": "top_080",
+      "title": "Digital art platforms empower global creators",
+      "description": "Artists reach wider audiences through digital platforms.",
+      "content": "Online marketplaces support creativity and monetization.",
+      "pubDate": "2025-01-04 18:30:00",
+      "image_url": "https://picsum.photos/600/400?random=80",
+      "source_id": "newsio_demo",
+      "category": ["top"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "5"
+}

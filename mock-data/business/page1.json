@@ -1,1 +1,231 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "business_001",
+      "title": "Global stock markets rise as investor confidence improves",
+      "description": "Markets worldwide opened higher following positive economic signals.",
+      "content": "Global stock markets recorded gains during early trading sessions as investor confidence improved due to encouraging economic indicators. Analysts pointed to easing inflation concerns, stable interest rates, and strong corporate earnings as key drivers of the positive momentum. Market experts advise investors to remain cautious while monitoring global economic developments and central bank policies.",
+      "pubDate": "2025-01-01 09:00:00",
+      "image_url": "https://picsum.photos/id/1011/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_002",
+      "title": "Small businesses play a crucial role in economic recovery",
+      "description": "Local enterprises contribute significantly to job creation and growth.",
+      "content": "Small and medium-sized businesses continue to drive economic recovery by generating employment and supporting local economies. Government initiatives, digital tools, and improved access to funding have enabled entrepreneurs to expand operations. Experts believe sustained policy support will be essential to ensure long-term growth and financial stability for small businesses.",
+      "pubDate": "2025-01-01 09:30:00",
+      "image_url": "https://picsum.photos/id/1015/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_003",
+      "title": "Technology sector leads gains in global equity markets",
+      "description": "Strong demand for digital services boosts technology stocks.",
+      "content": "Technology companies outperformed other sectors as demand for cloud computing, artificial intelligence, and cybersecurity solutions remained strong. Major firms reported better-than-expected earnings, driven by enterprise digital transformation initiatives. Analysts expect technology investments to continue as businesses prioritize automation and efficiency.",
+      "pubDate": "2025-01-01 10:00:00",
+      "image_url": "https://picsum.photos/id/1025/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_004",
+      "title": "Retail industry adopts data-driven strategies to boost sales",
+      "description": "Retailers increasingly rely on analytics to improve performance.",
+      "content": "Retail companies are leveraging data analytics to better understand consumer behavior and optimize pricing strategies. Personalized marketing campaigns and improved inventory management have helped retailers enhance customer satisfaction and profitability. Industry experts note that data-driven decision-making has become essential in a highly competitive retail landscape.",
+      "pubDate": "2025-01-01 10:30:00",
+      "image_url": "https://picsum.photos/id/1035/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_005",
+      "title": "Oil prices stabilize as supply and demand balance improves",
+      "description": "Energy markets show signs of stability after recent volatility.",
+      "content": "Global oil prices stabilized following weeks of fluctuations driven by supply concerns and demand uncertainty. Coordinated production adjustments and steady consumption patterns have helped restore balance in energy markets. Analysts remain cautious, citing geopolitical risks and potential changes in global demand.",
+      "pubDate": "2025-01-01 11:00:00",
+      "image_url": "https://picsum.photos/id/1045/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_006",
+      "title": "Startups attract increased venture capital funding",
+      "description": "Investors show renewed interest in innovative startups.",
+      "content": "Venture capital funding activity picked up as investors backed startups focused on technology, healthcare, and sustainability. Analysts noted that improved market conditions and innovation-driven growth have renewed investor confidence. Startups with scalable business models and strong leadership teams attracted the most attention.",
+      "pubDate": "2025-01-01 11:30:00",
+      "image_url": "https://picsum.photos/id/1055/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_007",
+      "title": "Manufacturing sector sees steady growth amid automation",
+      "description": "Factories adopt automation to improve productivity.",
+      "content": "Manufacturers are increasingly investing in automation technologies to improve efficiency and reduce operational costs. Robotics and smart manufacturing solutions have helped companies maintain production levels while addressing labor shortages. Experts believe automation will remain a key driver of growth in the manufacturing sector.",
+      "pubDate": "2025-01-01 12:00:00",
+      "image_url": "https://picsum.photos/id/1065/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_008",
+      "title": "E-commerce platforms expand global reach for retailers",
+      "description": "Online shopping continues to reshape consumer behavior.",
+      "content": "E-commerce platforms have enabled retailers to reach global audiences and diversify revenue streams. Improved logistics, digital payments, and customer experience tools have accelerated online shopping adoption. Industry experts predict continued growth in e-commerce as consumers seek convenience and variety.",
+      "pubDate": "2025-01-01 12:30:00",
+      "image_url": "https://picsum.photos/id/1075/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_009",
+      "title": "Financial institutions accelerate digital transformation",
+      "description": "Banks invest in digital services to enhance customer experience.",
+      "content": "Banks and financial institutions are rapidly adopting digital platforms to improve customer engagement and operational efficiency. Mobile banking, AI-driven analytics, and cybersecurity investments have become top priorities. Experts believe digital transformation will define the future of financial services.",
+      "pubDate": "2025-01-01 13:00:00",
+      "image_url": "https://picsum.photos/id/1085/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_010",
+      "title": "Global trade shows signs of recovery amid policy reforms",
+      "description": "Improved trade policies support economic growth.",
+      "content": "Global trade activity showed signs of recovery as countries implemented policy reforms aimed at reducing barriers. Improved supply chain coordination and increased demand contributed to higher trade volumes. Analysts expect gradual improvement as economic conditions stabilize.",
+      "pubDate": "2025-01-01 13:30:00",
+      "image_url": "https://picsum.photos/id/1095/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_011",
+      "title": "Corporate sustainability initiatives gain momentum",
+      "description": "Businesses prioritize environmental and social responsibility.",
+      "content": "Companies across industries are adopting sustainability initiatives to reduce environmental impact and meet regulatory requirements. Investments in renewable energy, waste reduction, and ethical sourcing have increased. Experts note that sustainability efforts also enhance brand reputation and customer trust.",
+      "pubDate": "2025-01-01 14:00:00",
+      "image_url": "https://picsum.photos/id/1105/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_012",
+      "title": "Logistics firms invest in technology to improve efficiency",
+      "description": "Advanced tracking systems enhance supply chain operations.",
+      "content": "Logistics companies are adopting digital tracking systems and predictive analytics to improve supply chain efficiency. Real-time data insights help reduce delays and optimize delivery routes. Industry leaders believe technology-driven logistics will play a critical role in global commerce.",
+      "pubDate": "2025-01-01 14:30:00",
+      "image_url": "https://picsum.photos/id/1115/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_013",
+      "title": "Fintech startups reshape financial services landscape",
+      "description": "Innovative fintech solutions gain widespread adoption.",
+      "content": "Fintech startups are transforming financial services by offering digital payments, lending platforms, and personalized financial products. Increased consumer demand for convenience and transparency has fueled fintech growth. Experts expect continued innovation in the sector.",
+      "pubDate": "2025-01-01 15:00:00",
+      "image_url": "https://picsum.photos/id/1125/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_014",
+      "title": "Real estate markets adjust to changing work patterns",
+      "description": "Hybrid work influences commercial real estate demand.",
+      "content": "Real estate markets are adapting to new work patterns as companies adopt hybrid and remote models. Demand for flexible office spaces has increased, while traditional office leasing has slowed. Analysts predict long-term adjustments in urban commercial real estate trends.",
+      "pubDate": "2025-01-01 15:30:00",
+      "image_url": "https://picsum.photos/id/1135/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_015",
+      "title": "Consumer spending shows resilience amid economic uncertainty",
+      "description": "Spending remains steady despite inflation concerns.",
+      "content": "Consumer spending remained resilient as households adjusted budgets and prioritized essential purchases. Retail sales data indicated stable demand across key categories. Economists suggest that labor market strength continues to support consumer confidence.",
+      "pubDate": "2025-01-01 16:00:00",
+      "image_url": "https://picsum.photos/id/1145/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_016",
+      "title": "Energy companies invest in renewable power projects",
+      "description": "Renewable energy gains traction among energy firms.",
+      "content": "Energy companies are increasing investments in renewable power projects as part of long-term sustainability strategies. Solar and wind projects have attracted significant funding, driven by policy incentives and rising demand for clean energy. Experts expect renewable energy capacity to expand steadily.",
+      "pubDate": "2025-01-01 16:30:00",
+      "image_url": "https://picsum.photos/id/1155/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_017",
+      "title": "Corporate mergers and acquisitions activity increases",
+      "description": "Companies pursue strategic acquisitions to drive growth.",
+      "content": "Mergers and acquisitions activity increased as companies sought strategic partnerships and market expansion. Favorable financing conditions and strong balance sheets supported deal-making. Analysts anticipate continued M&A activity in select industries.",
+      "pubDate": "2025-01-01 17:00:00",
+      "image_url": "https://picsum.photos/id/1165/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_018",
+      "title": "Global airlines report improved financial performance",
+      "description": "Air travel demand supports airline recovery.",
+      "content": "Airlines reported improved financial performance as travel demand rebounded across regions. Increased passenger traffic and cost optimization measures contributed to better results. Industry experts remain optimistic about gradual recovery despite operational challenges.",
+      "pubDate": "2025-01-01 17:30:00",
+      "image_url": "https://picsum.photos/id/1175/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_019",
+      "title": "Digital marketing strategies evolve with AI adoption",
+      "description": "AI tools enhance marketing efficiency and targeting.",
+      "content": "Businesses are leveraging artificial intelligence to improve digital marketing strategies and customer targeting. AI-powered analytics help optimize campaigns and measure performance. Marketing experts believe AI will continue to transform brand engagement strategies.",
+      "pubDate": "2025-01-01 18:00:00",
+      "image_url": "https://picsum.photos/id/1185/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_020",
+      "title": "Global economic outlook remains cautiously optimistic",
+      "description": "Economists predict moderate growth in coming months.",
+      "content": "Economists maintain a cautiously optimistic outlook for the global economy, citing stable growth prospects and improving business confidence. While risks remain, including geopolitical tensions and inflation pressures, continued policy coordination could support sustained economic expansion.",
+      "pubDate": "2025-01-01 18:30:00",
+      "image_url": "https://picsum.photos/id/1195/600/400",
+      "source_id": "newsio_demo",
+      "category": ["business"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}
 

@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "business_021",
+      "title": "Indian MSMEs adopt digital tools to improve operational efficiency",
+      "description": "Small and medium enterprises increasingly rely on digital platforms for growth.",
+      "content": "Micro, Small, and Medium Enterprises across India are rapidly adopting digital tools to streamline operations, manage finances, and expand market reach. Government initiatives and affordable SaaS platforms have enabled MSMEs to digitize inventory management, customer engagement, and payment systems, improving long-term sustainability.",
+      "pubDate": "2025-01-25 08:45:00",
+      "image_url": "https://picsum.photos/600/400?random=business21",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_022",
+      "title": "Private equity firms increase investments in Indian infrastructure",
+      "description": "Long-term infrastructure projects attract global private equity players.",
+      "content": "Private equity firms are increasing their exposure to Indian infrastructure projects including roads, renewable energy, and logistics parks. Stable policy frameworks and predictable returns have made infrastructure a preferred investment destination for long-term capital.",
+      "pubDate": "2025-01-26 09:30:00",
+      "image_url": "https://picsum.photos/600/400?random=business22",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_023",
+      "title": "Consumer goods companies revise pricing strategies amid inflation",
+      "description": "FMCG brands balance margins with affordability concerns.",
+      "content": "Fast-moving consumer goods companies are revising pricing strategies to manage rising input costs while maintaining affordability. Brands are focusing on smaller pack sizes, optimized supply chains, and selective price hikes to protect market share.",
+      "pubDate": "2025-01-27 10:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business23",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_024",
+      "title": "India’s semiconductor push attracts global technology partners",
+      "description": "Government incentives encourage semiconductor manufacturing investments.",
+      "content": "India’s semiconductor manufacturing initiative is gaining momentum as global technology firms explore partnerships. Policy incentives, skilled talent availability, and growing domestic demand are positioning India as an emerging semiconductor hub.",
+      "pubDate": "2025-01-28 11:00:00",
+      "image_url": "https://picsum.photos/600/400?random=business24",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_025",
+      "title": "Retail chains expand omnichannel strategies to boost sales",
+      "description": "Blending online and offline experiences enhances customer engagement.",
+      "content": "Retail chains are strengthening omnichannel strategies by integrating physical stores with online platforms. Click-and-collect services, personalized offers, and real-time inventory visibility are improving customer experience and boosting sales growth.",
+      "pubDate": "2025-01-29 09:20:00",
+      "image_url": "https://picsum.photos/600/400?random=business25",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_026",
+      "title": "India’s logistics sector benefits from improved highway infrastructure",
+      "description": "Faster transport reduces costs and delivery timelines.",
+      "content": "Investments in national highways and expressways are improving logistics efficiency across India. Reduced transit times and fuel savings are helping logistics providers enhance profitability and service reliability.",
+      "pubDate": "2025-01-30 08:55:00",
+      "image_url": "https://picsum.photos/600/400?random=business26",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_027",
+      "title": "Fintech startups focus on profitability after rapid expansion phase",
+      "description": "Sustainable revenue models gain priority among fintech firms.",
+      "content": "Fintech startups are shifting focus from rapid user acquisition to profitability and operational efficiency. Improved risk management, diversified revenue streams, and regulatory compliance are driving long-term business stability.",
+      "pubDate": "2025-01-31 10:40:00",
+      "image_url": "https://picsum.photos/600/400?random=business27",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_028",
+      "title": "Textile exports gain traction in international markets",
+      "description": "Rising global demand supports Indian textile manufacturers.",
+      "content": "Indian textile exporters are witnessing improved demand from global markets. Competitive pricing, quality improvements, and diversified product lines are strengthening India’s position in international textile trade.",
+      "pubDate": "2025-02-01 09:15:00",
+      "image_url": "https://picsum.photos/600/400?random=business28",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_029",
+      "title": "Corporate bond market deepens as companies seek alternative funding",
+      "description": "Firms diversify financing sources beyond traditional loans.",
+      "content": "The corporate bond market is expanding as companies explore alternative funding options. Improved investor participation and regulatory support are making bonds an attractive financing instrument for large corporations.",
+      "pubDate": "2025-02-02 11:25:00",
+      "image_url": "https://picsum.photos/600/400?random=business29",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_030",
+      "title": "Hospitality sector benefits from rise in domestic tourism",
+      "description": "Increased travel boosts hotel occupancy and revenues.",
+      "content": "The hospitality sector is benefiting from strong domestic tourism demand. Improved connectivity and rising disposable incomes have led to higher hotel occupancy rates across leisure and business destinations.",
+      "pubDate": "2025-02-03 08:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business30",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_031",
+      "title": "Edtech companies refine offerings amid competitive landscape",
+      "description": "Focus shifts toward quality content and learner outcomes.",
+      "content": "Edtech companies are refining product offerings to improve learning outcomes. Emphasis on personalized learning, hybrid models, and measurable performance metrics is shaping the sector’s future growth.",
+      "pubDate": "2025-02-04 09:50:00",
+      "image_url": "https://picsum.photos/600/400?random=business31",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_032",
+      "title": "Warehousing demand increases with growth of quick commerce",
+      "description": "Urban warehouses play a key role in rapid deliveries.",
+      "content": "The rise of quick commerce platforms has increased demand for urban warehousing solutions. Companies are investing in micro-fulfillment centers to ensure faster deliveries and improved customer satisfaction.",
+      "pubDate": "2025-02-05 10:05:00",
+      "image_url": "https://picsum.photos/600/400?random=business32",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_033",
+      "title": "Telecom companies invest heavily in 5G infrastructure",
+      "description": "Network upgrades aim to support next-generation services.",
+      "content": "Telecom operators are investing significantly in 5G infrastructure to enhance network coverage and performance. Improved connectivity is expected to enable new use cases across industries including healthcare and manufacturing.",
+      "pubDate": "2025-02-06 08:20:00",
+      "image_url": "https://picsum.photos/600/400?random=business33",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_034",
+      "title": "Pharma R&D spending rises to support innovation pipeline",
+      "description": "Drug development efforts gain momentum.",
+      "content": "Pharmaceutical companies are increasing R&D spending to strengthen innovation pipelines. Focus areas include specialty drugs, biologics, and advanced therapies aimed at global markets.",
+      "pubDate": "2025-02-07 09:45:00",
+      "image_url": "https://picsum.photos/600/400?random=business34",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_035",
+      "title": "Corporate sustainability reporting gains importance",
+      "description": "ESG disclosures become a strategic priority for firms.",
+      "content": "Environmental, Social, and Governance reporting is becoming a strategic priority for companies. Transparent sustainability disclosures are helping firms attract responsible investors and enhance brand credibility.",
+      "pubDate": "2025-02-08 11:30:00",
+      "image_url": "https://picsum.photos/600/400?random=business35",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_036",
+      "title": "Startup accelerators support early-stage innovation",
+      "description": "Mentorship and funding fuel entrepreneurial growth.",
+      "content": "Startup accelerators are playing a crucial role in supporting early-stage innovation by providing mentorship, funding access, and industry connections. These programs are helping founders refine business models and scale operations.",
+      "pubDate": "2025-02-09 08:40:00",
+      "image_url": "https://picsum.photos/600/400?random=business36",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_037",
+      "title": "Insurance sector adopts data analytics for risk assessment",
+      "description": "Advanced analytics improve underwriting accuracy.",
+      "content": "Insurance companies are increasingly using data analytics to enhance risk assessment and underwriting accuracy. Digital tools enable faster claims processing and improved customer experience.",
+      "pubDate": "2025-02-10 09:55:00",
+      "image_url": "https://picsum.photos/600/400?random=business37",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_038",
+      "title": "Agribusiness firms leverage technology to improve productivity",
+      "description": "Digital solutions support modern farming practices.",
+      "content": "Agribusiness companies are leveraging technology such as IoT and data analytics to improve crop yields and supply chain efficiency. Tech-enabled farming is contributing to higher productivity and sustainability.",
+      "pubDate": "2025-02-11 10:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business38",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_039",
+      "title": "Global consulting firms expand presence in India",
+      "description": "Rising demand for advisory services drives expansion.",
+      "content": "Global consulting firms are expanding their presence in India to meet growing demand for digital transformation and strategic advisory services. India’s skilled talent pool remains a key attraction.",
+      "pubDate": "2025-02-12 11:00:00",
+      "image_url": "https://picsum.photos/600/400?random=business39",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_040",
+      "title": "Capital markets show renewed investor participation",
+      "description": "Retail and institutional investors return to equity markets.",
+      "content": "Capital markets are witnessing renewed participation from both retail and institutional investors. Improved earnings visibility and stable macroeconomic indicators have strengthened market sentiment.",
+      "pubDate": "2025-02-13 09:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business40",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

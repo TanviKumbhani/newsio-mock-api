@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "business_081",
+      "title": "Indian logistics firms invest in automation to improve delivery efficiency",
+      "description": "Automation and AI help logistics companies reduce delays.",
+      "content": "Indian logistics companies are investing heavily in automation technologies such as robotic sorting systems, AI-powered route optimization, and real-time tracking solutions. These advancements are helping firms reduce delivery times, lower operational costs, and meet rising customer expectations in the e-commerce-driven market.",
+      "pubDate": "2025-03-26 09:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business81",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_082",
+      "title": "Mid-sized companies explore IPO opportunities amid favorable market conditions",
+      "description": "Strong investor appetite encourages public listings.",
+      "content": "Several mid-sized companies are exploring initial public offering opportunities as market conditions remain favorable. Improved corporate governance, strong balance sheets, and growing investor confidence are encouraging firms to tap public markets for expansion capital.",
+      "pubDate": "2025-03-27 10:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business82",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_083",
+      "title": "Global supply chain realignment creates opportunities for Indian exporters",
+      "description": "Diversification boosts manufacturing exports.",
+      "content": "Global supply chain realignment is creating new opportunities for Indian exporters. As companies reduce reliance on single manufacturing hubs, Indian manufacturers are benefiting from increased orders across electronics, textiles, and engineering goods sectors.",
+      "pubDate": "2025-03-28 08:50:00",
+      "image_url": "https://picsum.photos/600/400?random=business83",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_084",
+      "title": "Retail investors show growing interest in long-term equity investments",
+      "description": "SIP and equity participation increase steadily.",
+      "content": "Retail investors are increasingly focusing on long-term equity investments through systematic investment plans and diversified portfolios. Financial advisors note improved financial awareness and a shift away from short-term speculative trading.",
+      "pubDate": "2025-03-29 09:40:00",
+      "image_url": "https://picsum.photos/600/400?random=business84",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_085",
+      "title": "Commercial real estate demand rises in key metropolitan areas",
+      "description": "Office space leasing shows steady recovery.",
+      "content": "Commercial real estate demand is rising in major metropolitan areas as companies resume office operations. Leasing activity has picked up across IT parks and business hubs, supported by hybrid work models and business expansion plans.",
+      "pubDate": "2025-03-30 11:15:00",
+      "image_url": "https://picsum.photos/600/400?random=business85",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_086",
+      "title": "Food processing companies expand capacity to meet domestic demand",
+      "description": "Rising consumption fuels capacity expansion.",
+      "content": "Food processing companies are expanding manufacturing capacity to meet rising domestic demand. Investments are focused on cold storage, packaging innovation, and quality control to ensure product safety and efficiency.",
+      "pubDate": "2025-03-31 08:30:00",
+      "image_url": "https://picsum.photos/600/400?random=business86",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_087",
+      "title": "Technology startups prioritize profitability over rapid expansion",
+      "description": "Sustainable growth strategies gain importance.",
+      "content": "Technology startups are shifting focus toward profitability and operational efficiency. Founders are optimizing costs, improving unit economics, and concentrating on core offerings to build sustainable business models.",
+      "pubDate": "2025-04-01 09:55:00",
+      "image_url": "https://picsum.photos/600/400?random=business87",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_088",
+      "title": "Automobile manufacturers invest in electric vehicle charging infrastructure",
+      "description": "EV ecosystem development accelerates.",
+      "content": "Automobile manufacturers are investing in electric vehicle charging infrastructure to support the growing EV market. Partnerships with energy providers and governments are helping expand charging networks nationwide.",
+      "pubDate": "2025-04-02 10:20:00",
+      "image_url": "https://picsum.photos/600/400?random=business88",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_089",
+      "title": "Corporate lending activity improves as credit demand strengthens",
+      "description": "Banks see increased loan disbursements.",
+      "content": "Corporate lending activity is improving as credit demand strengthens across manufacturing and services sectors. Banks report increased loan disbursements supported by healthy balance sheets and improved risk management.",
+      "pubDate": "2025-04-03 08:45:00",
+      "image_url": "https://picsum.photos/600/400?random=business89",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_090",
+      "title": "Media companies focus on subscription-based revenue models",
+      "description": "Digital subscriptions drive stable income.",
+      "content": "Media companies are increasingly focusing on subscription-based revenue models to ensure stable income streams. High-quality content, exclusive access, and personalized recommendations are attracting paying users.",
+      "pubDate": "2025-04-04 09:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business90",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_091",
+      "title": "Renewable power purchase agreements gain popularity among corporates",
+      "description": "Clean energy sourcing reduces costs.",
+      "content": "Corporates are increasingly signing renewable power purchase agreements to secure clean energy at predictable costs. These agreements support sustainability goals while reducing exposure to energy price volatility.",
+      "pubDate": "2025-04-05 10:00:00",
+      "image_url": "https://picsum.photos/600/400?random=business91",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_092",
+      "title": "Digital marketing spending rises across consumer-focused businesses",
+      "description": "Online advertising budgets expand.",
+      "content": "Consumer-focused businesses are increasing digital marketing spending to reach wider audiences. Investments in social media, influencer partnerships, and data-driven campaigns are improving brand visibility and customer engagement.",
+      "pubDate": "2025-04-06 08:20:00",
+      "image_url": "https://picsum.photos/600/400?random=business92",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_093",
+      "title": "Warehousing demand grows with expansion of quick commerce platforms",
+      "description": "Urban fulfillment centers expand rapidly.",
+      "content": "The rise of quick commerce platforms is driving strong demand for urban warehousing. Companies are setting up micro-fulfillment centers closer to consumers to enable faster deliveries and optimize inventory management.",
+      "pubDate": "2025-04-07 09:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business93",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_094",
+      "title": "Industrial automation adoption accelerates across manufacturing units",
+      "description": "Smart factories improve productivity.",
+      "content": "Manufacturing units are accelerating the adoption of industrial automation technologies. Smart factory solutions including robotics and IoT are improving productivity, quality control, and operational safety.",
+      "pubDate": "2025-04-08 11:30:00",
+      "image_url": "https://picsum.photos/600/400?random=business94",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_095",
+      "title": "Healthcare providers expand telemedicine services nationwide",
+      "description": "Digital healthcare improves access.",
+      "content": "Healthcare providers are expanding telemedicine services to improve access to medical consultations. Enhanced digital platforms and regulatory support are enabling wider adoption across urban and rural regions.",
+      "pubDate": "2025-04-09 08:55:00",
+      "image_url": "https://picsum.photos/600/400?random=business95",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_096",
+      "title": "Corporate bond market witnesses increased participation from investors",
+      "description": "Debt instruments attract steady interest.",
+      "content": "The corporate bond market is witnessing increased participation from institutional and retail investors. Stable yields and improved credit ratings are making debt instruments attractive investment options.",
+      "pubDate": "2025-04-10 09:40:00",
+      "image_url": "https://picsum.photos/600/400?random=business96",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_097",
+      "title": "Luxury goods market expands driven by rising disposable incomes",
+      "description": "Premium brands see steady demand.",
+      "content": "The luxury goods market is expanding as rising disposable incomes and aspirational spending fuel demand. Premium brands are expanding retail presence and enhancing digital engagement strategies.",
+      "pubDate": "2025-04-11 10:15:00",
+      "image_url": "https://picsum.photos/600/400?random=business97",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_098",
+      "title": "Green financing initiatives support sustainable business practices",
+      "description": "ESG-focused funding gains traction.",
+      "content": "Green financing initiatives are supporting sustainable business practices by offering favorable funding terms. ESG-focused investments are gaining traction among investors and financial institutions alike.",
+      "pubDate": "2025-04-12 08:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business98",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_099",
+      "title": "Cross-border e-commerce opens new revenue streams for SMEs",
+      "description": "Global marketplaces enable international sales.",
+      "content": "Small and medium enterprises are leveraging cross-border e-commerce platforms to access international markets. Improved logistics, digital payments, and regulatory support are enabling global expansion.",
+      "pubDate": "2025-04-13 09:25:00",
+      "image_url": "https://picsum.photos/600/400?random=business99",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_100",
+      "title": "Business confidence improves as economic outlook stabilizes",
+      "description": "Optimism supports long-term investment plans.",
+      "content": "Business confidence is improving as the economic outlook stabilizes. Companies are resuming long-term investment plans, focusing on innovation, capacity expansion, and workforce development.",
+      "pubDate": "2025-04-14 11:00:00",
+      "image_url": "https://picsum.photos/600/400?random=business100",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

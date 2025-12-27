@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "entertainment_041",
+      "title": "Behind-the-scenes documentaries gain popularity among movie fans",
+      "description": "Audiences want to see how films are made.",
+      "content": "Behind-the-scenes documentaries are gaining popularity as audiences become increasingly curious about the filmmaking process. These documentaries showcase casting decisions, set design challenges, and creative conflicts, offering fans a deeper connection with their favorite films.",
+      "pubDate": "2025-03-13 09:10:00",
+      "image_url": "https://picsum.photos/600/400?ent41",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_042",
+      "title": "Rise of independent music labels reshapes entertainment industry",
+      "description": "Artists gain more creative freedom.",
+      "content": "Independent music labels are reshaping the entertainment industry by giving artists greater creative control. Musicians are increasingly choosing independent releases over traditional contracts, allowing them to experiment with unique sounds and direct fan engagement.",
+      "pubDate": "2025-03-14 10:00:00",
+      "image_url": "https://picsum.photos/600/400?ent42",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_043",
+      "title": "Film critics highlight growing importance of screenplay writing",
+      "description": "Strong narratives drive long-term success.",
+      "content": "Film critics are highlighting the growing importance of strong screenplay writing in modern cinema. Well-structured narratives and realistic dialogue are now seen as key factors for both critical acclaim and audience retention.",
+      "pubDate": "2025-03-15 08:45:00",
+      "image_url": "https://picsum.photos/600/400?ent43",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_044",
+      "title": "Audience demand increases for multilingual movie releases",
+      "description": "Simultaneous language releases expand reach.",
+      "content": "Audience demand for multilingual movie releases is increasing rapidly. Simultaneous releases in multiple languages help films reach wider audiences and reduce piracy while improving box office performance.",
+      "pubDate": "2025-03-16 11:20:00",
+      "image_url": "https://picsum.photos/600/400?ent44",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_045",
+      "title": "Animated films attract adult audiences alongside children",
+      "description": "Story depth expands viewer base.",
+      "content": "Animated films are no longer limited to children, as adult audiences increasingly appreciate layered storytelling, humor, and emotional depth. Studios are investing more in animation projects targeting diverse age groups.",
+      "pubDate": "2025-03-17 09:30:00",
+      "image_url": "https://picsum.photos/600/400?ent45",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_046",
+      "title": "Music concerts return strongly with improved event experiences",
+      "description": "Live performances draw massive crowds.",
+      "content": "Music concerts are making a strong comeback with enhanced event experiences, better crowd management, and advanced sound systems. Fans value the energy of live performances, driving high ticket demand.",
+      "pubDate": "2025-03-18 10:15:00",
+      "image_url": "https://picsum.photos/600/400?ent46",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_047",
+      "title": "Casting directors adopt data-driven talent selection methods",
+      "description": "Analytics influence casting decisions.",
+      "content": "Casting directors are adopting data-driven methods by analyzing audience engagement metrics and social media presence. This approach helps identify emerging talent and predict audience appeal more accurately.",
+      "pubDate": "2025-03-19 08:20:00",
+      "image_url": "https://picsum.photos/600/400?ent47",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_048",
+      "title": "Film locations become popular tourist destinations",
+      "description": "Cinema-driven tourism grows worldwide.",
+      "content": "Film locations featured in popular movies and series are becoming major tourist attractions. Governments and tourism boards collaborate with filmmakers to promote regional culture and local economies.",
+      "pubDate": "2025-03-20 09:50:00",
+      "image_url": "https://picsum.photos/600/400?ent48",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_049",
+      "title": "Film editing techniques evolve with AI-powered tools",
+      "description": "Post-production becomes faster.",
+      "content": "AI-powered editing tools are transforming post-production workflows. Automated scene detection, color correction, and sound balancing reduce turnaround time while maintaining creative control.",
+      "pubDate": "2025-03-21 11:10:00",
+      "image_url": "https://picsum.photos/600/400?ent49",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_050",
+      "title": "Streaming platforms experiment with interactive content formats",
+      "description": "Viewers influence story outcomes.",
+      "content": "Streaming platforms are experimenting with interactive content formats that allow viewers to influence story outcomes. This engagement-driven model increases replay value and audience involvement.",
+      "pubDate": "2025-03-22 08:40:00",
+      "image_url": "https://picsum.photos/600/400?ent50",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_051",
+      "title": "Film critics emphasize importance of realistic character arcs",
+      "description": "Audience connects with authenticity.",
+      "content": "Film critics emphasize that realistic character arcs are crucial for audience connection. Stories grounded in emotional realism tend to perform better across both theatrical and streaming platforms.",
+      "pubDate": "2025-03-23 09:15:00",
+      "image_url": "https://picsum.photos/600/400?ent51",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_052",
+      "title": "Digital makeup and VFX reduce production time significantly",
+      "description": "Technology transforms visual effects.",
+      "content": "Digital makeup and advanced VFX tools are reducing production timelines. Filmmakers can now achieve complex visual transformations with fewer reshoots and lower costs.",
+      "pubDate": "2025-03-24 10:05:00",
+      "image_url": "https://picsum.photos/600/400?ent52",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_053",
+      "title": "Audience engagement rises through exclusive behind-the-scenes clips",
+      "description": "Short content boosts promotions.",
+      "content": "Exclusive behind-the-scenes clips shared on social media platforms are boosting audience engagement. Fans appreciate authentic glimpses into the creative process, strengthening loyalty.",
+      "pubDate": "2025-03-25 08:55:00",
+      "image_url": "https://picsum.photos/600/400?ent53",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_054",
+      "title": "Film festivals focus more on emerging digital creators",
+      "description": "New talent gains recognition.",
+      "content": "Film festivals are increasingly focusing on emerging digital creators. Short-form content creators and independent filmmakers receive greater exposure through dedicated festival categories.",
+      "pubDate": "2025-03-26 11:30:00",
+      "image_url": "https://picsum.photos/600/400?ent54",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_055",
+      "title": "Audience reviews play major role in content discovery",
+      "description": "Word-of-mouth remains powerful.",
+      "content": "Audience reviews across apps and social platforms play a major role in content discovery. Positive word-of-mouth continues to influence viewing decisions more than traditional advertising.",
+      "pubDate": "2025-03-27 09:40:00",
+      "image_url": "https://picsum.photos/600/400?ent55",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_056",
+      "title": "Music collaborations across genres gain mainstream acceptance",
+      "description": "Blending styles attracts diverse listeners.",
+      "content": "Music collaborations across genres are gaining mainstream acceptance. Artists blend traditional and modern sounds to reach broader audiences and experiment creatively.",
+      "pubDate": "2025-03-28 08:30:00",
+      "image_url": "https://picsum.photos/600/400?ent56",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_057",
+      "title": "Film marketing strategies increasingly rely on teaser campaigns",
+      "description": "Pre-release buzz drives success.",
+      "content": "Film marketing strategies increasingly rely on teaser campaigns released months in advance. These campaigns help build anticipation and sustain audience interest before official trailers drop.",
+      "pubDate": "2025-03-29 10:20:00",
+      "image_url": "https://picsum.photos/600/400?ent57",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_058",
+      "title": "Streaming analytics guide future content investments",
+      "description": "Data shapes creative decisions.",
+      "content": "Streaming analytics are guiding future content investments by analyzing viewer behavior, completion rates, and genre preferences. Platforms use insights to greenlight new projects strategically.",
+      "pubDate": "2025-03-30 09:05:00",
+      "image_url": "https://picsum.photos/600/400?ent58",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_059",
+      "title": "Film sound design gains recognition as key storytelling element",
+      "description": "Audio enhances emotional impact.",
+      "content": "Film sound design is gaining recognition as a key storytelling element. Subtle background scores and realistic sound effects enhance emotional impact and viewer immersion.",
+      "pubDate": "2025-03-31 11:00:00",
+      "image_url": "https://picsum.photos/600/400?ent59",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_060",
+      "title": "Entertainment industry adopts hybrid release strategies",
+      "description": "Theater and OTT releases combine.",
+      "content": "The entertainment industry is adopting hybrid release strategies, combining theatrical and OTT releases. This model maximizes audience reach while offering flexibility to viewers.",
+      "pubDate": "2025-04-01 09:45:00",
+      "image_url": "https://picsum.photos/600/400?ent60",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

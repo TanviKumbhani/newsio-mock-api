@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "entertainment_081",
+      "title": "Audience interest grows in character-driven storytelling",
+      "description": "Strong characters define modern entertainment.",
+      "content": "Audiences are increasingly drawn to character-driven storytelling where emotional depth and personal journeys take center stage. Writers and directors focus on relatable characters to build stronger viewer connections.",
+      "pubDate": "2025-04-22 09:10:00",
+      "image_url": "https://picsum.photos/600/400?ent81",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_082",
+      "title": "Streaming analytics help platforms refine content strategy",
+      "description": "Viewer data shapes production decisions.",
+      "content": "Streaming platforms are using advanced analytics to understand viewer behavior and refine content strategies. Data-driven insights help decide genres, episode length, and release schedules.",
+      "pubDate": "2025-04-23 10:00:00",
+      "image_url": "https://picsum.photos/600/400?ent82",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_083",
+      "title": "Independent cinema gains recognition through global festivals",
+      "description": "Indie films reach wider audiences.",
+      "content": "Independent cinema continues to gain recognition through international film festivals. These platforms provide exposure to unique voices and experimental storytelling styles.",
+      "pubDate": "2025-04-24 08:45:00",
+      "image_url": "https://picsum.photos/600/400?ent83",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_084",
+      "title": "Music collaborations increase across genres and cultures",
+      "description": "Artists blend styles creatively.",
+      "content": "Music collaborations across genres and cultures are increasing as artists experiment with diverse sounds. Such collaborations help reach broader audiences and create innovative music trends.",
+      "pubDate": "2025-04-25 11:20:00",
+      "image_url": "https://picsum.photos/600/400?ent84",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_085",
+      "title": "Film studios adopt virtual production techniques",
+      "description": "Technology reshapes filmmaking.",
+      "content": "Virtual production techniques using LED walls and real-time rendering are being widely adopted by film studios. These technologies improve efficiency while expanding creative possibilities.",
+      "pubDate": "2025-04-26 09:30:00",
+      "image_url": "https://picsum.photos/600/400?ent85",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_086",
+      "title": "Celebrity podcasts attract millions of listeners worldwide",
+      "description": "Audio content sees strong engagement.",
+      "content": "Celebrity-hosted podcasts are attracting millions of listeners by offering candid conversations and behind-the-scenes stories. Audio content continues to grow as a popular entertainment format.",
+      "pubDate": "2025-04-27 10:15:00",
+      "image_url": "https://picsum.photos/600/400?ent86",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_087",
+      "title": "Regional film industries expand digital distribution",
+      "description": "Local cinema reaches global viewers.",
+      "content": "Regional film industries are expanding digital distribution to reach international audiences. Subtitles and dubbing have helped regional cinema gain global appreciation.",
+      "pubDate": "2025-04-28 08:20:00",
+      "image_url": "https://picsum.photos/600/400?ent87",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_088",
+      "title": "Film sound design gains importance in immersive storytelling",
+      "description": "Audio enhances cinematic impact.",
+      "content": "Sound design has become a critical element of immersive storytelling. Filmmakers invest in high-quality audio production to enhance emotional and sensory impact.",
+      "pubDate": "2025-04-29 09:50:00",
+      "image_url": "https://picsum.photos/600/400?ent88",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_089",
+      "title": "Streaming platforms revive classic films and shows",
+      "description": "Nostalgia drives viewership.",
+      "content": "Classic films and television shows are finding renewed popularity on streaming platforms. Nostalgia-driven content attracts both older audiences and younger viewers discovering classics.",
+      "pubDate": "2025-04-30 11:10:00",
+      "image_url": "https://picsum.photos/600/400?ent89",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_090",
+      "title": "Film critics highlight rising quality of web series",
+      "description": "Digital storytelling earns praise.",
+      "content": "Film critics note a significant rise in the quality of web series, praising strong scripts, performances, and production values. Digital platforms continue to support creative experimentation.",
+      "pubDate": "2025-05-01 08:40:00",
+      "image_url": "https://picsum.photos/600/400?ent90",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_091",
+      "title": "Film marketing adapts to short-form video platforms",
+      "description": "Reels and shorts boost engagement.",
+      "content": "Film marketing strategies are adapting to short-form video platforms like reels and shorts. Bite-sized promotional content helps reach younger audiences effectively.",
+      "pubDate": "2025-05-02 09:15:00",
+      "image_url": "https://picsum.photos/600/400?ent91",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_092",
+      "title": "Live theater integrates digital effects for modern audiences",
+      "description": "Stage performances evolve.",
+      "content": "Live theater productions are integrating digital effects and projection mapping to appeal to modern audiences. These innovations enhance storytelling while preserving theatrical tradition.",
+      "pubDate": "2025-05-03 10:05:00",
+      "image_url": "https://picsum.photos/600/400?ent92",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_093",
+      "title": "Music documentaries gain popularity on streaming platforms",
+      "description": "Fans explore artists’ journeys.",
+      "content": "Music documentaries are gaining popularity as fans seek deeper insights into artists’ lives and creative processes. Streaming platforms are expanding documentary offerings.",
+      "pubDate": "2025-05-04 08:55:00",
+      "image_url": "https://picsum.photos/600/400?ent93",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_094",
+      "title": "Animation studios explore mature storytelling themes",
+      "description": "Animation expands audience reach.",
+      "content": "Animation studios are exploring mature themes that appeal to adult audiences. Complex narratives and artistic visuals broaden animation’s appeal beyond children.",
+      "pubDate": "2025-05-05 11:30:00",
+      "image_url": "https://picsum.photos/600/400?ent94",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_095",
+      "title": "Film soundtracks influence pop culture trends",
+      "description": "Music shapes audience memory.",
+      "content": "Film soundtracks continue to influence pop culture trends as memorable songs become part of everyday playlists. Music remains a powerful storytelling element.",
+      "pubDate": "2025-05-06 09:40:00",
+      "image_url": "https://picsum.photos/600/400?ent95",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_096",
+      "title": "Streaming platforms test interactive content formats",
+      "description": "Viewers shape story outcomes.",
+      "content": "Interactive content formats allow viewers to influence story outcomes. Streaming platforms are experimenting with such formats to boost engagement and replay value.",
+      "pubDate": "2025-05-07 08:30:00",
+      "image_url": "https://picsum.photos/600/400?ent96",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_097",
+      "title": "Film editors experiment with nonlinear storytelling",
+      "description": "Narrative structures evolve.",
+      "content": "Nonlinear storytelling is gaining popularity as film editors experiment with timelines and perspectives. Such narratives challenge audiences while offering unique viewing experiences.",
+      "pubDate": "2025-05-08 10:20:00",
+      "image_url": "https://picsum.photos/600/400?ent97",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_098",
+      "title": "Music festivals emphasize sustainability initiatives",
+      "description": "Eco-friendly events gain focus.",
+      "content": "Music festivals are emphasizing sustainability through waste reduction, renewable energy use, and eco-conscious partnerships. Fans increasingly support environmentally responsible events.",
+      "pubDate": "2025-05-09 09:05:00",
+      "image_url": "https://picsum.photos/600/400?ent98",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_099",
+      "title": "Digital platforms revive interest in radio-style storytelling",
+      "description": "Audio drama makes comeback.",
+      "content": "Digital platforms are reviving interest in radio-style storytelling through audio dramas and podcasts. Voice-driven narratives offer immersive entertainment experiences.",
+      "pubDate": "2025-05-10 11:00:00",
+      "image_url": "https://picsum.photos/600/400?ent99",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_100",
+      "title": "Entertainment industry adapts to evolving audience expectations",
+      "description": "Innovation drives future growth.",
+      "content": "The entertainment industry continues to adapt to evolving audience expectations by embracing technology, diversity, and innovative storytelling formats. Flexibility remains key to long-term success.",
+      "pubDate": "2025-05-11 09:45:00",
+      "image_url": "https://picsum.photos/600/400?ent100",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

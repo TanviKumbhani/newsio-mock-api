@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "business_061",
+      "title": "Indian enterprises increase spending on cybersecurity solutions",
+      "description": "Rising digital threats drive cybersecurity investments.",
+      "content": "Indian enterprises are significantly increasing their spending on cybersecurity solutions as digital adoption accelerates. Organizations are deploying advanced threat detection systems, zero-trust architectures, and employee awareness programs to safeguard sensitive data and ensure business continuity.",
+      "pubDate": "2025-03-06 09:20:00",
+      "image_url": "https://picsum.photos/600/400?random=business61",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_062",
+      "title": "Retail brands expand omnichannel strategies to boost sales",
+      "description": "Integrated online and offline experiences gain traction.",
+      "content": "Retail brands are strengthening omnichannel strategies by integrating physical stores with digital platforms. Features such as click-and-collect, real-time inventory visibility, and personalized promotions are improving customer engagement and driving sales growth.",
+      "pubDate": "2025-03-07 10:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business62",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_063",
+      "title": "Pharmaceutical companies increase R&D spending for innovation",
+      "description": "New therapies and generics drive research investments.",
+      "content": "Pharmaceutical companies are increasing research and development spending to accelerate innovation. Investments are focused on developing new therapies, complex generics, and improving manufacturing processes to meet global regulatory standards.",
+      "pubDate": "2025-03-08 08:45:00",
+      "image_url": "https://picsum.photos/600/400?random=business63",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_064",
+      "title": "Telecom operators roll out advanced 5G enterprise solutions",
+      "description": "5G adoption expands beyond consumer services.",
+      "content": "Telecom operators are rolling out advanced 5G solutions tailored for enterprise customers. Use cases include smart manufacturing, remote healthcare, logistics optimization, and real-time analytics, enabling improved operational efficiency.",
+      "pubDate": "2025-03-09 11:00:00",
+      "image_url": "https://picsum.photos/600/400?random=business64",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_065",
+      "title": "Financial institutions leverage AI for customer service automation",
+      "description": "AI-driven chatbots improve response times.",
+      "content": "Banks and financial institutions are increasingly adopting AI-driven chatbots and virtual assistants to automate customer service. These tools improve response times, reduce operational costs, and provide personalized financial insights to customers.",
+      "pubDate": "2025-03-10 09:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business65",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_066",
+      "title": "Exporters diversify markets to reduce dependency risks",
+      "description": "New trade routes strengthen export resilience.",
+      "content": "Export-oriented companies are diversifying their markets to reduce dependency on a single region. By exploring new trade routes and forging partnerships in emerging economies, exporters are improving resilience against global uncertainties.",
+      "pubDate": "2025-03-11 08:20:00",
+      "image_url": "https://picsum.photos/600/400?random=business66",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_067",
+      "title": "Hospitality sector benefits from increased corporate events",
+      "description": "Business travel and conferences drive occupancy.",
+      "content": "The hospitality sector is benefiting from increased corporate events, conferences, and exhibitions. Hotels are witnessing higher occupancy rates and improved average room revenues as business travel continues to recover.",
+      "pubDate": "2025-03-12 10:40:00",
+      "image_url": "https://picsum.photos/600/400?random=business67",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_068",
+      "title": "Education technology firms scale up digital learning platforms",
+      "description": "Online education demand remains steady.",
+      "content": "Education technology companies are scaling up digital learning platforms to cater to growing demand for online education. Enhanced content quality, adaptive learning tools, and certification programs are improving learning outcomes.",
+      "pubDate": "2025-03-13 09:15:00",
+      "image_url": "https://picsum.photos/600/400?random=business68",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_069",
+      "title": "Infrastructure projects gain momentum with public-private partnerships",
+      "description": "PPP model accelerates development.",
+      "content": "Infrastructure development is gaining momentum through public-private partnerships. Projects in transportation, energy, and urban development are attracting private investment, improving execution efficiency and economic impact.",
+      "pubDate": "2025-03-14 11:25:00",
+      "image_url": "https://picsum.photos/600/400?random=business69",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_070",
+      "title": "Consumer goods companies adopt sustainable packaging solutions",
+      "description": "Eco-friendly packaging reduces environmental impact.",
+      "content": "Consumer goods companies are adopting sustainable packaging solutions such as recyclable materials and reduced plastic usage. These initiatives align with environmental regulations and evolving consumer preferences for eco-friendly products.",
+      "pubDate": "2025-03-15 08:55:00",
+      "image_url": "https://picsum.photos/600/400?random=business70",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_071",
+      "title": "Capital markets remain stable amid global economic uncertainty",
+      "description": "Investor sentiment stays cautious but optimistic.",
+      "content": "Capital markets have remained relatively stable despite global economic uncertainty. Domestic institutional investors continue to provide support, while retail participation remains strong in select segments.",
+      "pubDate": "2025-03-16 09:40:00",
+      "image_url": "https://picsum.photos/600/400?random=business71",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_072",
+      "title": "Agri-business firms invest in precision farming technologies",
+      "description": "Technology improves crop productivity.",
+      "content": "Agri-business companies are investing in precision farming technologies including drones, sensors, and data analytics. These solutions help optimize resource usage, improve yields, and support sustainable agriculture practices.",
+      "pubDate": "2025-03-17 10:05:00",
+      "image_url": "https://picsum.photos/600/400?random=business72",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_073",
+      "title": "Consulting firms see increased demand for digital transformation services",
+      "description": "Advisory demand remains strong.",
+      "content": "Consulting firms are experiencing increased demand for digital transformation services as organizations modernize operations. Expertise in cloud migration, process automation, and change management is driving growth.",
+      "pubDate": "2025-03-18 08:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business73",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_074",
+      "title": "Insurance companies expand digital policy distribution",
+      "description": "Online channels improve customer reach.",
+      "content": "Insurance companies are expanding digital policy distribution channels to improve customer reach and convenience. Simplified onboarding, digital claims processing, and personalized offerings are enhancing customer experience.",
+      "pubDate": "2025-03-19 11:50:00",
+      "image_url": "https://picsum.photos/600/400?random=business74",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_075",
+      "title": "Energy companies invest in grid modernization projects",
+      "description": "Smart grids enhance reliability.",
+      "content": "Energy companies are investing in grid modernization projects including smart meters and advanced monitoring systems. These initiatives improve energy efficiency, reduce outages, and support renewable energy integration.",
+      "pubDate": "2025-03-20 09:30:00",
+      "image_url": "https://picsum.photos/600/400?random=business75",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_076",
+      "title": "Digital payment platforms introduce enhanced fraud detection",
+      "description": "Advanced security protects users.",
+      "content": "Digital payment platforms are introducing enhanced fraud detection mechanisms using AI and machine learning. These systems analyze transaction patterns in real time to prevent unauthorized activities and protect users.",
+      "pubDate": "2025-03-21 08:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business76",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_077",
+      "title": "Aviation sector improves profitability with cost optimization",
+      "description": "Operational efficiencies support margins.",
+      "content": "Airlines are focusing on cost optimization measures such as fleet modernization, route rationalization, and fuel efficiency initiatives. These efforts are helping improve profitability despite fluctuating fuel prices.",
+      "pubDate": "2025-03-22 10:25:00",
+      "image_url": "https://picsum.photos/600/400?random=business77",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_078",
+      "title": "Small businesses adopt digital tools to enhance competitiveness",
+      "description": "Digital adoption supports growth.",
+      "content": "Small businesses are increasingly adopting digital tools for accounting, marketing, and customer management. Improved access to technology is enhancing competitiveness and supporting sustainable growth.",
+      "pubDate": "2025-03-23 09:45:00",
+      "image_url": "https://picsum.photos/600/400?random=business78",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_079",
+      "title": "Corporate wellness programs gain importance among employers",
+      "description": "Employee well-being boosts productivity.",
+      "content": "Corporate wellness programs are gaining importance as employers focus on employee well-being. Initiatives include mental health support, fitness programs, and flexible work arrangements, contributing to higher productivity.",
+      "pubDate": "2025-03-24 11:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business79",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_080",
+      "title": "Corporate social responsibility initiatives strengthen brand trust",
+      "description": "CSR programs enhance long-term reputation.",
+      "content": "Corporate social responsibility initiatives are strengthening brand trust and stakeholder relationships. Companies are focusing on education, sustainability, and community development programs to create long-term social impact.",
+      "pubDate": "2025-03-25 08:50:00",
+      "image_url": "https://picsum.photos/600/400?random=business80",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "5"
+}

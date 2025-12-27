@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "business_041",
+      "title": "Indian startups attract strong angel investment in early 2025",
+      "description": "Early-stage funding activity shows positive momentum.",
+      "content": "Angel investors have shown renewed interest in Indian startups during early 2025, backing founders with strong execution capabilities and clear revenue pathways. Sectors such as SaaS, fintech, healthtech, and climate technology are seeing increased early-stage funding activity, providing momentum to the startup ecosystem.",
+      "pubDate": "2025-02-14 09:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business41",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_042",
+      "title": "Manufacturing firms adopt automation to improve production efficiency",
+      "description": "Automation investments increase across factories.",
+      "content": "Manufacturing companies are increasingly adopting automation and robotics to enhance productivity and reduce operational risks. Smart factories equipped with sensors, AI-driven monitoring systems, and predictive maintenance tools are enabling better quality control and cost optimization.",
+      "pubDate": "2025-02-15 10:25:00",
+      "image_url": "https://picsum.photos/600/400?random=business42",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_043",
+      "title": "Corporate hiring shows steady growth across key sectors",
+      "description": "Demand rises for skilled professionals.",
+      "content": "Corporate hiring has shown steady growth across technology, finance, manufacturing, and consulting sectors. Companies are prioritizing candidates with digital skills, domain expertise, and adaptability to evolving business environments.",
+      "pubDate": "2025-02-16 08:50:00",
+      "image_url": "https://picsum.photos/600/400?random=business43",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_044",
+      "title": "Renewable energy companies scale up capacity amid rising demand",
+      "description": "Clean energy investments gain pace.",
+      "content": "Renewable energy companies are expanding capacity to meet growing demand from industries and consumers. Solar and wind projects continue to attract domestic and international investors, driven by sustainability goals and supportive government policies.",
+      "pubDate": "2025-02-17 09:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business44",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_045",
+      "title": "E-commerce platforms strengthen seller support programs",
+      "description": "Training and logistics support boost seller performance.",
+      "content": "E-commerce platforms are strengthening seller support initiatives by offering training, analytics tools, and improved logistics services. These programs aim to enhance seller success and expand product diversity on online marketplaces.",
+      "pubDate": "2025-02-18 11:05:00",
+      "image_url": "https://picsum.photos/600/400?random=business45",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_046",
+      "title": "Banking sector improves asset quality with lower NPAs",
+      "description": "Stronger balance sheets boost investor confidence.",
+      "content": "Banks are reporting improved asset quality with a decline in non-performing assets. Better credit underwriting, recoveries, and stable economic conditions have strengthened balance sheets and improved profitability.",
+      "pubDate": "2025-02-19 08:40:00",
+      "image_url": "https://picsum.photos/600/400?random=business46",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_047",
+      "title": "Global supply chains stabilize after recent disruptions",
+      "description": "Improved logistics reduce uncertainty for businesses.",
+      "content": "Global supply chains are showing signs of stabilization as shipping timelines improve and inventory levels normalize. Businesses are benefiting from reduced logistics costs and improved planning visibility.",
+      "pubDate": "2025-02-20 09:55:00",
+      "image_url": "https://picsum.photos/600/400?random=business47",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_048",
+      "title": "Real estate developers focus on mid-income housing projects",
+      "description": "Affordable housing demand remains strong.",
+      "content": "Real estate developers are increasingly focusing on mid-income and affordable housing projects. Stable interest rates and urban migration trends are supporting sustained demand across major cities.",
+      "pubDate": "2025-02-21 10:30:00",
+      "image_url": "https://picsum.photos/600/400?random=business48",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_049",
+      "title": "Corporate travel rebounds as businesses resume in-person meetings",
+      "description": "Business travel demand shows recovery.",
+      "content": "Corporate travel is witnessing a steady rebound as companies resume in-person meetings, conferences, and client engagements. Airlines and hotels are benefiting from increased business travel bookings.",
+      "pubDate": "2025-02-22 08:15:00",
+      "image_url": "https://picsum.photos/600/400?random=business49",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_050",
+      "title": "Technology services firms report strong deal pipelines",
+      "description": "Digital transformation drives client demand.",
+      "content": "Technology services companies are reporting strong deal pipelines driven by enterprise demand for digital transformation. Cloud migration, cybersecurity, and data analytics services remain key growth drivers.",
+      "pubDate": "2025-02-23 11:20:00",
+      "image_url": "https://picsum.photos/600/400?random=business50",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_051",
+      "title": "Consumer finance firms expand lending to underserved segments",
+      "description": "Digital credit solutions widen access.",
+      "content": "Consumer finance companies are expanding digital lending solutions to reach underserved segments. Improved credit assessment models and regulatory oversight are supporting responsible credit growth.",
+      "pubDate": "2025-02-24 09:45:00",
+      "image_url": "https://picsum.photos/600/400?random=business51",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_052",
+      "title": "Food processing industry invests in cold chain infrastructure",
+      "description": "Cold storage expansion reduces wastage.",
+      "content": "Food processing companies are investing in cold chain infrastructure to reduce post-harvest losses and ensure product freshness. These investments are improving supply chain efficiency and supporting export growth.",
+      "pubDate": "2025-02-25 10:10:00",
+      "image_url": "https://picsum.photos/600/400?random=business52",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_053",
+      "title": "Media companies diversify revenue through digital subscriptions",
+      "description": "Subscription models gain popularity.",
+      "content": "Media companies are diversifying revenue streams by strengthening digital subscription offerings. High-quality journalism, exclusive content, and improved user experience are driving subscriber growth.",
+      "pubDate": "2025-02-26 08:55:00",
+      "image_url": "https://picsum.photos/600/400?random=business53",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_054",
+      "title": "Corporate governance standards improve across listed companies",
+      "description": "Transparency enhances investor trust.",
+      "content": "Improved corporate governance practices are enhancing transparency and accountability among listed companies. Stronger board oversight and regulatory compliance are building long-term investor confidence.",
+      "pubDate": "2025-02-27 11:35:00",
+      "image_url": "https://picsum.photos/600/400?random=business54",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_055",
+      "title": "Logistics startups attract venture funding for tech-driven solutions",
+      "description": "Efficiency gains drive investor interest.",
+      "content": "Logistics startups are attracting venture capital funding by offering technology-driven solutions that improve route optimization, warehousing efficiency, and real-time tracking capabilities.",
+      "pubDate": "2025-02-28 09:25:00",
+      "image_url": "https://picsum.photos/600/400?random=business55",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "business_056",
+      "title": "IT hardware manufacturers benefit from enterprise upgrade cycles",
+      "description": "Infrastructure refresh boosts demand.",
+      "content": "IT hardware manufacturers are benefiting from enterprise infrastructure upgrade cycles. Demand for servers, networking equipment, and data storage solutions is supporting revenue growth.",
+      "pubDate": "2025-03-01 10:50:00",
+      "image_url": "https://picsum.photos/600/400?random=business56",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_057",
+      "title": "Automobile companies invest in electric vehicle ecosystems",
+      "description": "EV transition accelerates across the industry.",
+      "content": "Automobile manufacturers are investing heavily in electric vehicle ecosystems including battery production, charging infrastructure, and software platforms. These investments are accelerating the industry’s transition toward sustainable mobility.",
+      "pubDate": "2025-03-02 08:30:00",
+      "image_url": "https://picsum.photos/600/400?random=business57",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_058",
+      "title": "Export-oriented businesses gain from favorable currency movements",
+      "description": "Currency trends support export competitiveness.",
+      "content": "Export-oriented businesses are benefiting from favorable currency movements that improve global competitiveness. Improved margins are enabling companies to reinvest in capacity expansion and innovation.",
+      "pubDate": "2025-03-03 09:40:00",
+      "image_url": "https://picsum.photos/600/400?random=business58",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_059",
+      "title": "HR technology platforms enhance workforce management",
+      "description": "Digital HR solutions gain adoption.",
+      "content": "HR technology platforms are gaining adoption as organizations seek better workforce management, payroll automation, and performance tracking solutions. Data-driven HR practices are improving employee engagement.",
+      "pubDate": "2025-03-04 11:15:00",
+      "image_url": "https://picsum.photos/600/400?random=business59",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    },
+    {
+      "article_id": "business_060",
+      "title": "Professional services firms see stable demand from enterprises",
+      "description": "Advisory and consulting services remain resilient.",
+      "content": "Professional services firms are seeing stable demand from enterprises seeking advisory, compliance, and operational consulting services. Long-term client relationships continue to support consistent revenue streams.",
+      "pubDate": "2025-03-05 09:05:00",
+      "image_url": "https://picsum.photos/600/400?random=business60",
+      "source_id": "newsio_business",
+      "category": ["business"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

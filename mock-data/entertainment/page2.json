@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "entertainment_021",
+      "title": "Biopic films continue to attract strong audience interest",
+      "description": "Real-life stories dominate cinema discussions.",
+      "content": "Biopic films based on real-life personalities continue to draw strong audience interest. Viewers are increasingly drawn to inspirational journeys, behind-the-scenes struggles, and historically significant events portrayed with cinematic depth and emotional resonance.",
+      "pubDate": "2025-02-21 09:10:00",
+      "image_url": "https://picsum.photos/600/400?ent21",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_022",
+      "title": "OTT binge culture reshapes weekend entertainment habits",
+      "description": "Viewers prefer serialized storytelling.",
+      "content": "The rise of OTT binge culture has significantly reshaped weekend entertainment habits. Audiences prefer serialized storytelling that allows immersive viewing, leading platforms to release entire seasons rather than weekly episodes.",
+      "pubDate": "2025-02-22 10:25:00",
+      "image_url": "https://picsum.photos/600/400?ent22",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_023",
+      "title": "Film music albums regain popularity among younger listeners",
+      "description": "Soundtracks trend again on streaming platforms.",
+      "content": "Film music albums are regaining popularity among younger listeners as full soundtracks trend on streaming platforms. Catchy melodies combined with strong visual storytelling help songs gain viral momentum across social media.",
+      "pubDate": "2025-02-23 08:40:00",
+      "image_url": "https://picsum.photos/600/400?ent23",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_024",
+      "title": "Theater artists explore digital platforms to reach wider audiences",
+      "description": "Stage performances go online.",
+      "content": "Theater artists are exploring digital platforms to showcase stage performances online. Recorded plays, live-streamed shows, and virtual workshops are helping performers connect with audiences beyond physical venues.",
+      "pubDate": "2025-02-24 11:05:00",
+      "image_url": "https://picsum.photos/600/400?ent24",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_025",
+      "title": "Celebrity podcasts gain massive listenership across platforms",
+      "description": "Audio storytelling finds new fans.",
+      "content": "Celebrity-hosted podcasts are gaining massive listenership as audiences seek candid conversations and behind-the-scenes insights. Topics range from career journeys to mental health and creative processes.",
+      "pubDate": "2025-02-25 09:50:00",
+      "image_url": "https://picsum.photos/600/400?ent25",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_026",
+      "title": "Retro fashion trends influenced by popular web series",
+      "description": "Costume design impacts youth fashion.",
+      "content": "Retro fashion trends showcased in popular web series are influencing youth fashion choices. Costume design has become a key element in character building and brand collaborations within the entertainment industry.",
+      "pubDate": "2025-02-26 10:30:00",
+      "image_url": "https://picsum.photos/600/400?ent26",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_027",
+      "title": "Voice acting emerges as a strong career path in animation",
+      "description": "Demand rises with animated content.",
+      "content": "Voice acting is emerging as a strong career path due to growing demand for animated films, games, and dubbed international content. Training institutes report increasing enrollments in voice modulation courses.",
+      "pubDate": "2025-02-27 08:20:00",
+      "image_url": "https://picsum.photos/600/400?ent27",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_028",
+      "title": "Film trailers now designed for social media-first audiences",
+      "description": "Short attention spans influence promotion.",
+      "content": "Film trailers are increasingly being designed with a social media-first approach. Short, high-impact teaser cuts help generate buzz and reach mobile-first audiences quickly.",
+      "pubDate": "2025-02-28 09:45:00",
+      "image_url": "https://picsum.photos/600/400?ent28",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_029",
+      "title": "Award shows adapt formats to engage digital audiences",
+      "description": "Live streaming boosts viewership.",
+      "content": "Award shows are adapting their formats to better engage digital audiences through live streaming, interactive voting, and social media integration. These changes help attract younger viewers.",
+      "pubDate": "2025-03-01 11:15:00",
+      "image_url": "https://picsum.photos/600/400?ent29",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_030",
+      "title": "Cinematographers experiment with natural lighting techniques",
+      "description": "Visual storytelling evolves.",
+      "content": "Cinematographers are experimenting with natural lighting techniques to enhance realism in storytelling. This approach adds authenticity and emotional depth to modern films and web series.",
+      "pubDate": "2025-03-02 08:35:00",
+      "image_url": "https://picsum.photos/600/400?ent30",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_031",
+      "title": "Short films gain recognition through international festivals",
+      "description": "Independent creators find global platforms.",
+      "content": "Short films are gaining recognition through international film festivals and digital platforms. Independent creators benefit from lower production costs and increased opportunities for creative expression.",
+      "pubDate": "2025-03-03 09:10:00",
+      "image_url": "https://picsum.photos/600/400?ent31",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_032",
+      "title": "Streaming platforms focus on high-quality subtitles and dubbing",
+      "description": "Localization drives viewer retention.",
+      "content": "Streaming platforms are investing heavily in high-quality subtitles and dubbing to improve accessibility. Accurate localization helps retain viewers and expand global reach for regional content.",
+      "pubDate": "2025-03-04 10:00:00",
+      "image_url": "https://picsum.photos/600/400?ent32",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_033",
+      "title": "Film schools update curriculum to match industry trends",
+      "description": "Students learn modern production skills.",
+      "content": "Film schools are updating their curriculum to align with current industry trends. Courses now include OTT production, digital marketing, and advanced post-production techniques.",
+      "pubDate": "2025-03-05 08:50:00",
+      "image_url": "https://picsum.photos/600/400?ent33",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_034",
+      "title": "Audience interest grows in documentary-style storytelling",
+      "description": "Real narratives gain traction.",
+      "content": "Audience interest in documentary-style storytelling continues to grow. Viewers appreciate factual narratives that explore social, cultural, and environmental issues with depth and honesty.",
+      "pubDate": "2025-03-06 11:20:00",
+      "image_url": "https://picsum.photos/600/400?ent34",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_035",
+      "title": "Film merchandise becomes a major revenue stream",
+      "description": "Fans embrace branded collectibles.",
+      "content": "Film merchandise such as apparel, posters, and collectibles has become a major revenue stream. Fans increasingly seek tangible memorabilia associated with their favorite movies and characters.",
+      "pubDate": "2025-03-07 09:35:00",
+      "image_url": "https://picsum.photos/600/400?ent35",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_036",
+      "title": "Regional film industries report steady growth in investments",
+      "description": "Local cinema gains financial backing.",
+      "content": "Regional film industries are reporting steady growth in investments from private studios and digital platforms. This support enables higher production quality and broader distribution.",
+      "pubDate": "2025-03-08 08:25:00",
+      "image_url": "https://picsum.photos/600/400?ent36",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_037",
+      "title": "Fan communities play key role in movie promotions",
+      "description": "Social buzz drives opening weekend numbers.",
+      "content": "Fan communities play a crucial role in movie promotions by creating online buzz. Social media campaigns and fan-driven events often influence opening weekend box office performance.",
+      "pubDate": "2025-03-09 10:45:00",
+      "image_url": "https://picsum.photos/600/400?ent37",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_038",
+      "title": "Content creators collaborate with filmmakers for promotions",
+      "description": "Digital reach boosts film visibility.",
+      "content": "Content creators are collaborating with filmmakers for movie promotions. Influencer-driven marketing helps films reach niche audiences across various digital platforms.",
+      "pubDate": "2025-03-10 09:15:00",
+      "image_url": "https://picsum.photos/600/400?ent38",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_039",
+      "title": "Streaming subscriptions rise in tier-2 and tier-3 cities",
+      "description": "Affordable plans drive adoption.",
+      "content": "Streaming subscriptions are rising in tier-2 and tier-3 cities due to affordable plans and improved internet connectivity. Regional language content plays a key role in this growth.",
+      "pubDate": "2025-03-11 11:00:00",
+      "image_url": "https://picsum.photos/600/400?ent39",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_040",
+      "title": "Entertainment industry embraces sustainable production practices",
+      "description": "Eco-friendly filmmaking gains attention.",
+      "content": "The entertainment industry is increasingly embracing sustainable production practices. Eco-friendly sets, reduced waste, and energy-efficient equipment are becoming standard across many productions.",
+      "pubDate": "2025-03-12 09:55:00",
+      "image_url": "https://picsum.photos/600/400?ent40",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

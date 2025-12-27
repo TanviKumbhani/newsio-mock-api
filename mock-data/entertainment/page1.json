@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "entertainment_001",
+      "title": "Bollywood films see strong box office recovery after festive releases",
+      "description": "Recent festive releases help revive theatrical revenues.",
+      "content": "Bollywood has witnessed a strong box office recovery following a series of successful festive releases. Audiences are returning to cinemas in large numbers, driven by star power, improved storytelling, and enhanced theatrical experiences. Trade analysts believe this trend signals renewed confidence in the big-screen format.",
+      "pubDate": "2025-02-01 09:00:00",
+      "image_url": "https://picsum.photos/600/400?ent1",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_002",
+      "title": "OTT platforms invest heavily in original Indian content",
+      "description": "Streaming services focus on regional and original storytelling.",
+      "content": "OTT platforms are increasing investments in original Indian content, including regional-language films and series. Industry experts say audiences are responding positively to authentic narratives, leading platforms to collaborate with local creators and filmmakers across the country.",
+      "pubDate": "2025-02-02 10:15:00",
+      "image_url": "https://picsum.photos/600/400?ent2",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_003",
+      "title": "South Indian cinema continues to expand its pan-India audience",
+      "description": "Dubbed releases attract viewers nationwide.",
+      "content": "South Indian cinema continues to attract pan-India audiences with high-quality dubbed releases. Strong scripts, powerful performances, and large-scale production values have helped films transcend language barriers and achieve nationwide success.",
+      "pubDate": "2025-02-03 08:45:00",
+      "image_url": "https://picsum.photos/600/400?ent3",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_004",
+      "title": "Music streaming platforms report surge in independent artists",
+      "description": "Indie musicians gain popularity online.",
+      "content": "Music streaming platforms are witnessing a surge in independent artists gaining mainstream recognition. Social media promotion, digital distribution, and playlist-based discovery are helping musicians reach global audiences without traditional labels.",
+      "pubDate": "2025-02-04 11:30:00",
+      "image_url": "https://picsum.photos/600/400?ent4",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_005",
+      "title": "Reality television shows maintain strong viewer engagement",
+      "description": "Audience interest remains high across formats.",
+      "content": "Reality television continues to maintain strong viewer engagement, driven by relatable content and interactive formats. Talent-based competitions and lifestyle shows remain popular among diverse age groups.",
+      "pubDate": "2025-02-05 09:20:00",
+      "image_url": "https://picsum.photos/600/400?ent5",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_006",
+      "title": "Film festivals provide global exposure to independent filmmakers",
+      "description": "Indie cinema gains international recognition.",
+      "content": "International and domestic film festivals are providing independent filmmakers with valuable exposure. Several low-budget films have received critical acclaim and distribution opportunities after festival screenings.",
+      "pubDate": "2025-02-06 10:40:00",
+      "image_url": "https://picsum.photos/600/400?ent6",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_007",
+      "title": "Celebrity endorsements remain a powerful marketing tool",
+      "description": "Brands leverage star influence.",
+      "content": "Celebrity endorsements continue to play a major role in marketing campaigns. Brands leverage star power to connect emotionally with consumers, particularly through digital and social media platforms.",
+      "pubDate": "2025-02-07 08:10:00",
+      "image_url": "https://picsum.photos/600/400?ent7",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_008",
+      "title": "Animation and VFX industry sees rapid growth in India",
+      "description": "Demand rises from films and gaming.",
+      "content": "India’s animation and VFX industry is experiencing rapid growth, driven by increased demand from films, web series, and gaming. Skilled talent and cost-effective production are attracting global projects.",
+      "pubDate": "2025-02-08 09:55:00",
+      "image_url": "https://picsum.photos/600/400?ent8",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_009",
+      "title": "Live concerts return with high attendance across major cities",
+      "description": "Music events regain popularity.",
+      "content": "Live concerts and music festivals have returned with high attendance across major cities. Fans are eager to experience live performances, contributing to a strong revival of the live entertainment industry.",
+      "pubDate": "2025-02-09 11:15:00",
+      "image_url": "https://picsum.photos/600/400?ent9",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_010",
+      "title": "Script-driven cinema gains appreciation among young audiences",
+      "description": "Content quality becomes key success factor.",
+      "content": "Young audiences are increasingly appreciating script-driven cinema that focuses on strong storytelling. Filmmakers are prioritizing originality and realism over formula-based narratives.",
+      "pubDate": "2025-02-10 08:35:00",
+      "image_url": "https://picsum.photos/600/400?ent10",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_011",
+      "title": "Regional web series attract national viewership",
+      "description": "Subtitled content widens audience base.",
+      "content": "Regional web series are attracting national viewership through subtitles and dubbing. Authentic cultural representation and strong narratives are helping these shows gain popularity across India.",
+      "pubDate": "2025-02-11 09:25:00",
+      "image_url": "https://picsum.photos/600/400?ent11",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_012",
+      "title": "Influencer-led content reshapes digital entertainment trends",
+      "description": "Creators drive audience engagement.",
+      "content": "Influencer-led content is reshaping digital entertainment trends. Short-form videos, podcasts, and interactive live streams are becoming major sources of entertainment for younger audiences.",
+      "pubDate": "2025-02-12 10:50:00",
+      "image_url": "https://picsum.photos/600/400?ent12",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_013",
+      "title": "Cinema chains invest in premium viewing experiences",
+      "description": "Luxury formats attract urban audiences.",
+      "content": "Cinema chains are investing in premium viewing experiences such as IMAX, recliner seating, and advanced sound systems. These upgrades aim to attract urban audiences seeking immersive entertainment.",
+      "pubDate": "2025-02-13 08:30:00",
+      "image_url": "https://picsum.photos/600/400?ent13",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_014",
+      "title": "Classic films return to theaters with remastered versions",
+      "description": "Nostalgia draws moviegoers.",
+      "content": "Remastered versions of classic films are returning to theaters, attracting audiences driven by nostalgia. Improved visuals and sound quality are enhancing the cinematic experience for both old and new viewers.",
+      "pubDate": "2025-02-14 09:40:00",
+      "image_url": "https://picsum.photos/600/400?ent14",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_015",
+      "title": "Children’s content sees increased demand on OTT platforms",
+      "description": "Educational entertainment gains popularity.",
+      "content": "Children’s content is witnessing increased demand on OTT platforms. Parents are seeking educational and entertaining programming, leading to growth in animated and learning-focused shows.",
+      "pubDate": "2025-02-15 11:05:00",
+      "image_url": "https://picsum.photos/600/400?ent15",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "entertainment_016",
+      "title": "Film production resumes smoothly with advanced safety protocols",
+      "description": "Studios adopt efficient workflows.",
+      "content": "Film production has resumed smoothly with studios adopting advanced safety protocols and efficient workflows. Technology-enabled coordination has reduced delays and improved production timelines.",
+      "pubDate": "2025-02-16 08:55:00",
+      "image_url": "https://picsum.photos/600/400?ent16",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_017",
+      "title": "Streaming analytics help platforms refine content strategies",
+      "description": "Data-driven decisions shape entertainment.",
+      "content": "Streaming platforms are using advanced analytics to refine content strategies. Viewer behavior insights help determine genre preferences, episode length, and release schedules.",
+      "pubDate": "2025-02-17 10:10:00",
+      "image_url": "https://picsum.photos/600/400?ent17",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_018",
+      "title": "Regional music gains national attention through digital platforms",
+      "description": "Language barriers continue to fade.",
+      "content": "Regional music is gaining national attention through digital platforms. Viral trends and collaborations are helping artists reach listeners beyond linguistic boundaries.",
+      "pubDate": "2025-02-18 09:30:00",
+      "image_url": "https://picsum.photos/600/400?ent18",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_019",
+      "title": "Film critics highlight growing diversity in storytelling",
+      "description": "New voices gain recognition.",
+      "content": "Film critics are highlighting the growing diversity in storytelling across Indian cinema. Emerging filmmakers are exploring socially relevant themes and unconventional narratives.",
+      "pubDate": "2025-02-19 11:45:00",
+      "image_url": "https://picsum.photos/600/400?ent19",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    },
+    {
+      "article_id": "entertainment_020",
+      "title": "Entertainment industry outlook remains positive for coming quarters",
+      "description": "Balanced growth across formats expected.",
+      "content": "The entertainment industry outlook remains positive as balanced growth is expected across theatrical releases, OTT platforms, and live events. Industry leaders are optimistic about sustained audience engagement.",
+      "pubDate": "2025-02-20 10:00:00",
+      "image_url": "https://picsum.photos/600/400?ent20",
+      "source_id": "newsio_entertainment",
+      "category": ["entertainment"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

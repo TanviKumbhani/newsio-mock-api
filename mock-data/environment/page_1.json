@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "environment_001",
+      "title": "Climate change accelerates extreme weather events worldwide",
+      "description": "Rising temperatures intensify storms and heatwaves.",
+      "content": "Scientists report that climate change is accelerating the frequency and intensity of extreme weather events across the globe. Heatwaves, floods, and cyclones are becoming more severe, affecting millions of people and stressing infrastructure systems.",
+      "pubDate": "2025-01-05 09:15:00",
+      "image_url": "https://picsum.photos/600/400?env1",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_002",
+      "title": "Governments invest heavily in renewable energy projects",
+      "description": "Clean energy receives strong policy support.",
+      "content": "Governments worldwide are increasing investments in renewable energy projects such as solar, wind, and hydropower. These initiatives aim to reduce carbon emissions while creating sustainable economic growth.",
+      "pubDate": "2025-01-06 10:30:00",
+      "image_url": "https://picsum.photos/600/400?env2",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_003",
+      "title": "Urban tree plantation programs improve air quality",
+      "description": "Cities focus on green infrastructure.",
+      "content": "Urban tree plantation initiatives are helping cities combat air pollution and rising temperatures. Trees not only absorb carbon dioxide but also improve public health and urban biodiversity.",
+      "pubDate": "2025-01-07 08:50:00",
+      "image_url": "https://picsum.photos/600/400?env3",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_004",
+      "title": "Plastic waste reduction gains momentum globally",
+      "description": "Single-use plastics face restrictions.",
+      "content": "Countries are implementing stricter regulations on single-use plastics to reduce environmental pollution. Recycling programs and alternative materials are being promoted to protect marine and land ecosystems.",
+      "pubDate": "2025-01-08 11:10:00",
+      "image_url": "https://picsum.photos/600/400?env4",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_005",
+      "title": "Wildlife conservation efforts show positive results",
+      "description": "Protected areas help endangered species.",
+      "content": "Conservationists report encouraging signs as wildlife populations recover in protected habitats. Anti-poaching measures and habitat restoration programs contribute to preserving biodiversity.",
+      "pubDate": "2025-01-09 09:40:00",
+      "image_url": "https://picsum.photos/600/400?env5",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_006",
+      "title": "Ocean cleanup initiatives remove tons of plastic waste",
+      "description": "Technology aids marine conservation.",
+      "content": "Innovative ocean cleanup technologies are removing large quantities of plastic waste from oceans. These efforts help protect marine life and restore fragile ecosystems.",
+      "pubDate": "2025-01-10 10:05:00",
+      "image_url": "https://picsum.photos/600/400?env6",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_007",
+      "title": "Sustainable farming practices improve soil health",
+      "description": "Eco-friendly agriculture gains popularity.",
+      "content": "Farmers are adopting sustainable farming techniques such as crop rotation and organic fertilizers to improve soil health. These practices increase productivity while reducing environmental impact.",
+      "pubDate": "2025-01-11 08:35:00",
+      "image_url": "https://picsum.photos/600/400?env7",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_008",
+      "title": "Glacier melting raises concerns over water security",
+      "description": "Climate impacts freshwater sources.",
+      "content": "Rapid glacier melting threatens freshwater supplies for millions of people. Scientists warn that long-term water security could be compromised if current trends continue.",
+      "pubDate": "2025-01-12 09:25:00",
+      "image_url": "https://picsum.photos/600/400?env8",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_009",
+      "title": "Electric vehicles reduce urban air pollution",
+      "description": "Clean transport adoption increases.",
+      "content": "The adoption of electric vehicles is reducing air pollution levels in major cities. Governments support this transition through subsidies and charging infrastructure development.",
+      "pubDate": "2025-01-13 11:00:00",
+      "image_url": "https://picsum.photos/600/400?env9",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_010",
+      "title": "Rainwater harvesting promoted in water-scarce regions",
+      "description": "Communities adopt conservation methods.",
+      "content": "Rainwater harvesting systems are being promoted in water-scarce regions to improve water availability. Community participation plays a key role in successful implementation.",
+      "pubDate": "2025-01-14 08:45:00",
+      "image_url": "https://picsum.photos/600/400?env10",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_011",
+      "title": "Forest restoration projects expand across continents",
+      "description": "Reforestation combats climate change.",
+      "content": "Large-scale forest restoration projects aim to absorb carbon emissions and restore ecosystems. Reforestation also supports wildlife habitats and local livelihoods.",
+      "pubDate": "2025-01-15 09:10:00",
+      "image_url": "https://picsum.photos/600/400?env11",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_012",
+      "title": "Air quality monitoring technology becomes more accessible",
+      "description": "Real-time data supports public awareness.",
+      "content": "Affordable air quality monitoring devices are helping citizens track pollution levels in real time. Increased awareness encourages community-driven environmental action.",
+      "pubDate": "2025-01-16 10:20:00",
+      "image_url": "https://picsum.photos/600/400?env12",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_013",
+      "title": "Wetland conservation protects natural flood barriers",
+      "description": "Ecosystems reduce disaster risk.",
+      "content": "Wetlands play a crucial role in flood prevention and water purification. Conservation efforts focus on preserving these ecosystems to reduce climate-related disaster risks.",
+      "pubDate": "2025-01-17 08:55:00",
+      "image_url": "https://picsum.photos/600/400?env13",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_014",
+      "title": "Solar energy adoption rises in rural communities",
+      "description": "Clean power reaches remote areas.",
+      "content": "Rural communities are increasingly adopting solar energy to meet electricity needs. Solar power improves energy access while reducing dependence on fossil fuels.",
+      "pubDate": "2025-01-18 11:30:00",
+      "image_url": "https://picsum.photos/600/400?env14",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_015",
+      "title": "Environmental education gains importance in schools",
+      "description": "Students learn sustainability early.",
+      "content": "Schools are integrating environmental education into curricula to raise awareness about sustainability. Early education fosters responsible behavior and long-term environmental stewardship.",
+      "pubDate": "2025-01-19 09:40:00",
+      "image_url": "https://picsum.photos/600/400?env15",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_016",
+      "title": "Carbon offset programs attract corporate participation",
+      "description": "Businesses commit to climate goals.",
+      "content": "Many corporations are participating in carbon offset programs to reduce their environmental footprint. These initiatives support renewable projects and reforestation efforts.",
+      "pubDate": "2025-01-20 08:30:00",
+      "image_url": "https://picsum.photos/600/400?env16",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_017",
+      "title": "Biodiversity loss raises alarms among scientists",
+      "description": "Species extinction risk increases.",
+      "content": "Scientists warn that biodiversity loss is accelerating due to habitat destruction and climate change. Conservation strategies focus on protecting endangered species and ecosystems.",
+      "pubDate": "2025-01-21 10:10:00",
+      "image_url": "https://picsum.photos/600/400?env17",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_018",
+      "title": "Green building standards reduce energy consumption",
+      "description": "Sustainable construction expands.",
+      "content": "Green building standards encourage energy-efficient construction practices. These buildings reduce energy consumption, lower costs, and improve indoor environmental quality.",
+      "pubDate": "2025-01-22 09:05:00",
+      "image_url": "https://picsum.photos/600/400?env18",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_019",
+      "title": "Community clean-up drives promote environmental awareness",
+      "description": "Local action creates visible impact.",
+      "content": "Community-led clean-up drives help reduce litter while promoting environmental awareness. Such initiatives strengthen civic responsibility and local engagement.",
+      "pubDate": "2025-01-23 11:00:00",
+      "image_url": "https://picsum.photos/600/400?env19",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_020",
+      "title": "Global climate summits focus on emission reduction targets",
+      "description": "International cooperation strengthens.",
+      "content": "Global climate summits bring countries together to set emission reduction targets. Collaboration and accountability remain critical to addressing climate change challenges.",
+      "pubDate": "2025-01-24 09:50:00",
+      "image_url": "https://picsum.photos/600/400?env20",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    }
+  ],
+  "nextPage": 2
+}

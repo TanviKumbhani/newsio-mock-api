@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "health_001",
+      "title": "Daily walking improves heart health and mental well-being",
+      "description": "Simple habits show powerful benefits.",
+      "content": "Doctors emphasize that daily walking for at least 30 minutes significantly improves cardiovascular health, reduces stress, and enhances overall mental well-being. Regular movement helps regulate blood pressure, manage weight, and boost mood by releasing endorphins. Health experts recommend walking as one of the easiest and most sustainable forms of exercise for all age groups.",
+      "pubDate": "2025-05-01 08:30:00",
+      "image_url": "https://picsum.photos/600/400?health1",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_002",
+      "title": "Balanced sleep patterns linked to stronger immunity",
+      "description": "Quality sleep supports recovery.",
+      "content": "Medical studies show that consistent and balanced sleep patterns strengthen the immune system and improve the body’s ability to fight infections. Poor sleep is associated with increased stress hormones and reduced immune response. Experts advise maintaining a regular sleep schedule and limiting screen time before bedtime.",
+      "pubDate": "2025-05-02 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health2",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_003",
+      "title": "Hydration plays key role in maintaining energy levels",
+      "description": "Water intake impacts daily performance.",
+      "content": "Proper hydration is essential for maintaining energy levels, improving digestion, and supporting brain function. Health professionals recommend drinking water regularly throughout the day rather than waiting until thirst occurs. Even mild dehydration can lead to fatigue and reduced concentration.",
+      "pubDate": "2025-05-03 08:45:00",
+      "image_url": "https://picsum.photos/600/400?health3",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_004",
+      "title": "Mindfulness practices reduce stress and anxiety",
+      "description": "Mental health gains attention.",
+      "content": "Mindfulness practices such as meditation and deep breathing are increasingly recommended to reduce stress and anxiety. Regular mindfulness helps individuals become more aware of thoughts and emotions, improving emotional regulation and mental clarity.",
+      "pubDate": "2025-05-04 09:20:00",
+      "image_url": "https://picsum.photos/600/400?health4",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_005",
+      "title": "Preventive health checkups encourage early detection",
+      "description": "Routine screening saves lives.",
+      "content": "Doctors stress the importance of preventive health checkups for early detection of chronic diseases. Regular screenings help identify risk factors before symptoms appear, allowing timely treatment and better long-term outcomes.",
+      "pubDate": "2025-05-05 10:00:00",
+      "image_url": "https://picsum.photos/600/400?health5",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_006",
+      "title": "Healthy eating habits support long-term wellness",
+      "description": "Nutrition impacts lifestyle diseases.",
+      "content": "Nutritionists highlight that balanced meals rich in fruits, vegetables, whole grains, and lean proteins support long-term wellness. Reducing processed food intake lowers the risk of lifestyle-related diseases such as diabetes and hypertension.",
+      "pubDate": "2025-05-06 09:35:00",
+      "image_url": "https://picsum.photos/600/400?health6",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_007",
+      "title": "Regular stretching improves flexibility and posture",
+      "description": "Simple routines prevent injury.",
+      "content": "Health experts recommend regular stretching to improve flexibility, posture, and muscle strength. Stretching reduces stiffness, prevents injury, and supports joint health, especially for individuals with sedentary work routines.",
+      "pubDate": "2025-05-07 08:50:00",
+      "image_url": "https://picsum.photos/600/400?health7",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_008",
+      "title": "Mental health awareness reduces social stigma",
+      "description": "Open conversations encourage support.",
+      "content": "Growing mental health awareness is helping reduce social stigma and encouraging individuals to seek professional help. Public campaigns and workplace initiatives are promoting open conversations around emotional well-being.",
+      "pubDate": "2025-05-08 09:15:00",
+      "image_url": "https://picsum.photos/600/400?health8",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_009",
+      "title": "Moderate exercise boosts metabolism naturally",
+      "description": "Consistency matters more than intensity.",
+      "content": "Moderate and consistent exercise boosts metabolism and supports healthy weight management. Fitness experts advise focusing on regular activity rather than extreme workouts to achieve sustainable results.",
+      "pubDate": "2025-05-09 08:40:00",
+      "image_url": "https://picsum.photos/600/400?health9",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_010",
+      "title": "Digital health apps improve patient engagement",
+      "description": "Technology supports healthcare access.",
+      "content": "Digital health applications are improving patient engagement by offering reminders, health tracking, and virtual consultations. These tools empower users to take an active role in managing their health.",
+      "pubDate": "2025-05-10 09:55:00",
+      "image_url": "https://picsum.photos/600/400?health10",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_011",
+      "title": "Stress management improves work-life balance",
+      "description": "Healthy boundaries gain importance.",
+      "content": "Experts emphasize that effective stress management improves work-life balance and reduces burnout. Techniques such as time management, relaxation exercises, and regular breaks support mental resilience.",
+      "pubDate": "2025-05-11 09:20:00",
+      "image_url": "https://picsum.photos/600/400?health11",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_012",
+      "title": "Seasonal illnesses decline with preventive care",
+      "description": "Awareness reduces infection risk.",
+      "content": "Preventive measures such as vaccination, hygiene, and early medical advice help reduce the spread of seasonal illnesses. Public awareness campaigns play a crucial role in community health.",
+      "pubDate": "2025-05-12 08:35:00",
+      "image_url": "https://picsum.photos/600/400?health12",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_013",
+      "title": "Proper posture reduces chronic back pain",
+      "description": "Ergonomics matter daily.",
+      "content": "Maintaining proper posture during work and daily activities reduces chronic back and neck pain. Ergonomic furniture and regular movement breaks support spinal health.",
+      "pubDate": "2025-05-13 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health13",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_014",
+      "title": "Health literacy empowers informed decisions",
+      "description": "Knowledge improves outcomes.",
+      "content": "Health literacy empowers individuals to understand medical information and make informed healthcare decisions. Educational initiatives help bridge gaps in understanding and access.",
+      "pubDate": "2025-05-14 10:00:00",
+      "image_url": "https://picsum.photos/600/400?health14",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_015",
+      "title": "Regular health routines support aging gracefully",
+      "description": "Consistency promotes longevity.",
+      "content": "Doctors state that consistent health routines including exercise, balanced nutrition, and social engagement support graceful aging and improved quality of life.",
+      "pubDate": "2025-05-15 09:45:00",
+      "image_url": "https://picsum.photos/600/400?health15",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_016",
+      "title": "Early morning sunlight improves sleep cycles",
+      "description": "Natural rhythms align.",
+      "content": "Exposure to early morning sunlight helps regulate circadian rhythms, improving sleep quality and mood throughout the day.",
+      "pubDate": "2025-05-16 08:30:00",
+      "image_url": "https://picsum.photos/600/400?health16",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_017",
+      "title": "Social connections support emotional resilience",
+      "description": "Relationships boost well-being.",
+      "content": "Strong social connections support emotional resilience and mental health. Studies show that regular social interaction reduces loneliness and improves overall happiness.",
+      "pubDate": "2025-05-17 09:05:00",
+      "image_url": "https://picsum.photos/600/400?health17",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_018",
+      "title": "Reducing screen time protects eye health",
+      "description": "Digital habits evolve.",
+      "content": "Eye specialists recommend reducing screen time and following the 20-20-20 rule to protect eye health and reduce digital strain.",
+      "pubDate": "2025-05-18 08:55:00",
+      "image_url": "https://picsum.photos/600/400?health18",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_019",
+      "title": "Healthy hydration habits support digestion",
+      "description": "Water intake aids metabolism.",
+      "content": "Adequate hydration supports digestion, nutrient absorption, and metabolic efficiency. Health experts advise drinking water consistently throughout the day.",
+      "pubDate": "2025-05-19 09:40:00",
+      "image_url": "https://picsum.photos/600/400?health19",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_020",
+      "title": "Small lifestyle changes deliver lasting health benefits",
+      "description": "Sustainable habits matter.",
+      "content": "Health professionals agree that small, consistent lifestyle changes such as regular movement, mindful eating, and adequate rest deliver lasting health benefits over time.",
+      "pubDate": "2025-05-20 09:00:00",
+      "image_url": "https://picsum.photos/600/400?health20",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

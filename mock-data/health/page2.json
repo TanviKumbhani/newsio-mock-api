@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "health_021",
+      "title": "Yoga practices improve flexibility and reduce daily stress",
+      "description": "Ancient practices meet modern wellness.",
+      "content": "Health experts highlight that regular yoga practice improves flexibility, balance, and mental clarity. Yoga also reduces stress levels by promoting controlled breathing and mindfulness. Many professionals recommend yoga as a complementary approach to physical fitness and emotional well-being.",
+      "pubDate": "2025-05-21 08:30:00",
+      "image_url": "https://picsum.photos/600/400?health21",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_022",
+      "title": "Routine blood tests help track overall health trends",
+      "description": "Early indicators prevent complications.",
+      "content": "Doctors emphasize the importance of routine blood tests to monitor cholesterol, blood sugar, and vitamin levels. Early detection of irregularities allows timely lifestyle changes and medical intervention, reducing long-term health risks.",
+      "pubDate": "2025-05-22 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health22",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_023",
+      "title": "Protein-rich diets support muscle strength and recovery",
+      "description": "Balanced intake improves fitness outcomes.",
+      "content": "Nutritionists recommend adequate protein intake to support muscle repair, strength, and metabolic health. Lean meats, legumes, dairy, and plant-based proteins play a crucial role in balanced diets for active individuals.",
+      "pubDate": "2025-05-23 08:45:00",
+      "image_url": "https://picsum.photos/600/400?health23",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_024",
+      "title": "Mental wellness programs expand in workplaces",
+      "description": "Employers prioritize employee health.",
+      "content": "Organizations are increasingly introducing mental wellness programs to support employee well-being. These initiatives include counseling services, stress management workshops, and flexible work policies aimed at reducing burnout.",
+      "pubDate": "2025-05-24 09:20:00",
+      "image_url": "https://picsum.photos/600/400?health24",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_025",
+      "title": "Healthy gut linked to improved immunity and digestion",
+      "description": "Microbiome research advances.",
+      "content": "Researchers note that a healthy gut microbiome supports digestion, immunity, and even mental health. Consuming probiotics, fiber-rich foods, and fermented products helps maintain gut balance.",
+      "pubDate": "2025-05-25 10:00:00",
+      "image_url": "https://picsum.photos/600/400?health25",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_026",
+      "title": "Limiting sugar intake reduces lifestyle disease risk",
+      "description": "Small dietary changes matter.",
+      "content": "Health professionals advise limiting added sugar intake to reduce the risk of obesity, diabetes, and heart disease. Reading food labels and choosing natural alternatives can support healthier eating habits.",
+      "pubDate": "2025-05-26 09:35:00",
+      "image_url": "https://picsum.photos/600/400?health26",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_027",
+      "title": "Strength training supports bone density with age",
+      "description": "Resistance exercises gain popularity.",
+      "content": "Doctors highlight that strength training helps maintain bone density and muscle mass, especially as people age. Regular resistance exercises reduce the risk of fractures and improve overall mobility.",
+      "pubDate": "2025-05-27 08:50:00",
+      "image_url": "https://picsum.photos/600/400?health27",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_028",
+      "title": "Digital detox improves focus and sleep quality",
+      "description": "Reducing screen time benefits health.",
+      "content": "Experts suggest that taking regular breaks from digital devices improves focus, sleep quality, and emotional balance. Limiting screen exposure before bedtime helps regulate natural sleep cycles.",
+      "pubDate": "2025-05-28 09:15:00",
+      "image_url": "https://picsum.photos/600/400?health28",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_029",
+      "title": "Seasonal fruits boost nutrient intake naturally",
+      "description": "Fresh produce supports wellness.",
+      "content": "Nutritionists recommend consuming seasonal fruits to boost vitamin and antioxidant intake. Fresh produce supports immunity, digestion, and overall energy levels.",
+      "pubDate": "2025-05-29 08:40:00",
+      "image_url": "https://picsum.photos/600/400?health29",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_030",
+      "title": "Breathing exercises help manage anxiety effectively",
+      "description": "Simple techniques show results.",
+      "content": "Controlled breathing exercises are proven to reduce anxiety and promote relaxation. Health professionals recommend incorporating breathing techniques into daily routines to manage stress levels.",
+      "pubDate": "2025-05-30 09:55:00",
+      "image_url": "https://picsum.photos/600/400?health30",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_031",
+      "title": "Vaccination awareness improves community protection",
+      "description": "Public health initiatives expand.",
+      "content": "Health authorities stress that vaccination awareness programs improve community protection by preventing the spread of infectious diseases. Education and accessibility remain key factors.",
+      "pubDate": "2025-05-31 09:20:00",
+      "image_url": "https://picsum.photos/600/400?health31",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_032",
+      "title": "Balanced meals improve concentration and productivity",
+      "description": "Nutrition supports brain health.",
+      "content": "Balanced meals provide sustained energy and improve concentration throughout the day. Experts advise combining proteins, healthy fats, and complex carbohydrates for optimal brain function.",
+      "pubDate": "2025-06-01 08:35:00",
+      "image_url": "https://picsum.photos/600/400?health32",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_033",
+      "title": "Adequate rest accelerates muscle recovery",
+      "description": "Recovery is essential for fitness.",
+      "content": "Fitness professionals emphasize that adequate rest days are essential for muscle recovery and injury prevention. Overtraining can lead to fatigue and reduced performance.",
+      "pubDate": "2025-06-02 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health33",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_034",
+      "title": "Health tracking devices gain popularity among users",
+      "description": "Wearable tech supports awareness.",
+      "content": "Wearable health devices help users track physical activity, heart rate, and sleep patterns. These insights encourage healthier lifestyle choices and early risk identification.",
+      "pubDate": "2025-06-03 10:00:00",
+      "image_url": "https://picsum.photos/600/400?health34",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_035",
+      "title": "Healthy snacking reduces overeating habits",
+      "description": "Mindful choices improve nutrition.",
+      "content": "Choosing healthy snacks such as nuts, fruits, and yogurt helps maintain energy levels and prevents overeating during meals. Nutritionists advise planning snacks mindfully.",
+      "pubDate": "2025-06-04 09:45:00",
+      "image_url": "https://picsum.photos/600/400?health35",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_036",
+      "title": "Morning routines improve long-term health habits",
+      "description": "Consistency builds discipline.",
+      "content": "Establishing structured morning routines improves discipline, productivity, and overall health. Simple habits like hydration, stretching, and planning set a positive tone for the day.",
+      "pubDate": "2025-06-05 08:30:00",
+      "image_url": "https://picsum.photos/600/400?health36",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_037",
+      "title": "Positive mindset influences physical recovery",
+      "description": "Mental attitude impacts healing.",
+      "content": "Research shows that a positive mindset can influence physical recovery and pain management. Emotional well-being plays a key role in healing processes.",
+      "pubDate": "2025-06-06 09:05:00",
+      "image_url": "https://picsum.photos/600/400?health37",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_038",
+      "title": "Outdoor activities support vitamin D intake",
+      "description": "Sun exposure aids health.",
+      "content": "Moderate outdoor activity helps the body produce vitamin D, essential for bone health and immunity. Health experts recommend safe sun exposure as part of daily routines.",
+      "pubDate": "2025-06-07 08:55:00",
+      "image_url": "https://picsum.photos/600/400?health38",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_039",
+      "title": "Health education programs empower rural communities",
+      "description": "Awareness improves access.",
+      "content": "Health education initiatives in rural areas improve awareness about hygiene, nutrition, and preventive care. These programs help bridge healthcare access gaps.",
+      "pubDate": "2025-06-08 09:40:00",
+      "image_url": "https://picsum.photos/600/400?health39",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_040",
+      "title": "Long-term wellness depends on sustainable habits",
+      "description": "Consistency leads to results.",
+      "content": "Health experts agree that long-term wellness depends on sustainable habits rather than short-term fixes. Balanced routines, mental well-being, and preventive care create lasting health benefits.",
+      "pubDate": "2025-06-09 09:00:00",
+      "image_url": "https://picsum.photos/600/400?health40",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

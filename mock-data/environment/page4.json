@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "environment_061",
+      "title": "Global wetlands restoration gains momentum",
+      "description": "Wetlands play a critical role in climate resilience.",
+      "content": "Wetland restoration projects worldwide are helping reduce flood risks, improve water quality, and store carbon, making them a key strategy in climate adaptation efforts.",
+      "pubDate": "2025-03-06 09:15:00",
+      "image_url": "https://picsum.photos/600/400?env61",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_062",
+      "title": "Ocean cleanup technologies show promising results",
+      "description": "Innovations reduce marine plastic pollution.",
+      "content": "Advanced ocean cleanup technologies are demonstrating promising results in removing plastic waste from marine ecosystems while minimizing harm to wildlife.",
+      "pubDate": "2025-03-07 10:00:00",
+      "image_url": "https://picsum.photos/600/400?env62",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_063",
+      "title": "Climate-smart housing designs improve energy efficiency",
+      "description": "Sustainable homes reduce emissions.",
+      "content": "Climate-smart housing designs incorporate passive cooling, solar integration, and sustainable materials, significantly reducing household energy consumption.",
+      "pubDate": "2025-03-08 08:40:00",
+      "image_url": "https://picsum.photos/600/400?env63",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_064",
+      "title": "Forest monitoring satellites enhance conservation",
+      "description": "Space technology aids environmental protection.",
+      "content": "Satellite-based forest monitoring systems provide real-time data on deforestation and forest degradation, improving conservation enforcement and planning.",
+      "pubDate": "2025-03-09 09:30:00",
+      "image_url": "https://picsum.photos/600/400?env64",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_065",
+      "title": "Climate risk insurance protects farmers",
+      "description": "Financial tools support agricultural resilience.",
+      "content": "Climate risk insurance schemes help farmers recover from extreme weather events, ensuring income stability and food security.",
+      "pubDate": "2025-03-10 10:20:00",
+      "image_url": "https://picsum.photos/600/400?env65",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_066",
+      "title": "Urban cooling initiatives reduce heatwave impacts",
+      "description": "Cities adapt to rising temperatures.",
+      "content": "Urban cooling initiatives include reflective roofs, shaded streets, and green spaces that lower city temperatures during heatwaves.",
+      "pubDate": "2025-03-11 09:00:00",
+      "image_url": "https://picsum.photos/600/400?env66",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_067",
+      "title": "Community forestry strengthens local livelihoods",
+      "description": "People-centered conservation expands.",
+      "content": "Community forestry programs empower local populations to manage forest resources sustainably while improving economic opportunities.",
+      "pubDate": "2025-03-12 08:50:00",
+      "image_url": "https://picsum.photos/600/400?env67",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_068",
+      "title": "Renewable desalination addresses water scarcity",
+      "description": "Clean energy supports freshwater access.",
+      "content": "Renewable-powered desalination plants provide freshwater in water-scarce regions while minimizing environmental impact.",
+      "pubDate": "2025-03-13 09:45:00",
+      "image_url": "https://picsum.photos/600/400?env68",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_069",
+      "title": "Environmental education programs inspire youth action",
+      "description": "Young leaders engage in sustainability.",
+      "content": "Environmental education programs are inspiring youth to engage in sustainability initiatives, fostering long-term environmental stewardship.",
+      "pubDate": "2025-03-14 10:10:00",
+      "image_url": "https://picsum.photos/600/400?env69",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_070",
+      "title": "Green logistics reduce transportation emissions",
+      "description": "Supply chains adopt cleaner solutions.",
+      "content": "Green logistics strategies optimize transportation routes and adopt low-emission vehicles, reducing environmental impact in supply chains.",
+      "pubDate": "2025-03-15 09:20:00",
+      "image_url": "https://picsum.photos/600/400?env70",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_071",
+      "title": "Climate data transparency improves policy decisions",
+      "description": "Open data supports informed action.",
+      "content": "Improved climate data transparency enables policymakers to make evidence-based decisions and track progress toward sustainability goals.",
+      "pubDate": "2025-03-16 08:55:00",
+      "image_url": "https://picsum.photos/600/400?env71",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_072",
+      "title": "Eco-tourism supports conservation funding",
+      "description": "Sustainable travel benefits ecosystems.",
+      "content": "Eco-tourism initiatives generate funding for conservation efforts while promoting responsible travel and environmental awareness.",
+      "pubDate": "2025-03-17 10:30:00",
+      "image_url": "https://picsum.photos/600/400?env72",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_073",
+      "title": "Carbon labeling influences consumer behavior",
+      "description": "Shoppers consider environmental impact.",
+      "content": "Carbon labeling on products helps consumers make informed purchasing decisions based on environmental impact.",
+      "pubDate": "2025-03-18 09:00:00",
+      "image_url": "https://picsum.photos/600/400?env73",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_074",
+      "title": "Climate diplomacy strengthens international collaboration",
+      "description": "Nations align on environmental goals.",
+      "content": "Climate diplomacy encourages nations to collaborate on emissions reduction, adaptation strategies, and technology transfer.",
+      "pubDate": "2025-03-19 10:15:00",
+      "image_url": "https://picsum.photos/600/400?env74",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_075",
+      "title": "Green bonds finance sustainable development",
+      "description": "Investment supports climate solutions.",
+      "content": "Green bonds provide funding for renewable energy, clean transportation, and climate resilience projects.",
+      "pubDate": "2025-03-20 09:40:00",
+      "image_url": "https://picsum.photos/600/400?env75",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_076",
+      "title": "Urban wetlands enhance biodiversity and flood control",
+      "description": "Natural solutions benefit cities.",
+      "content": "Urban wetlands provide habitats for wildlife while reducing flood risks and improving water management.",
+      "pubDate": "2025-03-21 08:30:00",
+      "image_url": "https://picsum.photos/600/400?env76",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_077",
+      "title": "Sustainable textiles reduce fashion industry footprint",
+      "description": "Eco-friendly fabrics gain popularity.",
+      "content": "Sustainable textiles made from recycled or organic materials reduce water use and pollution in the fashion industry.",
+      "pubDate": "2025-03-22 09:50:00",
+      "image_url": "https://picsum.photos/600/400?env77",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_078",
+      "title": "Climate adaptation plans prioritize coastal protection",
+      "description": "Sea-level rise drives action.",
+      "content": "Coastal adaptation plans focus on restoring mangroves, building sea defenses, and relocating vulnerable communities.",
+      "pubDate": "2025-03-23 10:05:00",
+      "image_url": "https://picsum.photos/600/400?env78",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_079",
+      "title": "Environmental startups innovate waste management",
+      "description": "Technology tackles pollution.",
+      "content": "Environmental startups are developing innovative waste management solutions that reduce landfill use and promote recycling.",
+      "pubDate": "2025-03-24 09:25:00",
+      "image_url": "https://picsum.photos/600/400?env79",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_080",
+      "title": "Integrated climate policies align growth and sustainability",
+      "description": "Balanced development gains support.",
+      "content": "Integrated climate policies align economic growth with environmental sustainability, ensuring long-term resilience and prosperity.",
+      "pubDate": "2025-03-25 10:00:00",
+      "image_url": "https://picsum.photos/600/400?env80",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "5"
+}

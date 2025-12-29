@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "technology_021",
+      "title": "AI-powered chatbots improve customer support efficiency",
+      "description": "Businesses adopt intelligent assistants for faster service.",
+      "content": "AI-powered chatbots are becoming a core component of customer support strategies across industries. These systems handle common queries, provide instant responses, and operate around the clock. Companies report reduced support costs and improved customer satisfaction, while human agents focus on complex issues that require empathy and critical thinking.",
+      "pubDate": "2025-01-21 09:10:00",
+      "image_url": "https://picsum.photos/600/400?tech21",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_022",
+      "title": "Software engineers adapt to rapidly changing tech stacks",
+      "description": "Continuous learning becomes essential for developers.",
+      "content": "Software engineers are constantly adapting to new programming languages, frameworks, and tools as technology evolves. Continuous learning through online courses, documentation, and community forums has become essential. Industry leaders encourage developers to build strong fundamentals while staying flexible in adopting emerging technologies.",
+      "pubDate": "2025-01-22 10:20:00",
+      "image_url": "https://picsum.photos/600/400?tech22",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_023",
+      "title": "Low-code platforms enable faster application development",
+      "description": "Businesses build apps with minimal coding.",
+      "content": "Low-code and no-code platforms are enabling faster application development by reducing the need for extensive programming. These tools empower non-technical users to create workflows and applications while allowing developers to focus on complex logic. Analysts predict strong growth in low-code adoption across enterprises.",
+      "pubDate": "2025-01-23 08:55:00",
+      "image_url": "https://picsum.photos/600/400?tech23",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_024",
+      "title": "Artificial intelligence improves image and video processing",
+      "description": "Media applications benefit from smarter algorithms.",
+      "content": "AI-driven image and video processing technologies are enhancing media applications by improving quality, reducing noise, and enabling real-time enhancements. From smartphone cameras to professional editing tools, AI algorithms help users achieve better results with minimal effort. Content creators increasingly rely on these tools to streamline workflows.",
+      "pubDate": "2025-01-24 11:05:00",
+      "image_url": "https://picsum.photos/600/400?tech24",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_025",
+      "title": "Digital identity systems enhance online security",
+      "description": "Authentication becomes more reliable.",
+      "content": "Digital identity systems are improving online security by providing secure and verifiable authentication methods. Governments and enterprises are adopting digital IDs to reduce fraud and simplify access to services. Privacy and data protection remain key considerations as these systems expand.",
+      "pubDate": "2025-01-25 09:45:00",
+      "image_url": "https://picsum.photos/600/400?tech25",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "technology_026",
+      "title": "Machine learning models demand higher-quality datasets",
+      "description": "Data quality drives AI performance.",
+      "content": "As machine learning models become more sophisticated, the demand for high-quality datasets has increased significantly. Organizations invest in data cleaning, labeling, and governance to improve model accuracy. Experts emphasize that strong data foundations are critical for successful AI initiatives.",
+      "pubDate": "2025-01-26 10:35:00",
+      "image_url": "https://picsum.photos/600/400?tech26",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_027",
+      "title": "Smart home devices gain wider consumer adoption",
+      "description": "Connected living becomes mainstream.",
+      "content": "Smart home devices such as voice assistants, security cameras, and energy management systems are gaining wider adoption. Consumers value convenience, automation, and energy efficiency. Manufacturers focus on interoperability and security to enhance trust and usability.",
+      "pubDate": "2025-01-27 08:30:00",
+      "image_url": "https://picsum.photos/600/400?tech27",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_028",
+      "title": "Technology startups attract strong venture capital funding",
+      "description": "Innovation continues despite market uncertainty.",
+      "content": "Technology startups continue to attract venture capital funding as investors seek innovative solutions with long-term potential. Areas such as AI, fintech, and climate technology are particularly popular. Founders emphasize sustainable growth models and clear value propositions to secure investment.",
+      "pubDate": "2025-01-28 11:50:00",
+      "image_url": "https://picsum.photos/600/400?tech28",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_029",
+      "title": "Biometric authentication gains trust among users",
+      "description": "Passwords gradually lose importance.",
+      "content": "Biometric authentication methods such as fingerprint scanning and facial recognition are gaining trust among users. These technologies offer enhanced security and convenience compared to traditional passwords. Companies continue to invest in improving accuracy and protecting biometric data.",
+      "pubDate": "2025-01-29 09:05:00",
+      "image_url": "https://picsum.photos/600/400?tech29",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_030",
+      "title": "Automation transforms enterprise IT operations",
+      "description": "Efficiency improves through intelligent systems.",
+      "content": "Automation is transforming enterprise IT operations by reducing manual tasks and improving reliability. Automated monitoring, deployment, and incident response systems help organizations maintain uptime and performance. IT teams report increased efficiency and faster issue resolution.",
+      "pubDate": "2025-01-30 10:15:00",
+      "image_url": "https://picsum.photos/600/400?tech30",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "technology_031",
+      "title": "Robotics technology expands into logistics and warehouses",
+      "description": "Automation supports supply chain efficiency.",
+      "content": "Robotics technology is increasingly used in logistics and warehouse operations to automate sorting, packaging, and inventory management. These systems improve efficiency, reduce errors, and support faster order fulfillment. Companies adopt robotics to meet growing e-commerce demand.",
+      "pubDate": "2025-01-31 08:40:00",
+      "image_url": "https://picsum.photos/600/400?tech31",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_032",
+      "title": "Software-as-a-Service remains dominant business model",
+      "description": "Subscription-based platforms grow steadily.",
+      "content": "Software-as-a-Service continues to dominate the technology landscape as businesses prefer subscription-based platforms. SaaS solutions offer scalability, regular updates, and lower upfront costs. Vendors focus on customer retention and product innovation to remain competitive.",
+      "pubDate": "2025-02-01 09:55:00",
+      "image_url": "https://picsum.photos/600/400?tech32",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_033",
+      "title": "AI ethics discussions shape responsible innovation",
+      "description": "Developers address fairness and transparency.",
+      "content": "AI ethics discussions are shaping responsible innovation as developers and policymakers address issues of bias, transparency, and accountability. Organizations are establishing ethical guidelines to ensure AI systems are used responsibly and inclusively.",
+      "pubDate": "2025-02-02 10:25:00",
+      "image_url": "https://picsum.photos/600/400?tech33",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_034",
+      "title": "Cross-platform frameworks simplify app development",
+      "description": "Developers target multiple platforms efficiently.",
+      "content": "Cross-platform frameworks allow developers to build applications for multiple platforms using a single codebase. These tools reduce development time and maintenance costs. Many teams adopt cross-platform solutions to reach broader audiences more efficiently.",
+      "pubDate": "2025-02-03 08:50:00",
+      "image_url": "https://picsum.photos/600/400?tech34",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_035",
+      "title": "Natural language processing improves voice interfaces",
+      "description": "Conversational AI becomes more human-like.",
+      "content": "Advancements in natural language processing are improving voice interfaces, making conversations more natural and accurate. Virtual assistants can better understand context, intent, and multiple languages. This progress enhances accessibility and user experience across devices.",
+      "pubDate": "2025-02-04 11:10:00",
+      "image_url": "https://picsum.photos/600/400?tech35",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "technology_036",
+      "title": "Tech companies prioritize sustainability initiatives",
+      "description": "Environmental responsibility gains focus.",
+      "content": "Technology companies are prioritizing sustainability initiatives such as renewable energy use, carbon neutrality, and eco-friendly product design. These efforts aim to reduce environmental impact while meeting regulatory and consumer expectations.",
+      "pubDate": "2025-02-05 09:35:00",
+      "image_url": "https://picsum.photos/600/400?tech36",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_037",
+      "title": "API-first development improves system integration",
+      "description": "Modular architectures gain popularity.",
+      "content": "API-first development approaches are improving system integration by enabling modular and scalable architectures. Teams design APIs before building applications, ensuring flexibility and interoperability. This strategy supports faster innovation and easier maintenance.",
+      "pubDate": "2025-02-06 10:05:00",
+      "image_url": "https://picsum.photos/600/400?tech37",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_038",
+      "title": "Gaming industry benefits from powerful graphics hardware",
+      "description": "Performance improvements enhance realism.",
+      "content": "The gaming industry continues to benefit from advancements in graphics hardware, enabling higher frame rates and realistic visuals. Developers leverage powerful GPUs to create immersive environments and complex simulations. Gamers expect smoother and more visually rich experiences.",
+      "pubDate": "2025-02-07 08:45:00",
+      "image_url": "https://picsum.photos/600/400?tech38",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_039",
+      "title": "Tech hiring focuses on problem-solving skills",
+      "description": "Employers value adaptability over tools.",
+      "content": "Technology hiring trends show increased emphasis on problem-solving and adaptability rather than specific tools or languages. Employers seek candidates who can learn quickly and collaborate effectively. Soft skills and system thinking play an important role in hiring decisions.",
+      "pubDate": "2025-02-08 11:30:00",
+      "image_url": "https://picsum.photos/600/400?tech39",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_040",
+      "title": "Digital transformation reshapes traditional industries",
+      "description": "Technology drives operational efficiency.",
+      "content": "Digital transformation is reshaping traditional industries such as manufacturing, healthcare, and finance. Organizations adopt digital tools to improve efficiency, customer engagement, and data-driven decision-making. Experts note that successful transformation requires cultural change alongside technology adoption.",
+      "pubDate": "2025-02-09 09:20:00",
+      "image_url": "https://picsum.photos/600/400?tech40",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

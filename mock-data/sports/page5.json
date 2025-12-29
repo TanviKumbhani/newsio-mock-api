@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "sports_081",
+      "title": "Grassroots sports academies play key role in talent discovery",
+      "description": "Early training builds strong foundations.",
+      "content": "Grassroots sports academies are playing a crucial role in identifying young talent early, offering structured coaching and access to competitive platforms.",
+      "pubDate": "2025-05-20 08:10:00",
+      "image_url": "https://picsum.photos/600/400?sports81",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_082",
+      "title": "National badminton camp focuses on agility and endurance",
+      "description": "High-intensity drills introduced.",
+      "content": "The national badminton camp has introduced high-intensity agility and endurance drills to help players maintain peak performance during long matches.",
+      "pubDate": "2025-05-21 14:25:00",
+      "image_url": "https://picsum.photos/600/400?sports82",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_083",
+      "title": "Women’s sports leagues gain increased sponsorship support",
+      "description": "Investment in women athletes rises.",
+      "content": "Women’s sports leagues are seeing increased sponsorship and media coverage, contributing to better infrastructure and professional growth.",
+      "pubDate": "2025-05-22 17:40:00",
+      "image_url": "https://picsum.photos/600/400?sports83",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_084",
+      "title": "Athletic federations adopt digital performance tracking tools",
+      "description": "Technology improves analysis.",
+      "content": "Several athletic federations have adopted digital performance tracking tools to analyze training loads, recovery patterns, and injury risks.",
+      "pubDate": "2025-05-23 09:00:00",
+      "image_url": "https://picsum.photos/600/400?sports84",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_085",
+      "title": "Swimming coaches stress technique over speed in early stages",
+      "description": "Strong fundamentals emphasized.",
+      "content": "Swimming coaches are emphasizing correct technique over speed during early development stages to reduce injuries and improve long-term performance.",
+      "pubDate": "2025-05-24 06:50:00",
+      "image_url": "https://picsum.photos/600/400?sports85",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_086",
+      "title": "Athletes adapt recovery routines using sports science insights",
+      "description": "Rest becomes strategic.",
+      "content": "Modern athletes are adapting recovery routines using sports science insights, including sleep monitoring, hydration tracking, and active recovery.",
+      "pubDate": "2025-05-25 11:30:00",
+      "image_url": "https://picsum.photos/600/400?sports86",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_087",
+      "title": "National hockey program invests in youth development",
+      "description": "Long-term vision outlined.",
+      "content": "The national hockey program has announced increased investment in youth development to build a strong pipeline for future international events.",
+      "pubDate": "2025-05-26 19:10:00",
+      "image_url": "https://picsum.photos/600/400?sports87",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_088",
+      "title": "Fitness trainers promote cross-training for injury prevention",
+      "description": "Balanced workouts encouraged.",
+      "content": "Fitness trainers are promoting cross-training routines that balance strength, flexibility, and endurance to reduce overuse injuries.",
+      "pubDate": "2025-05-27 08:45:00",
+      "image_url": "https://picsum.photos/600/400?sports88",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_089",
+      "title": "Local marathons boost community fitness participation",
+      "description": "Running culture expands.",
+      "content": "Local marathon events are boosting community participation in fitness, encouraging people of all ages to adopt active lifestyles.",
+      "pubDate": "2025-05-28 07:20:00",
+      "image_url": "https://picsum.photos/600/400?sports89",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_090",
+      "title": "Coaches highlight importance of rest days in training cycles",
+      "description": "Recovery equals performance.",
+      "content": "Coaches are highlighting the importance of scheduled rest days in training cycles, recognizing their impact on performance and mental health.",
+      "pubDate": "2025-05-29 16:55:00",
+      "image_url": "https://picsum.photos/600/400?sports90",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_091",
+      "title": "National athletics meet showcases depth of domestic talent",
+      "description": "Competition intensifies.",
+      "content": "The national athletics meet showcased the growing depth of domestic talent, with several close finishes and personal best performances.",
+      "pubDate": "2025-05-30 20:05:00",
+      "image_url": "https://picsum.photos/600/400?sports91",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_092",
+      "title": "Sports administrators discuss sustainability in events",
+      "description": "Eco-friendly practices adopted.",
+      "content": "Sports administrators are discussing sustainable practices for events, including waste reduction, energy efficiency, and responsible sourcing.",
+      "pubDate": "2025-05-31 13:35:00",
+      "image_url": "https://picsum.photos/600/400?sports92",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_093",
+      "title": "Young athletes receive mentorship from former champions",
+      "description": "Experience shared.",
+      "content": "Former champions are mentoring young athletes, sharing experience on competition preparation, handling pressure, and career planning.",
+      "pubDate": "2025-06-01 09:10:00",
+      "image_url": "https://picsum.photos/600/400?sports93",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_094",
+      "title": "National cycling tour promotes regional sporting culture",
+      "description": "Local engagement increases.",
+      "content": "The national cycling tour is promoting regional sporting culture, drawing spectators and boosting interest in competitive cycling.",
+      "pubDate": "2025-06-02 18:00:00",
+      "image_url": "https://picsum.photos/600/400?sports94",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_095",
+      "title": "Sports science workshops educate coaches nationwide",
+      "description": "Knowledge sharing expands.",
+      "content": "Sports science workshops are educating coaches nationwide on injury prevention, training optimization, and athlete wellbeing.",
+      "pubDate": "2025-06-03 10:50:00",
+      "image_url": "https://picsum.photos/600/400?sports95",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_096",
+      "title": "National fencing league improves competitive exposure",
+      "description": "Structured leagues benefit athletes.",
+      "content": "The national fencing league is providing structured competition that improves athlete exposure and performance consistency.",
+      "pubDate": "2025-06-04 15:20:00",
+      "image_url": "https://picsum.photos/600/400?sports96",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_097",
+      "title": "Athletes encouraged to engage in mental wellness programs",
+      "description": "Holistic development supported.",
+      "content": "Mental wellness programs are being encouraged across sports organizations to support athlete focus, confidence, and emotional balance.",
+      "pubDate": "2025-06-05 08:40:00",
+      "image_url": "https://picsum.photos/600/400?sports97",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_098",
+      "title": "Regional sports meets revive interest in traditional games",
+      "description": "Cultural sports return.",
+      "content": "Regional sports meets are reviving interest in traditional games, blending cultural heritage with modern competition formats.",
+      "pubDate": "2025-06-06 12:15:00",
+      "image_url": "https://picsum.photos/600/400?sports98",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_099",
+      "title": "Coaches adopt data analytics for match preparation",
+      "description": "Strategic planning improves.",
+      "content": "Coaches are increasingly adopting data analytics tools to analyze opponents, refine tactics, and prepare match strategies.",
+      "pubDate": "2025-06-07 19:30:00",
+      "image_url": "https://picsum.photos/600/400?sports99",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_100",
+      "title": "National sports roadmap outlines vision for next decade",
+      "description": "Long-term planning revealed.",
+      "content": "The national sports roadmap outlines a decade-long vision focusing on infrastructure, talent development, technology integration, and global competitiveness.",
+      "pubDate": "2025-06-08 21:00:00",
+      "image_url": "https://picsum.photos/600/400?sports100",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

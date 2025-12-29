@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "politics_061",
+      "title": "Government evaluates impact of recent tax reforms",
+      "description": "Revenue growth and compliance reviewed.",
+      "content": "The government has begun evaluating the impact of recent tax reforms, focusing on revenue growth, taxpayer compliance, and ease of doing business.",
+      "pubDate": "2025-03-06 09:15:00",
+      "image_url": "https://picsum.photos/600/400?politics61",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_062",
+      "title": "Opposition calls for parliamentary debate on inflation",
+      "description": "Rising prices spark political discussion.",
+      "content": "Opposition parties have called for a detailed parliamentary debate on rising inflation and its impact on household budgets across the country.",
+      "pubDate": "2025-03-07 10:05:00",
+      "image_url": "https://picsum.photos/600/400?politics62",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_063",
+      "title": "Policy think tank suggests reforms in social welfare delivery",
+      "description": "Efficiency and targeting emphasized.",
+      "content": "A policy think tank has suggested reforms in social welfare delivery systems to improve efficiency, reduce leakages, and ensure benefits reach intended recipients.",
+      "pubDate": "2025-03-08 09:40:00",
+      "image_url": "https://picsum.photos/600/400?politics63",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_064",
+      "title": "Government strengthens whistleblower protection framework",
+      "description": "Safeguards for transparency advocates.",
+      "content": "New measures have been introduced to strengthen the whistleblower protection framework, offering safeguards to individuals reporting corruption and misconduct.",
+      "pubDate": "2025-03-09 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics64",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_065",
+      "title": "Inter-state council meets to resolve policy coordination issues",
+      "description": "Cooperative federalism in action.",
+      "content": "The inter-state council has convened to resolve policy coordination issues and strengthen cooperative federalism among states.",
+      "pubDate": "2025-03-10 09:25:00",
+      "image_url": "https://picsum.photos/600/400?politics65",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_066",
+      "title": "Women leaders advocate gender-inclusive policymaking",
+      "description": "Equity and representation highlighted.",
+      "content": "Women leaders from across sectors have advocated for gender-inclusive policymaking to ensure equitable representation and social development.",
+      "pubDate": "2025-03-11 10:00:00",
+      "image_url": "https://picsum.photos/600/400?politics66",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_067",
+      "title": "National security review focuses on emerging threats",
+      "description": "Strategic preparedness assessed.",
+      "content": "A national security review has focused on emerging threats, cybersecurity risks, and strategic preparedness in a rapidly changing global environment.",
+      "pubDate": "2025-03-12 09:10:00",
+      "image_url": "https://picsum.photos/600/400?politics67",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_068",
+      "title": "Public policy forum debates future of welfare schemes",
+      "description": "Sustainability and impact examined.",
+      "content": "A public policy forum has debated the future of welfare schemes, examining sustainability, fiscal responsibility, and social impact.",
+      "pubDate": "2025-03-13 08:45:00",
+      "image_url": "https://picsum.photos/600/400?politics68",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_069",
+      "title": "Law commission proposes modernization of legal codes",
+      "description": "Simplification and clarity targeted.",
+      "content": "The law commission has proposed modernization of legal codes to simplify language, improve clarity, and align laws with contemporary needs.",
+      "pubDate": "2025-03-14 09:30:00",
+      "image_url": "https://picsum.photos/600/400?politics69",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_070",
+      "title": "Government promotes digital participation platforms",
+      "description": "Citizen engagement enhanced.",
+      "content": "New digital participation platforms have been promoted by the government to enhance citizen engagement in policymaking processes.",
+      "pubDate": "2025-03-15 09:50:00",
+      "image_url": "https://picsum.photos/600/400?politics70",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_071",
+      "title": "Fiscal policy review committee submits interim report",
+      "description": "Budget discipline discussed.",
+      "content": "The fiscal policy review committee has submitted an interim report outlining measures to maintain budget discipline while supporting economic growth.",
+      "pubDate": "2025-03-16 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics71",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_072",
+      "title": "Local governments receive increased development funding",
+      "description": "Grassroots development boosted.",
+      "content": "Local governments have received increased development funding to strengthen grassroots infrastructure and public services.",
+      "pubDate": "2025-03-17 09:35:00",
+      "image_url": "https://picsum.photos/600/400?politics72",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_073",
+      "title": "Policy experts call for climate-resilient governance",
+      "description": "Sustainability integrated into planning.",
+      "content": "Policy experts have called for climate-resilient governance frameworks to integrate sustainability into national and local planning efforts.",
+      "pubDate": "2025-03-18 10:10:00",
+      "image_url": "https://picsum.photos/600/400?politics73",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_074",
+      "title": "Parliamentary debate focuses on healthcare accessibility",
+      "description": "Equitable healthcare emphasized.",
+      "content": "Parliamentarians have debated measures to improve healthcare accessibility, especially in rural and underserved regions.",
+      "pubDate": "2025-03-19 09:00:00",
+      "image_url": "https://picsum.photos/600/400?politics74",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_075",
+      "title": "Government announces reforms in public service recruitment",
+      "description": "Merit and transparency strengthened.",
+      "content": "The government has announced reforms in public service recruitment to strengthen merit-based selection and transparency.",
+      "pubDate": "2025-03-20 09:45:00",
+      "image_url": "https://picsum.photos/600/400?politics75",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_076",
+      "title": "National dialogue held on constitutional values",
+      "description": "Democratic principles reaffirmed.",
+      "content": "A national dialogue has been held to reaffirm constitutional values, democratic principles, and the rule of law.",
+      "pubDate": "2025-03-21 08:40:00",
+      "image_url": "https://picsum.photos/600/400?politics76",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_077",
+      "title": "Public administration reforms aim to reduce red tape",
+      "description": "Efficiency and responsiveness improved.",
+      "content": "Public administration reforms aim to reduce bureaucratic red tape and improve efficiency and responsiveness in government services.",
+      "pubDate": "2025-03-22 09:20:00",
+      "image_url": "https://picsum.photos/600/400?politics77",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_078",
+      "title": "Government seeks public input on education policy overhaul",
+      "description": "Stakeholder engagement invited.",
+      "content": "The government has invited public input on a proposed education policy overhaul to ensure stakeholder engagement and informed decision-making.",
+      "pubDate": "2025-03-23 09:55:00",
+      "image_url": "https://picsum.photos/600/400?politics78",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_079",
+      "title": "Economic advisory council reviews long-term growth roadmap",
+      "description": "Strategic vision outlined.",
+      "content": "The economic advisory council has reviewed a long-term growth roadmap aimed at fostering innovation, employment, and sustainable development.",
+      "pubDate": "2025-03-24 09:05:00",
+      "image_url": "https://picsum.photos/600/400?politics79",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_080",
+      "title": "Government reiterates commitment to transparent governance",
+      "description": "Public trust emphasized.",
+      "content": "The government has reiterated its commitment to transparent governance, accountability, and citizen-centric policy implementation.",
+      "pubDate": "2025-03-25 09:30:00",
+      "image_url": "https://picsum.photos/600/400?politics80",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "5"
+}

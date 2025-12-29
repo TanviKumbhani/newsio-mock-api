@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "food_061",
+      "title": "Traditional fermentation techniques return to modern kitchens",
+      "description": "Old food preservation methods gain popularity again.",
+      "content": "Traditional fermentation techniques such as pickling, curd fermentation, and natural yeast preparation are returning to modern kitchens as people rediscover their health benefits and rich flavors. Nutritionists highlight improved gut health as a major advantage.",
+      "pubDate": "2025-04-02 09:15:00",
+      "image_url": "https://picsum.photos/600/400?food61",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_062",
+      "title": "Seasonal eating promoted for better nutrition balance",
+      "description": "Experts suggest eating local and seasonal produce.",
+      "content": "Health experts are encouraging people to eat seasonal fruits and vegetables to maintain nutritional balance, reduce food costs, and support local farmers while minimizing environmental impact.",
+      "pubDate": "2025-04-03 10:00:00",
+      "image_url": "https://picsum.photos/600/400?food62",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_063",
+      "title": "Food startups innovate with ready-to-cook meal kits",
+      "description": "Convenience meets home cooking.",
+      "content": "Food startups are introducing ready-to-cook meal kits that provide pre-measured ingredients and recipes, helping busy households enjoy home-cooked meals without extensive preparation.",
+      "pubDate": "2025-04-04 08:40:00",
+      "image_url": "https://picsum.photos/600/400?food63",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_064",
+      "title": "Ayurvedic food principles influence daily diets",
+      "description": "Ancient wisdom shapes modern nutrition.",
+      "content": "Ayurvedic food principles emphasizing balance, digestion, and natural ingredients are influencing daily diets as people seek holistic wellness through food.",
+      "pubDate": "2025-04-05 09:20:00",
+      "image_url": "https://picsum.photos/600/400?food64",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_065",
+      "title": "Food safety awareness campaigns expand nationwide",
+      "description": "Consumers become more cautious about hygiene.",
+      "content": "Nationwide food safety awareness campaigns are educating consumers about hygiene, storage practices, and reading expiry labels to reduce foodborne illnesses.",
+      "pubDate": "2025-04-06 10:10:00",
+      "image_url": "https://picsum.photos/600/400?food65",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_066",
+      "title": "Regional rice varieties gain popularity among chefs",
+      "description": "Diverse grains return to menus.",
+      "content": "Chefs are exploring regional rice varieties like black rice, red rice, and aromatic local grains to add nutrition and unique flavors to their dishes.",
+      "pubDate": "2025-04-07 09:35:00",
+      "image_url": "https://picsum.photos/600/400?food66",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_067",
+      "title": "Sugar alternatives become common in household kitchens",
+      "description": "Natural sweeteners gain trust.",
+      "content": "Households are increasingly using natural sugar alternatives like jaggery, dates, and honey to reduce refined sugar consumption while maintaining taste.",
+      "pubDate": "2025-04-08 08:55:00",
+      "image_url": "https://picsum.photos/600/400?food67",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_068",
+      "title": "Zero-waste cooking practices gain momentum",
+      "description": "Reducing food waste at home.",
+      "content": "Zero-waste cooking practices such as using vegetable peels, leftover grains, and creative reuse of food scraps are gaining momentum to reduce household food waste.",
+      "pubDate": "2025-04-09 09:50:00",
+      "image_url": "https://picsum.photos/600/400?food68",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_069",
+      "title": "High-fiber diets recommended for digestive health",
+      "description": "Dietary fiber gets attention.",
+      "content": "Nutrition experts emphasize high-fiber diets rich in fruits, vegetables, legumes, and whole grains to improve digestion and overall health.",
+      "pubDate": "2025-04-10 10:05:00",
+      "image_url": "https://picsum.photos/600/400?food69",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_070",
+      "title": "Community kitchens support nutritious meals for all",
+      "description": "Collective food initiatives expand.",
+      "content": "Community kitchens across cities are providing affordable and nutritious meals while fostering social connections and reducing food insecurity.",
+      "pubDate": "2025-04-11 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food70",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_071",
+      "title": "Balanced snacking habits encouraged for energy control",
+      "description": "Healthy snacks gain popularity.",
+      "content": "Nutritionists suggest balanced snacking with nuts, fruits, and homemade options to maintain energy levels without excessive calorie intake.",
+      "pubDate": "2025-04-12 09:40:00",
+      "image_url": "https://picsum.photos/600/400?food71",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_072",
+      "title": "Food literacy programs introduced in schools",
+      "description": "Teaching children about nutrition.",
+      "content": "Schools are introducing food literacy programs to teach children about nutrition, cooking basics, and responsible food choices from an early age.",
+      "pubDate": "2025-04-13 10:20:00",
+      "image_url": "https://picsum.photos/600/400?food72",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_073",
+      "title": "Home chefs gain recognition through social platforms",
+      "description": "Passion cooking goes digital.",
+      "content": "Home chefs are gaining recognition by sharing recipes and cooking tips through social platforms, turning passion into opportunity.",
+      "pubDate": "2025-04-14 08:30:00",
+      "image_url": "https://picsum.photos/600/400?food73",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_074",
+      "title": "Spice farming supports rural livelihoods",
+      "description": "Traditional agriculture sustains communities.",
+      "content": "Spice farming continues to support rural livelihoods while preserving traditional agricultural knowledge passed down through generations.",
+      "pubDate": "2025-04-15 09:10:00",
+      "image_url": "https://picsum.photos/600/400?food74",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_075",
+      "title": "Protein snacks target fitness-conscious consumers",
+      "description": "Healthy convenience foods grow.",
+      "content": "Protein-rich snack options such as bars and roasted legumes are targeting fitness-conscious consumers looking for healthy convenience foods.",
+      "pubDate": "2025-04-16 10:00:00",
+      "image_url": "https://picsum.photos/600/400?food75",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_076",
+      "title": "Food preservation techniques reduce household waste",
+      "description": "Storage skills become essential.",
+      "content": "Proper food preservation techniques like freezing, drying, and airtight storage are helping households reduce waste and extend food shelf life.",
+      "pubDate": "2025-04-17 09:45:00",
+      "image_url": "https://picsum.photos/600/400?food76",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_077",
+      "title": "Culinary tourism highlights local food heritage",
+      "description": "Travel meets traditional cuisine.",
+      "content": "Culinary tourism is highlighting local food heritage as travelers seek authentic experiences through regional dishes and cooking traditions.",
+      "pubDate": "2025-04-18 08:50:00",
+      "image_url": "https://picsum.photos/600/400?food77",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_078",
+      "title": "Mindful eating practices reduce overeating",
+      "description": "Awareness changes habits.",
+      "content": "Mindful eating practices encourage individuals to slow down during meals, improving digestion and reducing overeating.",
+      "pubDate": "2025-04-19 09:25:00",
+      "image_url": "https://picsum.photos/600/400?food78",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_079",
+      "title": "Local dairy products gain consumer trust",
+      "description": "Fresh milk supply chains grow.",
+      "content": "Local dairy brands are gaining consumer trust by providing fresh, traceable, and ethically sourced milk products.",
+      "pubDate": "2025-04-20 10:05:00",
+      "image_url": "https://picsum.photos/600/400?food79",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_080",
+      "title": "Simple home cooking linked to improved lifestyle",
+      "description": "Back-to-basics approach benefits health.",
+      "content": "Simple home cooking using fresh ingredients is linked to improved lifestyle habits, better nutrition, and long-term health benefits.",
+      "pubDate": "2025-04-21 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food80",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "5"
+}

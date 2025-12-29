@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "science_061",
+      "title": "Scientists develop AI system to predict earthquakes earlier",
+      "description": "Machine learning improves disaster preparedness.",
+      "content": "Researchers have created an AI-based system capable of analyzing seismic patterns to predict earthquakes earlier than traditional methods. The technology could help authorities improve evacuation planning and reduce loss of life.",
+      "pubDate": "2025-03-03 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science61",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_062",
+      "title": "Study reveals how sleep repairs brain cells",
+      "description": "Neuroscience highlights importance of rest.",
+      "content": "A new study shows that deep sleep plays a critical role in repairing brain cells and clearing toxic waste, reinforcing the importance of adequate sleep for long-term cognitive health.",
+      "pubDate": "2025-03-04 08:45:00",
+      "image_url": "https://picsum.photos/600/400?science62",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_063",
+      "title": "Researchers discover new antibiotic to fight resistant bacteria",
+      "description": "Medical breakthrough offers hope.",
+      "content": "Scientists have identified a new antibiotic compound effective against drug-resistant bacteria, raising hopes for combating infections that no longer respond to existing medicines.",
+      "pubDate": "2025-03-05 09:30:00",
+      "image_url": "https://picsum.photos/600/400?science63",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_064",
+      "title": "Mars rover sends detailed images of ancient riverbeds",
+      "description": "Evidence of past water strengthens findings.",
+      "content": "NASA’s Mars rover has transmitted high-resolution images of ancient riverbeds, providing strong evidence that liquid water once flowed on the planet’s surface.",
+      "pubDate": "2025-03-06 10:00:00",
+      "image_url": "https://picsum.photos/600/400?science64",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_065",
+      "title": "New study explains why humans experience déjà vu",
+      "description": "Cognitive science explores memory glitches.",
+      "content": "Researchers suggest that déjà vu occurs when the brain mistakenly processes a new experience as a memory, offering fresh insight into how perception and memory interact.",
+      "pubDate": "2025-03-07 09:20:00",
+      "image_url": "https://picsum.photos/600/400?science65",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_066",
+      "title": "Scientists grow human tissue in lab for drug testing",
+      "description": "Ethical alternative to animal testing.",
+      "content": "Laboratory-grown human tissue is being used to test drug reactions, reducing reliance on animal testing and improving accuracy in pharmaceutical research.",
+      "pubDate": "2025-03-08 09:05:00",
+      "image_url": "https://picsum.photos/600/400?science66",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_067",
+      "title": "Researchers map brain activity during decision making",
+      "description": "Understanding human choices deepens.",
+      "content": "Using advanced imaging techniques, scientists have mapped how different brain regions activate during decision-making, offering insights into behavior and psychology.",
+      "pubDate": "2025-03-09 08:40:00",
+      "image_url": "https://picsum.photos/600/400?science67",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_068",
+      "title": "New material absorbs carbon dioxide from air efficiently",
+      "description": "Climate technology shows promise.",
+      "content": "Engineers have developed a material capable of absorbing carbon dioxide directly from the air, offering a potential tool in the fight against climate change.",
+      "pubDate": "2025-03-10 09:55:00",
+      "image_url": "https://picsum.photos/600/400?science68",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_069",
+      "title": "Astronomers detect mysterious radio signals from space",
+      "description": "Fast radio bursts intrigue scientists.",
+      "content": "Astronomers have detected unusual radio signals originating from distant galaxies, sparking debate about their source and underlying physics.",
+      "pubDate": "2025-03-11 09:15:00",
+      "image_url": "https://picsum.photos/600/400?science69",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_070",
+      "title": "Study finds link between gut bacteria and immunity",
+      "description": "Microbiome research advances health science.",
+      "content": "New research shows that gut bacteria play a crucial role in regulating immune responses, influencing susceptibility to infections and chronic diseases.",
+      "pubDate": "2025-03-12 10:10:00",
+      "image_url": "https://picsum.photos/600/400?science70",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_071",
+      "title": "Scientists test biodegradable alternatives to plastic",
+      "description": "Sustainable materials gain attention.",
+      "content": "Researchers are testing biodegradable materials that could replace plastic packaging, reducing long-term environmental pollution.",
+      "pubDate": "2025-03-13 09:25:00",
+      "image_url": "https://picsum.photos/600/400?science71",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_072",
+      "title": "Brain scans reveal how emotions influence memory",
+      "description": "Emotional experiences shape recall.",
+      "content": "Advanced brain imaging reveals that emotionally charged experiences are more strongly encoded in memory, explaining why emotional events are often remembered vividly.",
+      "pubDate": "2025-03-14 08:50:00",
+      "image_url": "https://picsum.photos/600/400?science72",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_073",
+      "title": "Researchers explore fusion energy as clean power source",
+      "description": "Future energy research continues.",
+      "content": "Fusion energy research progresses as scientists experiment with new containment techniques aimed at producing stable and sustainable fusion reactions.",
+      "pubDate": "2025-03-15 09:40:00",
+      "image_url": "https://picsum.photos/600/400?science73",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_074",
+      "title": "Study reveals effects of screen time on young brains",
+      "description": "Digital habits influence development.",
+      "content": "Researchers report that excessive screen time may impact attention and learning in children, emphasizing the importance of balanced digital usage.",
+      "pubDate": "2025-03-16 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science74",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_075",
+      "title": "Scientists discover enzyme that accelerates chemical reactions",
+      "description": "Industrial processes may improve.",
+      "content": "A newly discovered enzyme significantly speeds up chemical reactions, offering potential benefits for manufacturing and pharmaceutical industries.",
+      "pubDate": "2025-03-17 10:00:00",
+      "image_url": "https://picsum.photos/600/400?science75",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_076",
+      "title": "Space telescope captures detailed images of star formation",
+      "description": "Cosmic origins come into focus.",
+      "content": "New images from a space telescope reveal unprecedented details of star formation, helping astronomers understand how galaxies evolve.",
+      "pubDate": "2025-03-18 09:35:00",
+      "image_url": "https://picsum.photos/600/400?science76",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_077",
+      "title": "Study links exercise to improved mental resilience",
+      "description": "Physical activity benefits brain health.",
+      "content": "Scientific research confirms that regular exercise strengthens mental resilience, reducing stress and improving overall psychological well-being.",
+      "pubDate": "2025-03-19 08:55:00",
+      "image_url": "https://picsum.photos/600/400?science77",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_078",
+      "title": "Researchers analyze dark matter behavior in galaxies",
+      "description": "Astrophysics uncovers mysteries.",
+      "content": "Astrophysicists continue to study dark matter behavior to better understand galaxy formation and the structure of the universe.",
+      "pubDate": "2025-03-20 09:20:00",
+      "image_url": "https://picsum.photos/600/400?science78",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_079",
+      "title": "Scientists improve early cancer detection methods",
+      "description": "Medical diagnostics advance.",
+      "content": "New diagnostic techniques enable earlier detection of cancer, increasing treatment success rates and patient survival outcomes.",
+      "pubDate": "2025-03-21 09:50:00",
+      "image_url": "https://picsum.photos/600/400?science79",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_080",
+      "title": "Study finds social interaction boosts cognitive longevity",
+      "description": "Human connections protect brain health.",
+      "content": "Long-term studies suggest that strong social interactions help maintain cognitive function and delay age-related mental decline.",
+      "pubDate": "2025-03-22 10:05:00",
+      "image_url": "https://picsum.photos/600/400?science80",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "5"
+}

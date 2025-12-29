@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "sports_021",
+      "title": "National cricket academy introduces advanced performance analytics",
+      "description": "Data-driven training aims to improve player consistency.",
+      "content": "The national cricket academy has introduced advanced performance analytics to monitor player fitness, technique, and match readiness. Coaches believe data-backed insights will help players improve consistency and reduce injury risks.",
+      "pubDate": "2025-03-21 10:30:00",
+      "image_url": "https://picsum.photos/600/400?sports21",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_022",
+      "title": "Football club unveils new stadium expansion project",
+      "description": "Capacity increase planned to meet fan demand.",
+      "content": "A leading football club has announced a major stadium expansion project to accommodate growing fan attendance. The project focuses on modern facilities, enhanced safety, and improved fan experience.",
+      "pubDate": "2025-03-22 18:20:00",
+      "image_url": "https://picsum.photos/600/400?sports22",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_023",
+      "title": "Boxing federation announces international training partnership",
+      "description": "Athletes to receive overseas exposure.",
+      "content": "The national boxing federation has partnered with international training centers to provide athletes with global exposure, modern coaching techniques, and competitive sparring opportunities.",
+      "pubDate": "2025-03-23 14:05:00",
+      "image_url": "https://picsum.photos/600/400?sports23",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_024",
+      "title": "Junior athletics meet highlights future champions",
+      "description": "Young talent impresses selectors.",
+      "content": "The annual junior athletics meet concluded with several promising performances. Coaches and selectors identified multiple young athletes with strong potential for international competitions.",
+      "pubDate": "2025-03-24 11:45:00",
+      "image_url": "https://picsum.photos/600/400?sports24",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_025",
+      "title": "Volleyball league gains popularity across rural regions",
+      "description": "Grassroots sports engagement increases.",
+      "content": "The volleyball league has gained widespread popularity in rural areas, encouraging youth participation and fostering local talent development through community-level competitions.",
+      "pubDate": "2025-03-25 09:30:00",
+      "image_url": "https://picsum.photos/600/400?sports25",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_026",
+      "title": "Former players appointed as mentors for national teams",
+      "description": "Experience shared with next generation.",
+      "content": "Retired athletes have been appointed as mentors for national teams, offering valuable experience, leadership guidance, and tactical insights to emerging players.",
+      "pubDate": "2025-03-26 16:15:00",
+      "image_url": "https://picsum.photos/600/400?sports26",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_027",
+      "title": "International friendly matches scheduled ahead of tournament",
+      "description": "Teams fine-tune strategies.",
+      "content": "Several international friendly matches have been scheduled as teams prepare for upcoming tournaments. Coaches aim to test combinations and assess player form.",
+      "pubDate": "2025-03-27 20:00:00",
+      "image_url": "https://picsum.photos/600/400?sports27",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_028",
+      "title": "Sports science lab inaugurated to support elite athletes",
+      "description": "Focus on recovery and injury prevention.",
+      "content": "A state-of-the-art sports science laboratory has been inaugurated to support elite athletes with recovery programs, injury prevention strategies, and performance enhancement tools.",
+      "pubDate": "2025-03-28 12:40:00",
+      "image_url": "https://picsum.photos/600/400?sports28",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_029",
+      "title": "National rowing team begins intensive training camp",
+      "description": "Preparation underway for international regattas.",
+      "content": "The national rowing team has begun an intensive training camp focusing on endurance, synchronization, and race strategies ahead of major international regattas.",
+      "pubDate": "2025-03-29 06:50:00",
+      "image_url": "https://picsum.photos/600/400?sports29",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_030",
+      "title": "City hosts annual open sports festival",
+      "description": "Multiple disciplines showcased.",
+      "content": "The annual open sports festival attracted participants from various disciplines, promoting inclusivity, fitness awareness, and community bonding through sports.",
+      "pubDate": "2025-03-30 17:25:00",
+      "image_url": "https://picsum.photos/600/400?sports30",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_031",
+      "title": "Professional league introduces stricter fair-play regulations",
+      "description": "Integrity remains top priority.",
+      "content": "League officials announced stricter fair-play regulations to ensure integrity, transparency, and sportsmanship throughout the season.",
+      "pubDate": "2025-03-31 14:30:00",
+      "image_url": "https://picsum.photos/600/400?sports31",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_032",
+      "title": "Athletes emphasize importance of balanced nutrition",
+      "description": "Diet plays key role in performance.",
+      "content": "Elite athletes shared insights on balanced nutrition, highlighting how proper diet supports recovery, stamina, and long-term athletic performance.",
+      "pubDate": "2025-04-01 08:15:00",
+      "image_url": "https://picsum.photos/600/400?sports32",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_033",
+      "title": "Table tennis championship concludes with thrilling finals",
+      "description": "Close matches entertain fans.",
+      "content": "The national table tennis championship concluded with closely contested finals, showcasing technical skill and mental resilience among top players.",
+      "pubDate": "2025-04-02 19:10:00",
+      "image_url": "https://picsum.photos/600/400?sports33",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_034",
+      "title": "Youth sports policy aims to strengthen school competitions",
+      "description": "Early exposure encouraged.",
+      "content": "A new youth sports policy focuses on strengthening school-level competitions, providing structured pathways for young athletes to progress professionally.",
+      "pubDate": "2025-04-03 11:55:00",
+      "image_url": "https://picsum.photos/600/400?sports34",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_035",
+      "title": "Para-athletes receive upgraded training facilities",
+      "description": "Inclusive sports development prioritized.",
+      "content": "Para-athletes will benefit from upgraded training facilities designed to meet accessibility needs and support high-performance training programs.",
+      "pubDate": "2025-04-04 15:20:00",
+      "image_url": "https://picsum.photos/600/400?sports35",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_036",
+      "title": "International coach joins national basketball setup",
+      "description": "Focus on modern tactics.",
+      "content": "An experienced international coach has joined the national basketball setup, bringing modern tactics, player development strategies, and global exposure.",
+      "pubDate": "2025-04-05 18:40:00",
+      "image_url": "https://picsum.photos/600/400?sports36",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_037",
+      "title": "Mountain biking event boosts adventure tourism",
+      "description": "Sports tourism on the rise.",
+      "content": "A mountain biking event attracted domestic and international participants, boosting adventure tourism and promoting local economies.",
+      "pubDate": "2025-04-06 07:35:00",
+      "image_url": "https://picsum.photos/600/400?sports37",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_038",
+      "title": "Coaches attend certification program for skill enhancement",
+      "description": "Continuous learning encouraged.",
+      "content": "National-level coaches participated in a certification program aimed at enhancing technical knowledge, leadership skills, and athlete management practices.",
+      "pubDate": "2025-04-07 13:10:00",
+      "image_url": "https://picsum.photos/600/400?sports38",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_039",
+      "title": "National shooting team secures medals at world cup",
+      "description": "Strong international performance.",
+      "content": "The national shooting team delivered a strong performance at the world cup, securing multiple medals and improving global rankings.",
+      "pubDate": "2025-04-08 21:00:00",
+      "image_url": "https://picsum.photos/600/400?sports39",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_040",
+      "title": "Sports psychologists highlight importance of focus training",
+      "description": "Mental preparation gains importance.",
+      "content": "Sports psychologists emphasize focus training as a crucial element of athlete preparation, helping competitors manage pressure during high-stakes events.",
+      "pubDate": "2025-04-09 10:50:00",
+      "image_url": "https://picsum.photos/600/400?sports40",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

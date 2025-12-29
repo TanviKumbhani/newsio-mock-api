@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "food_041",
+      "title": "Plant-based proteins gain traction among urban consumers",
+      "description": "Alternative proteins enter mainstream diets.",
+      "content": "Plant-based protein sources such as lentils, chickpeas, tofu, and soy-based products are gaining popularity among urban consumers seeking sustainable and healthy food options.",
+      "pubDate": "2025-03-13 09:10:00",
+      "image_url": "https://picsum.photos/600/400?food41",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_042",
+      "title": "Home baking trend continues beyond lockdown era",
+      "description": "Baking becomes a long-term hobby.",
+      "content": "The home baking trend that surged during lockdowns continues as people explore sourdough, whole wheat breads, and healthier dessert options.",
+      "pubDate": "2025-03-14 10:00:00",
+      "image_url": "https://picsum.photos/600/400?food42",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_043",
+      "title": "Millet-based foods see revival in Indian markets",
+      "description": "Ancient grains return to plates.",
+      "content": "Millet-based foods such as ragi, jowar, and bajra are seeing a revival due to their nutritional value and climate resilience.",
+      "pubDate": "2025-03-15 08:40:00",
+      "image_url": "https://picsum.photos/600/400?food43",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_044",
+      "title": "Food delivery apps introduce eco-friendly packaging",
+      "description": "Sustainability in focus.",
+      "content": "Food delivery platforms are adopting biodegradable and recyclable packaging to reduce environmental impact and plastic waste.",
+      "pubDate": "2025-03-16 09:30:00",
+      "image_url": "https://picsum.photos/600/400?food44",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_045",
+      "title": "Street food vendors adopt digital payment systems",
+      "description": "Cashless transactions grow.",
+      "content": "Street food vendors across cities are increasingly adopting digital payment systems, making transactions faster and more convenient for customers.",
+      "pubDate": "2025-03-17 10:15:00",
+      "image_url": "https://picsum.photos/600/400?food45",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_046",
+      "title": "Protein-rich breakfasts recommended by diet experts",
+      "description": "Morning meals gain importance.",
+      "content": "Diet experts recommend protein-rich breakfasts to support energy levels, muscle health, and improved metabolism throughout the day.",
+      "pubDate": "2025-03-18 09:05:00",
+      "image_url": "https://picsum.photos/600/400?food46",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_047",
+      "title": "Regional pickles and chutneys enter global markets",
+      "description": "Traditional flavors go international.",
+      "content": "Artisan-made pickles and chutneys from different regions are finding global markets through online exports and specialty food stores.",
+      "pubDate": "2025-03-19 08:50:00",
+      "image_url": "https://picsum.photos/600/400?food47",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_048",
+      "title": "Cold brew coffee popularity rises among youth",
+      "description": "New-age coffee trends grow.",
+      "content": "Cold brew coffee is gaining popularity among young consumers for its smooth taste, lower acidity, and refreshing appeal.",
+      "pubDate": "2025-03-20 10:20:00",
+      "image_url": "https://picsum.photos/600/400?food48",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_049",
+      "title": "Local farmers markets gain support in urban areas",
+      "description": "Farm-to-table movement expands.",
+      "content": "Urban consumers are supporting local farmers markets to access fresh produce and promote sustainable food systems.",
+      "pubDate": "2025-03-21 09:40:00",
+      "image_url": "https://picsum.photos/600/400?food49",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_050",
+      "title": "Low-oil cooking techniques promoted for heart health",
+      "description": "Health awareness campaigns grow.",
+      "content": "Low-oil cooking techniques such as steaming, grilling, and air frying are promoted to reduce fat intake and improve heart health.",
+      "pubDate": "2025-03-22 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food50",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_051",
+      "title": "Food bloggers influence dining trends online",
+      "description": "Social media shapes food choices.",
+      "content": "Food bloggers and influencers play a key role in shaping dining trends by reviewing restaurants and sharing recipes online.",
+      "pubDate": "2025-03-23 10:10:00",
+      "image_url": "https://picsum.photos/600/400?food51",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_052",
+      "title": "Organic farming boosts supply of clean food products",
+      "description": "Chemical-free food demand grows.",
+      "content": "Organic farming practices are boosting the supply of chemical-free fruits, vegetables, and grains in local markets.",
+      "pubDate": "2025-03-24 08:35:00",
+      "image_url": "https://picsum.photos/600/400?food52",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_053",
+      "title": "Traditional sweets adapt to low-sugar recipes",
+      "description": "Health meets heritage.",
+      "content": "Sweet makers are adapting traditional dessert recipes to reduce sugar content while maintaining authentic flavors.",
+      "pubDate": "2025-03-25 09:25:00",
+      "image_url": "https://picsum.photos/600/400?food53",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_054",
+      "title": "Spice blends customized for regional preferences",
+      "description": "Personalized flavors rise.",
+      "content": "Food brands are offering customized spice blends tailored to regional taste preferences and cooking styles.",
+      "pubDate": "2025-03-26 10:05:00",
+      "image_url": "https://picsum.photos/600/400?food54",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_055",
+      "title": "Mindful portion control emphasized by nutritionists",
+      "description": "Balanced eating habits promoted.",
+      "content": "Nutritionists emphasize portion control as a simple and effective way to maintain healthy eating habits without strict dieting.",
+      "pubDate": "2025-03-27 09:15:00",
+      "image_url": "https://picsum.photos/600/400?food55",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_056",
+      "title": "Smart kitchen appliances improve cooking efficiency",
+      "description": "Technology enters home kitchens.",
+      "content": "Smart kitchen appliances such as app-controlled ovens and air fryers are improving cooking efficiency and convenience.",
+      "pubDate": "2025-03-28 10:25:00",
+      "image_url": "https://picsum.photos/600/400?food56",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_057",
+      "title": "Tea culture evolves with herbal and fusion blends",
+      "description": "New tea experiences emerge.",
+      "content": "Herbal teas and fusion blends combining traditional ingredients with modern flavors are gaining popularity among consumers.",
+      "pubDate": "2025-03-29 08:45:00",
+      "image_url": "https://picsum.photos/600/400?food57",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_058",
+      "title": "Home gardening encourages fresh ingredient usage",
+      "description": "Kitchen gardens grow.",
+      "content": "Home gardening initiatives encourage families to grow herbs and vegetables, promoting the use of fresh ingredients in daily cooking.",
+      "pubDate": "2025-03-30 09:35:00",
+      "image_url": "https://picsum.photos/600/400?food58",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_059",
+      "title": "Global cuisines influence Indian home cooking",
+      "description": "International flavors enter kitchens.",
+      "content": "Global cuisines such as Mediterranean, Korean, and Mexican are influencing Indian home cooking through accessible recipes.",
+      "pubDate": "2025-03-31 10:00:00",
+      "image_url": "https://picsum.photos/600/400?food59",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_060",
+      "title": "Nutrition labels help consumers make informed choices",
+      "description": "Food awareness improves.",
+      "content": "Clear nutrition labels on packaged foods are helping consumers make informed and healthier food choices.",
+      "pubDate": "2025-04-01 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food60",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

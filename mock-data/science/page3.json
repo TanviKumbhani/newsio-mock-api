@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "science_041",
+      "title": "Researchers uncover new mechanism behind memory formation",
+      "description": "Brain science reveals deeper insights.",
+      "content": "Neuroscientists have identified a new biological mechanism that explains how memories are formed and stored in the brain. The discovery could lead to improved treatments for memory-related disorders such as Alzheimer’s disease.",
+      "pubDate": "2025-02-11 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science41",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_042",
+      "title": "Quantum computing reaches new performance milestone",
+      "description": "Faster problem-solving capabilities achieved.",
+      "content": "Researchers have successfully demonstrated a quantum computer capable of solving complex calculations faster than traditional supercomputers, marking a significant step toward practical quantum applications.",
+      "pubDate": "2025-02-12 09:30:00",
+      "image_url": "https://picsum.photos/600/400?science42",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_043",
+      "title": "Study reveals long-term effects of microplastics on ecosystems",
+      "description": "Environmental science raises concerns.",
+      "content": "A comprehensive study has revealed that microplastics accumulate in soil and water ecosystems, disrupting food chains and potentially affecting human health over time.",
+      "pubDate": "2025-02-13 08:45:00",
+      "image_url": "https://picsum.photos/600/400?science43",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_044",
+      "title": "Scientists improve battery lifespan using new materials",
+      "description": "Energy storage innovation advances.",
+      "content": "A new battery material developed by scientists significantly improves charge cycles and lifespan, potentially revolutionizing electric vehicles and renewable energy storage.",
+      "pubDate": "2025-02-14 09:20:00",
+      "image_url": "https://picsum.photos/600/400?science44",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_045",
+      "title": "Astronomers discover planet with Earth-like atmosphere",
+      "description": "Search for life gains momentum.",
+      "content": "Astronomers have identified a distant exoplanet with an atmosphere that shares similarities with Earth, increasing optimism in the search for extraterrestrial life.",
+      "pubDate": "2025-02-15 10:05:00",
+      "image_url": "https://picsum.photos/600/400?science45",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_046",
+      "title": "New gene-editing technique improves precision",
+      "description": "Medical research benefits from accuracy.",
+      "content": "Scientists have refined a gene-editing technique that reduces unintended mutations, improving safety and precision in genetic research and therapies.",
+      "pubDate": "2025-02-16 09:15:00",
+      "image_url": "https://picsum.photos/600/400?science46",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_047",
+      "title": "Study links air pollution to reduced cognitive performance",
+      "description": "Health and environment intersect.",
+      "content": "Researchers have found strong evidence linking prolonged exposure to air pollution with reduced cognitive performance, emphasizing the need for cleaner urban air.",
+      "pubDate": "2025-02-17 08:50:00",
+      "image_url": "https://picsum.photos/600/400?science47",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_048",
+      "title": "Robotics researchers create adaptable humanoid robot",
+      "description": "Machines learn human-like movement.",
+      "content": "A team of robotics engineers has developed a humanoid robot capable of adapting its movements in real time, improving efficiency in industrial and healthcare applications.",
+      "pubDate": "2025-02-18 09:40:00",
+      "image_url": "https://picsum.photos/600/400?science48",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_049",
+      "title": "Ocean researchers map unexplored deep-sea regions",
+      "description": "Marine science uncovers new life forms.",
+      "content": "Using advanced submersibles, scientists have mapped previously unexplored deep-sea regions, discovering new species and unique geological formations.",
+      "pubDate": "2025-02-19 09:25:00",
+      "image_url": "https://picsum.photos/600/400?science49",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_050",
+      "title": "Researchers confirm link between diet and brain health",
+      "description": "Nutrition impacts mental performance.",
+      "content": "A long-term study confirms that balanced diets rich in fruits, vegetables, and healthy fats contribute significantly to improved brain health and memory retention.",
+      "pubDate": "2025-02-20 10:00:00",
+      "image_url": "https://picsum.photos/600/400?science50",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_051",
+      "title": "Space agencies collaborate on asteroid defense strategy",
+      "description": "Planetary protection gains focus.",
+      "content": "International space agencies are collaborating to develop asteroid detection and deflection strategies aimed at protecting Earth from potential impacts.",
+      "pubDate": "2025-02-21 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science51",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_052",
+      "title": "Scientists study effects of space travel on human body",
+      "description": "Long missions require medical insight.",
+      "content": "New studies analyze how prolonged space travel affects muscles, bones, and mental health, providing crucial data for future deep-space missions.",
+      "pubDate": "2025-02-22 09:35:00",
+      "image_url": "https://picsum.photos/600/400?science52",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_053",
+      "title": "Breakthrough in hydrogen fuel production announced",
+      "description": "Clean energy alternative advances.",
+      "content": "Researchers have developed a more efficient method for producing hydrogen fuel, potentially reducing costs and accelerating adoption of clean energy solutions.",
+      "pubDate": "2025-02-23 08:40:00",
+      "image_url": "https://picsum.photos/600/400?science53",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_054",
+      "title": "Scientists explore potential of brain-computer interfaces",
+      "description": "Human-machine interaction evolves.",
+      "content": "Brain-computer interface research is advancing rapidly, enabling direct communication between the human brain and machines for medical and technological applications.",
+      "pubDate": "2025-02-24 09:15:00",
+      "image_url": "https://picsum.photos/600/400?science54",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_055",
+      "title": "Study reveals climate change impact on global agriculture",
+      "description": "Food security faces challenges.",
+      "content": "Scientific research highlights how climate change affects crop yields worldwide, stressing the need for climate-resilient farming techniques.",
+      "pubDate": "2025-02-25 10:05:00",
+      "image_url": "https://picsum.photos/600/400?science55",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_056",
+      "title": "New telescope technology improves space observation",
+      "description": "Sharper images of distant galaxies.",
+      "content": "Advanced telescope optics now allow astronomers to capture clearer images of distant galaxies, enhancing research into cosmic evolution.",
+      "pubDate": "2025-02-26 09:30:00",
+      "image_url": "https://picsum.photos/600/400?science56",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_057",
+      "title": "Scientists identify bacteria capable of breaking down plastic",
+      "description": "Biotechnology tackles pollution.",
+      "content": "Researchers have identified bacterial strains that can break down plastic waste, offering promising solutions for environmental cleanup.",
+      "pubDate": "2025-02-27 08:50:00",
+      "image_url": "https://picsum.photos/600/400?science57",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_058",
+      "title": "Study explores genetic factors behind intelligence",
+      "description": "Complex traits under investigation.",
+      "content": "Genetic research suggests intelligence is influenced by multiple genes interacting with environmental factors, challenging simplified assumptions.",
+      "pubDate": "2025-02-28 09:40:00",
+      "image_url": "https://picsum.photos/600/400?science58",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_059",
+      "title": "Engineers design smart materials that adapt to temperature",
+      "description": "Responsive materials transform industries.",
+      "content": "Engineers have developed smart materials that change properties based on temperature, offering applications in construction, aerospace, and healthcare.",
+      "pubDate": "2025-03-01 09:20:00",
+      "image_url": "https://picsum.photos/600/400?science59",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_060",
+      "title": "Research shows meditation improves brain connectivity",
+      "description": "Mental wellness supported by science.",
+      "content": "Neuroscientific research indicates that regular meditation improves brain connectivity and emotional regulation, supporting mental well-being.",
+      "pubDate": "2025-03-02 09:55:00",
+      "image_url": "https://picsum.photos/600/400?science60",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

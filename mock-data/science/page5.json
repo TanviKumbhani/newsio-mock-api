@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "science_081",
+      "title": "Researchers discover new insights into human aging process",
+      "description": "Cellular changes explain aging patterns.",
+      "content": "Scientists studying cellular biology have identified key molecular changes that influence the aging process. These findings could help develop treatments aimed at extending healthy lifespan and delaying age-related diseases.",
+      "pubDate": "2025-03-23 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science81",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_082",
+      "title": "AI helps scientists accelerate drug discovery research",
+      "description": "Technology transforms medical science.",
+      "content": "Artificial intelligence tools are significantly reducing the time required to identify promising drug compounds. Researchers say this approach improves accuracy while lowering development costs.",
+      "pubDate": "2025-03-24 08:40:00",
+      "image_url": "https://picsum.photos/600/400?science82",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_083",
+      "title": "Study shows oceans absorb more heat than previously thought",
+      "description": "Climate research highlights ocean role.",
+      "content": "New climate studies indicate that oceans are absorbing significantly more heat, affecting marine ecosystems and accelerating global warming impacts.",
+      "pubDate": "2025-03-25 09:35:00",
+      "image_url": "https://picsum.photos/600/400?science83",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_084",
+      "title": "Scientists find link between music and brain plasticity",
+      "description": "Music enhances neural connections.",
+      "content": "Neuroscientists report that regular musical engagement improves brain plasticity, enhancing memory, learning ability, and emotional regulation.",
+      "pubDate": "2025-03-26 10:00:00",
+      "image_url": "https://picsum.photos/600/400?science84",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_085",
+      "title": "Researchers observe rare particle behavior in accelerator",
+      "description": "Physics experiments reveal surprises.",
+      "content": "Physicists working with particle accelerators have observed rare interactions that challenge existing theoretical models, opening new avenues for fundamental physics research.",
+      "pubDate": "2025-03-27 09:20:00",
+      "image_url": "https://picsum.photos/600/400?science85",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_086",
+      "title": "Scientists confirm benefits of intermittent fasting",
+      "description": "Nutrition science gains clarity.",
+      "content": "Clinical studies show that intermittent fasting can improve metabolic health, reduce inflammation, and support weight management when practiced safely.",
+      "pubDate": "2025-03-28 08:55:00",
+      "image_url": "https://picsum.photos/600/400?science86",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_087",
+      "title": "New satellite technology improves weather prediction accuracy",
+      "description": "Forecasting becomes more reliable.",
+      "content": "Advanced satellite sensors are enhancing the accuracy of weather forecasts, helping meteorologists predict extreme weather events earlier and more precisely.",
+      "pubDate": "2025-03-29 09:15:00",
+      "image_url": "https://picsum.photos/600/400?science87",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_088",
+      "title": "Study reveals how memories are consolidated during sleep",
+      "description": "Sleep science uncovers new mechanisms.",
+      "content": "Researchers have identified neural pathways that strengthen memories during sleep, reinforcing the role of rest in learning and long-term retention.",
+      "pubDate": "2025-03-30 09:45:00",
+      "image_url": "https://picsum.photos/600/400?science88",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_089",
+      "title": "Astronomers identify potentially habitable exoplanet",
+      "description": "Search for life expands.",
+      "content": "Astronomers have identified a distant exoplanet located in its star’s habitable zone, increasing excitement about the possibility of extraterrestrial life.",
+      "pubDate": "2025-03-31 10:05:00",
+      "image_url": "https://picsum.photos/600/400?science89",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_090",
+      "title": "Researchers improve battery lifespan with new materials",
+      "description": "Energy storage advances.",
+      "content": "New battery materials significantly extend lifespan and charging efficiency, supporting growth in electric vehicles and renewable energy storage.",
+      "pubDate": "2025-04-01 09:30:00",
+      "image_url": "https://picsum.photos/600/400?science90",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_091",
+      "title": "Scientists study how stress impacts immune response",
+      "description": "Mind and body connection explored.",
+      "content": "Studies reveal that chronic stress weakens immune defenses, increasing vulnerability to infections and slowing recovery.",
+      "pubDate": "2025-04-02 08:50:00",
+      "image_url": "https://picsum.photos/600/400?science91",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_092",
+      "title": "New research explains why humans dream",
+      "description": "Sleep mysteries continue.",
+      "content": "Neuroscientists suggest dreaming plays a role in emotional regulation and memory processing, offering clues into subconscious brain activity.",
+      "pubDate": "2025-04-03 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science92",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_093",
+      "title": "Researchers test nanotechnology for targeted cancer therapy",
+      "description": "Precision medicine advances.",
+      "content": "Nanotechnology-based treatments are being tested to deliver cancer drugs directly to tumors, reducing side effects and improving effectiveness.",
+      "pubDate": "2025-04-04 09:40:00",
+      "image_url": "https://picsum.photos/600/400?science93",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_094",
+      "title": "Study finds plants communicate through underground networks",
+      "description": "Nature’s hidden systems revealed.",
+      "content": "Scientists have discovered that plants communicate via underground fungal networks, sharing nutrients and warning signals to survive environmental stress.",
+      "pubDate": "2025-04-05 10:00:00",
+      "image_url": "https://picsum.photos/600/400?science94",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_095",
+      "title": "Scientists explore quantum computing breakthroughs",
+      "description": "Computing power reaches new frontier.",
+      "content": "Quantum computing research continues to advance, promising unprecedented processing power for complex scientific and industrial applications.",
+      "pubDate": "2025-04-06 09:25:00",
+      "image_url": "https://picsum.photos/600/400?science95",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_096",
+      "title": "New study shows impact of pollution on brain health",
+      "description": "Environmental risks increase.",
+      "content": "Long-term exposure to air pollution has been linked to cognitive decline, highlighting the importance of environmental protection policies.",
+      "pubDate": "2025-04-07 08:45:00",
+      "image_url": "https://picsum.photos/600/400?science96",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_097",
+      "title": "Scientists analyze ancient DNA to trace human migration",
+      "description": "History written in genes.",
+      "content": "Genetic analysis of ancient DNA provides new insights into early human migration patterns and cultural development.",
+      "pubDate": "2025-04-08 09:15:00",
+      "image_url": "https://picsum.photos/600/400?science97",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_098",
+      "title": "Research shows laughter reduces stress hormones",
+      "description": "Positive emotions benefit health.",
+      "content": "Studies indicate that laughter lowers stress hormone levels, improves mood, and strengthens social connections.",
+      "pubDate": "2025-04-09 09:50:00",
+      "image_url": "https://picsum.photos/600/400?science98",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_099",
+      "title": "Scientists refine models predicting sea level rise",
+      "description": "Coastal planning improves.",
+      "content": "Refined climate models provide more accurate predictions of sea level rise, aiding governments in coastal planning and disaster preparedness.",
+      "pubDate": "2025-04-10 10:05:00",
+      "image_url": "https://picsum.photos/600/400?science99",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_100",
+      "title": "Global research collaboration accelerates scientific innovation",
+      "description": "International teamwork drives progress.",
+      "content": "International scientific collaboration continues to accelerate innovation, enabling faster solutions to global challenges across health, climate, and technology.",
+      "pubDate": "2025-04-11 09:30:00",
+      "image_url": "https://picsum.photos/600/400?science100",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

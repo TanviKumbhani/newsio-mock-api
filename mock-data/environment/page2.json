@@ -1,0 +1,222 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "environment_021",
+      "title": "Rising sea levels threaten coastal cities worldwide",
+      "description": "Scientists warn of increasing flood risks.",
+      "content": "Climate researchers report that rising sea levels are putting major coastal cities at risk of frequent flooding. Melting glaciers and thermal expansion of oceans are accelerating the process, forcing governments to rethink urban planning and disaster preparedness strategies.",
+      "pubDate": "2025-01-25 09:10:00",
+      "image_url": "https://picsum.photos/600/400?env21",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_022",
+      "title": "Extreme heat waves impact global food production",
+      "description": "Agriculture faces climate pressure.",
+      "content": "Prolonged heat waves are affecting crop yields across multiple regions. Farmers are experiencing reduced harvests, raising concerns over food security and increased prices. Experts emphasize climate-resilient farming methods as a solution.",
+      "pubDate": "2025-01-26 08:45:00",
+      "image_url": "https://picsum.photos/600/400?env22",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_023",
+      "title": "Urban pollution levels drop due to green transport policies",
+      "description": "Public transit investments pay off.",
+      "content": "Cities investing in electric buses and bicycle infrastructure are seeing measurable drops in pollution levels. Environmental analysts say sustainable transport policies improve public health and reduce long-term healthcare costs.",
+      "pubDate": "2025-01-27 10:00:00",
+      "image_url": "https://picsum.photos/600/400?env23",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_024",
+      "title": "Deforestation rates slow due to stricter regulations",
+      "description": "Forest protection laws show results.",
+      "content": "Stronger environmental regulations and satellite monitoring have helped slow deforestation in several regions. Conservation groups highlight the importance of enforcement and community involvement in preserving forests.",
+      "pubDate": "2025-01-28 09:30:00",
+      "image_url": "https://picsum.photos/600/400?env24",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_025",
+      "title": "Recycling innovations transform plastic waste management",
+      "description": "New technologies improve recycling efficiency.",
+      "content": "Innovative recycling technologies are converting plastic waste into reusable raw materials. These advancements reduce landfill waste and support circular economy initiatives globally.",
+      "pubDate": "2025-01-29 11:15:00",
+      "image_url": "https://picsum.photos/600/400?env25",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_026",
+      "title": "Water conservation programs expand in drought-prone areas",
+      "description": "Governments promote sustainable water use.",
+      "content": "Drought-prone regions are adopting water conservation programs including drip irrigation and wastewater reuse. Officials say these efforts are critical for long-term water security.",
+      "pubDate": "2025-01-30 08:50:00",
+      "image_url": "https://picsum.photos/600/400?env26",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_027",
+      "title": "Coral reef restoration projects gain global support",
+      "description": "Marine ecosystems receive attention.",
+      "content": "Coral reef restoration initiatives are gaining momentum as scientists and volunteers work together to restore damaged reefs. These ecosystems are vital for marine biodiversity and coastal protection.",
+      "pubDate": "2025-01-31 09:20:00",
+      "image_url": "https://picsum.photos/600/400?env27",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_028",
+      "title": "Sustainable packaging reduces environmental footprint",
+      "description": "Brands shift to eco-friendly materials.",
+      "content": "Companies are increasingly switching to biodegradable and recyclable packaging. Environmental experts say consumer awareness is accelerating the shift toward sustainable product design.",
+      "pubDate": "2025-02-01 10:40:00",
+      "image_url": "https://picsum.photos/600/400?env28",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_029",
+      "title": "Wildfires increase as temperatures continue to rise",
+      "description": "Fire seasons grow longer.",
+      "content": "Rising global temperatures are contributing to longer and more intense wildfire seasons. Emergency services urge better land management and early warning systems to reduce damage.",
+      "pubDate": "2025-02-02 09:05:00",
+      "image_url": "https://picsum.photos/600/400?env29",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_030",
+      "title": "Renewable energy jobs increase worldwide",
+      "description": "Green economy creates employment.",
+      "content": "The renewable energy sector is generating millions of jobs globally. Solar and wind industries lead employment growth, supporting both economic development and environmental goals.",
+      "pubDate": "2025-02-03 11:00:00",
+      "image_url": "https://picsum.photos/600/400?env30",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_031",
+      "title": "Eco-tourism supports conservation and local economies",
+      "description": "Responsible travel gains popularity.",
+      "content": "Eco-tourism initiatives encourage travelers to support conservation while benefiting local communities. Sustainable tourism practices reduce environmental impact and preserve natural habitats.",
+      "pubDate": "2025-02-04 09:30:00",
+      "image_url": "https://picsum.photos/600/400?env31",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_032",
+      "title": "Green rooftops help cities combat heat islands",
+      "description": "Urban design adapts to climate change.",
+      "content": "Green rooftops are helping cities reduce heat absorption and improve air quality. Urban planners consider them a key solution to rising city temperatures.",
+      "pubDate": "2025-02-05 08:40:00",
+      "image_url": "https://picsum.photos/600/400?env32",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_033",
+      "title": "Environmental NGOs push for stronger climate action",
+      "description": "Advocacy efforts intensify.",
+      "content": "Environmental organizations are urging governments to implement stronger climate policies. Public campaigns focus on accountability and faster emission reductions.",
+      "pubDate": "2025-02-06 10:15:00",
+      "image_url": "https://picsum.photos/600/400?env33",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_034",
+      "title": "Smart irrigation systems reduce water waste",
+      "description": "Technology improves agriculture efficiency.",
+      "content": "Smart irrigation systems use sensors and data analytics to minimize water usage. These technologies help farmers conserve water while maintaining crop productivity.",
+      "pubDate": "2025-02-07 09:00:00",
+      "image_url": "https://picsum.photos/600/400?env34",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_035",
+      "title": "Carbon-neutral cities set ambitious sustainability targets",
+      "description": "Urban climate goals expand.",
+      "content": "Several cities have committed to becoming carbon-neutral within the next two decades. Initiatives include renewable energy adoption, public transit expansion, and waste reduction programs.",
+      "pubDate": "2025-02-08 11:20:00",
+      "image_url": "https://picsum.photos/600/400?env35",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_036",
+      "title": "Microplastics found in freshwater ecosystems",
+      "description": "Pollution reaches inland waters.",
+      "content": "Studies reveal increasing levels of microplastics in rivers and lakes. Researchers warn about long-term effects on wildlife and human health.",
+      "pubDate": "2025-02-09 09:35:00",
+      "image_url": "https://picsum.photos/600/400?env36",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_037",
+      "title": "Energy-efficient appliances gain consumer interest",
+      "description": "Households reduce power consumption.",
+      "content": "Consumers are increasingly choosing energy-efficient appliances to lower electricity bills and carbon emissions. Government incentives encourage wider adoption.",
+      "pubDate": "2025-02-10 08:55:00",
+      "image_url": "https://picsum.photos/600/400?env37",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_038",
+      "title": "Mangrove restoration strengthens coastal resilience",
+      "description": "Natural barriers protect shorelines.",
+      "content": "Mangrove restoration projects help protect coastal areas from erosion and storms. These ecosystems also support fisheries and biodiversity.",
+      "pubDate": "2025-02-11 10:10:00",
+      "image_url": "https://picsum.photos/600/400?env38",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_039",
+      "title": "Environmental data transparency improves public trust",
+      "description": "Open data supports accountability.",
+      "content": "Governments releasing environmental data publicly are improving transparency and trust. Access to data empowers citizens and researchers to track progress on climate goals.",
+      "pubDate": "2025-02-12 09:25:00",
+      "image_url": "https://picsum.photos/600/400?env39",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_040",
+      "title": "Global cooperation essential for climate resilience",
+      "description": "Experts emphasize shared responsibility.",
+      "content": "Climate experts stress that global cooperation is critical for building resilience against environmental challenges. Joint research, funding, and policy alignment remain key priorities.",
+     

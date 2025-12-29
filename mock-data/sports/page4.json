@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "sports_061",
+      "title": "National archery team sharpens focus ahead of international meets",
+      "description": "Precision training intensifies.",
+      "content": "The national archery team has intensified precision training sessions ahead of upcoming international competitions. Coaches are emphasizing mental focus, breath control, and consistency under pressure to improve scoring accuracy.",
+      "pubDate": "2025-04-30 07:20:00",
+      "image_url": "https://picsum.photos/600/400?sports61",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_062",
+      "title": "Young table tennis players gain exposure through national circuit",
+      "description": "Competitive experience expands.",
+      "content": "Young table tennis players are gaining valuable match experience through the national circuit, competing against seasoned athletes and adapting to different playing styles.",
+      "pubDate": "2025-05-01 10:15:00",
+      "image_url": "https://picsum.photos/600/400?sports62",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_063",
+      "title": "Cricket analysts stress importance of middle-over strategies",
+      "description": "Game balance becomes crucial.",
+      "content": "Cricket analysts have highlighted the importance of middle-over strategies in limited-overs formats, where controlled aggression and smart field placements often decide match outcomes.",
+      "pubDate": "2025-05-02 18:40:00",
+      "image_url": "https://picsum.photos/600/400?sports63",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_064",
+      "title": "Gymnastics federation launches injury prevention initiative",
+      "description": "Athlete safety prioritized.",
+      "content": "The gymnastics federation has launched an injury prevention initiative focused on load management, proper warm-ups, and early diagnosis of strain-related issues.",
+      "pubDate": "2025-05-03 09:30:00",
+      "image_url": "https://picsum.photos/600/400?sports64",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_065",
+      "title": "State-level football leagues strengthen talent pipeline",
+      "description": "Grassroots competitions expand.",
+      "content": "State-level football leagues are strengthening the national talent pipeline by providing regular competitive opportunities and structured development pathways for young players.",
+      "pubDate": "2025-05-04 16:05:00",
+      "image_url": "https://picsum.photos/600/400?sports65",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_066",
+      "title": "Sports psychologists work closely with elite athletes",
+      "description": "Mental conditioning gains importance.",
+      "content": "Sports psychologists are increasingly working alongside elite athletes to improve focus, stress management, and competitive mindset during high-pressure events.",
+      "pubDate": "2025-05-05 08:50:00",
+      "image_url": "https://picsum.photos/600/400?sports66",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_067",
+      "title": "Rowing teams emphasize synchronization and stamina",
+      "description": "Team coordination refined.",
+      "content": "National rowing teams are emphasizing synchronization and stamina in training sessions, recognizing that teamwork and rhythm are critical for competitive success.",
+      "pubDate": "2025-05-06 06:40:00",
+      "image_url": "https://picsum.photos/600/400?sports67",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_068",
+      "title": "Youth boxing program promotes discipline and fitness",
+      "description": "Structured training benefits youngsters.",
+      "content": "A nationwide youth boxing program is promoting discipline, physical fitness, and self-confidence through structured training and supervised competition.",
+      "pubDate": "2025-05-07 15:30:00",
+      "image_url": "https://picsum.photos/600/400?sports68",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_069",
+      "title": "National shooting range upgraded with modern equipment",
+      "description": "Training precision improves.",
+      "content": "The national shooting range has been upgraded with modern electronic scoring systems and safety enhancements to support elite-level training.",
+      "pubDate": "2025-05-08 11:20:00",
+      "image_url": "https://picsum.photos/600/400?sports69",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_070",
+      "title": "Athletes encouraged to balance academics and sports careers",
+      "description": "Dual-career pathways promoted.",
+      "content": "Sports authorities are encouraging young athletes to balance academics with training, ensuring long-term career stability beyond competitive sports.",
+      "pubDate": "2025-05-09 17:55:00",
+      "image_url": "https://picsum.photos/600/400?sports70",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_071",
+      "title": "Volleyball coaches emphasize quick transitions",
+      "description": "Game speed increases.",
+      "content": "Volleyball coaches are emphasizing quick transitions between defense and attack, helping teams adapt to the faster pace of modern gameplay.",
+      "pubDate": "2025-05-10 14:10:00",
+      "image_url": "https://picsum.photos/600/400?sports71",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_072",
+      "title": "National squash championship highlights emerging talent",
+      "description": "Young players impress selectors.",
+      "content": "The national squash championship showcased emerging talent, with several young players delivering strong performances against experienced competitors.",
+      "pubDate": "2025-05-11 19:40:00",
+      "image_url": "https://picsum.photos/600/400?sports72",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_073",
+      "title": "Endurance sports gain popularity among urban youth",
+      "description": "Running and cycling see growth.",
+      "content": "Endurance sports such as long-distance running and cycling are gaining popularity among urban youth seeking fitness and competitive challenges.",
+      "pubDate": "2025-05-12 06:30:00",
+      "image_url": "https://picsum.photos/600/400?sports73",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_074",
+      "title": "Sports nutritionists highlight role of balanced diets",
+      "description": "Performance linked to nutrition.",
+      "content": "Sports nutritionists stress that balanced diets tailored to training loads are crucial for performance, recovery, and injury prevention.",
+      "pubDate": "2025-05-13 09:00:00",
+      "image_url": "https://picsum.photos/600/400?sports74",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_075",
+      "title": "Adaptive sports programs expand opportunities for para-athletes",
+      "description": "Inclusive participation grows.",
+      "content": "Adaptive sports programs are expanding nationwide, providing para-athletes with access to quality coaching, facilities, and competitive platforms.",
+      "pubDate": "2025-05-14 12:15:00",
+      "image_url": "https://picsum.photos/600/400?sports75",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_076",
+      "title": "National handball league adopts new officiating guidelines",
+      "description": "Fair play emphasized.",
+      "content": "The national handball league has adopted new officiating guidelines to promote fair play, consistency, and player safety.",
+      "pubDate": "2025-05-15 18:25:00",
+      "image_url": "https://picsum.photos/600/400?sports76",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_077",
+      "title": "Coaches stress fundamentals during pre-season training",
+      "description": "Basics revisited for consistency.",
+      "content": "Pre-season training camps are focusing on fundamentals, ensuring athletes maintain strong technical foundations before competitive schedules begin.",
+      "pubDate": "2025-05-16 07:45:00",
+      "image_url": "https://picsum.photos/600/400?sports77",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_078",
+      "title": "Esports tournaments attract growing mainstream audience",
+      "description": "Digital competition gains acceptance.",
+      "content": "Esports tournaments are attracting a growing mainstream audience, with improved broadcasting, sponsorships, and structured leagues boosting credibility.",
+      "pubDate": "2025-05-17 21:10:00",
+      "image_url": "https://picsum.photos/600/400?sports78",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_079",
+      "title": "National sports science lab enhances athlete monitoring",
+      "description": "Data-driven training expands.",
+      "content": "A national sports science lab is enhancing athlete monitoring through wearable technology, providing real-time data on performance and recovery.",
+      "pubDate": "2025-05-18 10:05:00",
+      "image_url": "https://picsum.photos/600/400?sports79",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_080",
+      "title": "Annual sports conclave discusses future of athlete development",
+      "description": "Policy and innovation converge.",
+      "content": "The annual sports conclave brought together policymakers, coaches, and athletes to discuss innovation, funding models, and long-term athlete development strategies.",
+      "pubDate": "2025-05-19 20:30:00",
+      "image_url": "https://picsum.photos/600/400?sports80",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "5"
+}

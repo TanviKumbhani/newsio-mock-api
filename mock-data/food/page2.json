@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "food_021",
+      "title": "Rise of cloud kitchens transforms food business models",
+      "description": "Delivery-first kitchens gain popularity.",
+      "content": "Cloud kitchens are rapidly transforming the food industry by focusing entirely on delivery-based operations. This model reduces overhead costs and allows restaurants to experiment with multiple brands from a single kitchen space.",
+      "pubDate": "2025-02-21 09:10:00",
+      "image_url": "https://picsum.photos/600/400?food21",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_022",
+      "title": "Functional foods gain attention for preventive health",
+      "description": "Nutrition goes beyond basic diet.",
+      "content": "Functional foods enriched with vitamins, minerals, and probiotics are gaining attention for their role in preventing lifestyle diseases and improving overall health.",
+      "pubDate": "2025-02-22 10:00:00",
+      "image_url": "https://picsum.photos/600/400?food22",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_023",
+      "title": "Traditional cooking oils return to Indian households",
+      "description": "Cold-pressed oils regain trust.",
+      "content": "Cold-pressed oils like mustard, coconut, and groundnut oil are returning to Indian kitchens as consumers move away from refined oils.",
+      "pubDate": "2025-02-23 08:45:00",
+      "image_url": "https://picsum.photos/600/400?food23",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_024",
+      "title": "High-fiber diets recommended by nutritionists",
+      "description": "Digestive health gains focus.",
+      "content": "Nutritionists are recommending high-fiber diets to improve digestion, control blood sugar levels, and support heart health.",
+      "pubDate": "2025-02-24 09:30:00",
+      "image_url": "https://picsum.photos/600/400?food24",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_025",
+      "title": "Global demand rises for Indian spices and condiments",
+      "description": "Exports show steady growth.",
+      "content": "Indian spices and condiments continue to see strong global demand due to their quality, aroma, and health benefits.",
+      "pubDate": "2025-02-25 10:20:00",
+      "image_url": "https://picsum.photos/600/400?food25",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_026",
+      "title": "Healthy snacking trends reshape packaged food market",
+      "description": "Consumers seek nutritious alternatives.",
+      "content": "Packaged food companies are responding to demand for healthy snacks by reducing sugar, salt, and artificial ingredients.",
+      "pubDate": "2025-02-26 09:15:00",
+      "image_url": "https://picsum.photos/600/400?food26",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_027",
+      "title": "Cultural festivals boost demand for traditional foods",
+      "description": "Seasonal dishes remain popular.",
+      "content": "Cultural festivals across India significantly boost demand for traditional sweets and festive foods, supporting local producers.",
+      "pubDate": "2025-02-27 08:40:00",
+      "image_url": "https://picsum.photos/600/400?food27",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_028",
+      "title": "Zero-waste cooking practices gain popularity",
+      "description": "Sustainable kitchens emerge.",
+      "content": "Zero-waste cooking encourages the use of leftover ingredients and creative recipes to reduce food wastage at home.",
+      "pubDate": "2025-02-28 10:05:00",
+      "image_url": "https://picsum.photos/600/400?food28",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_029",
+      "title": "Fusion desserts attract younger consumers",
+      "description": "Innovation blends tradition with modern taste.",
+      "content": "Fusion desserts combining traditional Indian sweets with global flavors are attracting younger consumers and social media attention.",
+      "pubDate": "2025-03-01 09:50:00",
+      "image_url": "https://picsum.photos/600/400?food29",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_030",
+      "title": "Balanced school meals improve child nutrition",
+      "description": "Government programs show impact.",
+      "content": "Balanced meal programs in schools help improve child nutrition, attendance, and overall health outcomes.",
+      "pubDate": "2025-03-02 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food30",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_031",
+      "title": "Ancient fermentation techniques inspire modern chefs",
+      "description": "Traditional methods resurface.",
+      "content": "Ancient fermentation techniques are inspiring chefs to experiment with natural preservation and flavor development.",
+      "pubDate": "2025-03-03 10:15:00",
+      "image_url": "https://picsum.photos/600/400?food31",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_032",
+      "title": "Food startups focus on clean-label products",
+      "description": "Transparency drives trust.",
+      "content": "Food startups are focusing on clean-label products with simple ingredients to meet consumer demand for transparency.",
+      "pubDate": "2025-03-04 08:55:00",
+      "image_url": "https://picsum.photos/600/400?food32",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_033",
+      "title": "Seasonal fruits gain popularity in urban diets",
+      "description": "Fresh produce preferred.",
+      "content": "Urban consumers are increasingly including seasonal fruits in their diets to benefit from freshness and nutritional value.",
+      "pubDate": "2025-03-05 09:30:00",
+      "image_url": "https://picsum.photos/600/400?food33",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_034",
+      "title": "Cooking workshops attract young professionals",
+      "description": "Interest in culinary skills rises.",
+      "content": "Cooking workshops are attracting young professionals eager to learn healthy and creative cooking techniques.",
+      "pubDate": "2025-03-06 10:10:00",
+      "image_url": "https://picsum.photos/600/400?food34",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_035",
+      "title": "Ayurvedic nutrition concepts influence modern diets",
+      "description": "Ancient wisdom meets science.",
+      "content": "Ayurvedic nutrition principles emphasizing balance and digestion are influencing modern dietary choices.",
+      "pubDate": "2025-03-07 09:20:00",
+      "image_url": "https://picsum.photos/600/400?food35",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_036",
+      "title": "Digital recipes platforms reshape home cooking",
+      "description": "Online food content grows.",
+      "content": "Digital recipe platforms and food influencers are reshaping home cooking by offering easy and accessible cooking ideas.",
+      "pubDate": "2025-03-08 10:30:00",
+      "image_url": "https://picsum.photos/600/400?food36",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_037",
+      "title": "Low-sugar beverages gain market share",
+      "description": "Health-conscious consumers drive change.",
+      "content": "Low-sugar and natural beverages are gaining market share as consumers reduce sugar intake.",
+      "pubDate": "2025-03-09 08:45:00",
+      "image_url": "https://picsum.photos/600/400?food37",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_038",
+      "title": "Food traceability technology improves transparency",
+      "description": "Consumers demand accountability.",
+      "content": "Food traceability technology allows consumers to track the origin of ingredients, improving trust and safety.",
+      "pubDate": "2025-03-10 09:55:00",
+      "image_url": "https://picsum.photos/600/400?food38",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_039",
+      "title": "Regional breakfast dishes gain nationwide appeal",
+      "description": "Local flavors expand reach.",
+      "content": "Regional breakfast dishes such as poha, upma, and idli are gaining popularity across different regions of the country.",
+      "pubDate": "2025-03-11 10:05:00",
+      "image_url": "https://picsum.photos/600/400?food39",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_040",
+      "title": "Mindful eating practices promoted for wellness",
+      "description": "Awareness campaigns encourage healthy habits.",
+      "content": "Mindful eating practices encourage individuals to pay attention to food choices, portion sizes, and eating habits for overall wellness.",
+      "pubDate": "2025-03-12 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food40",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

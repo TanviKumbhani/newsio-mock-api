@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "politics_001",
+      "title": "Government outlines priorities for upcoming parliamentary session",
+      "description": "Focus on economy, employment, and reforms.",
+      "content": "The government has outlined its key priorities for the upcoming parliamentary session, emphasizing economic stability, job creation, and long-pending structural reforms. Senior ministers stated that legislative focus will remain on policies that support growth while maintaining social welfare commitments.",
+      "pubDate": "2025-01-05 09:00:00",
+      "image_url": "https://picsum.photos/600/400?politics1",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_002",
+      "title": "Opposition parties demand greater transparency in policymaking",
+      "description": "Calls for accountability grow louder.",
+      "content": "Opposition leaders have urged the government to increase transparency in policymaking processes. They emphasized the importance of parliamentary debates, public consultations, and independent oversight to strengthen democratic institutions.",
+      "pubDate": "2025-01-06 10:10:00",
+      "image_url": "https://picsum.photos/600/400?politics2",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_003",
+      "title": "Election Commission reviews preparations for upcoming state elections",
+      "description": "Focus on fair and secure voting.",
+      "content": "The Election Commission has begun reviewing preparations for upcoming state elections. Officials highlighted measures to ensure voter safety, transparency, and the use of technology to prevent electoral malpractices.",
+      "pubDate": "2025-01-07 08:45:00",
+      "image_url": "https://picsum.photos/600/400?politics3",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_004",
+      "title": "Parliamentary committee examines proposed budget allocations",
+      "description": "Spending priorities under review.",
+      "content": "A parliamentary committee is examining proposed budget allocations across various sectors. Lawmakers are assessing whether spending plans align with development goals and public expectations.",
+      "pubDate": "2025-01-08 09:30:00",
+      "image_url": "https://picsum.photos/600/400?politics4",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_005",
+      "title": "Foreign policy discussions focus on regional cooperation",
+      "description": "Diplomatic engagement takes center stage.",
+      "content": "Government officials emphasized the importance of regional cooperation during recent foreign policy discussions. Strengthening diplomatic ties and economic partnerships remains a key strategic objective.",
+      "pubDate": "2025-01-09 11:00:00",
+      "image_url": "https://picsum.photos/600/400?politics5",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_006",
+      "title": "Debate continues over proposed electoral reforms",
+      "description": "Lawmakers weigh benefits and challenges.",
+      "content": "Proposed electoral reforms have sparked debate across party lines. Supporters argue reforms will strengthen democracy, while critics urge careful implementation to avoid unintended consequences.",
+      "pubDate": "2025-01-10 09:20:00",
+      "image_url": "https://picsum.photos/600/400?politics6",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_007",
+      "title": "State governments push for increased federal funding",
+      "description": "Resource allocation discussions intensify.",
+      "content": "Several state governments have called for increased federal funding to support infrastructure and welfare projects. Negotiations are ongoing to balance regional needs with national priorities.",
+      "pubDate": "2025-01-11 08:50:00",
+      "image_url": "https://picsum.photos/600/400?politics7",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_008",
+      "title": "New policy aims to strengthen local governance",
+      "description": "Decentralization gains attention.",
+      "content": "A newly proposed policy seeks to strengthen local governance by empowering municipal and regional bodies. Officials believe decentralization will improve service delivery and accountability.",
+      "pubDate": "2025-01-12 10:00:00",
+      "image_url": "https://picsum.photos/600/400?politics8",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_009",
+      "title": "Political leaders emphasize unity amid rising polarization",
+      "description": "Calls for constructive dialogue.",
+      "content": "Senior political leaders have emphasized unity and constructive dialogue amid concerns about rising polarization. They urged citizens and parties to engage respectfully on key national issues.",
+      "pubDate": "2025-01-13 09:40:00",
+      "image_url": "https://picsum.photos/600/400?politics9",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_010",
+      "title": "Judicial reforms discussed in policy review meetings",
+      "description": "Efficiency and access under focus.",
+      "content": "Judicial reforms were discussed during recent policy review meetings, with emphasis on reducing case backlogs and improving access to justice for citizens.",
+      "pubDate": "2025-01-14 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics10",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_011",
+      "title": "Youth participation in politics shows steady increase",
+      "description": "Young voters engage more actively.",
+      "content": "Recent surveys indicate a steady increase in youth participation in political processes. Analysts credit digital outreach and issue-based campaigning for higher engagement.",
+      "pubDate": "2025-01-15 09:10:00",
+      "image_url": "https://picsum.photos/600/400?politics11",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_012",
+      "title": "Policy think tanks contribute to long-term development planning",
+      "description": "Research-driven governance grows.",
+      "content": "Policy think tanks are playing an increasing role in shaping long-term development strategies. Experts stress the value of data-driven decision-making in governance.",
+      "pubDate": "2025-01-16 10:25:00",
+      "image_url": "https://picsum.photos/600/400?politics12",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_013",
+      "title": "International observers praise democratic processes",
+      "description": "Electoral systems gain recognition.",
+      "content": "International observers have praised the country’s democratic processes, highlighting transparent elections and strong institutional frameworks.",
+      "pubDate": "2025-01-17 09:35:00",
+      "image_url": "https://picsum.photos/600/400?politics13",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_014",
+      "title": "Lawmakers debate social welfare policy updates",
+      "description": "Balancing growth and inclusion.",
+      "content": "Lawmakers are debating updates to social welfare policies to ensure inclusive growth. Discussions focus on improving efficiency while maintaining support for vulnerable groups.",
+      "pubDate": "2025-01-18 08:40:00",
+      "image_url": "https://picsum.photos/600/400?politics14",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_015",
+      "title": "Digital governance initiatives expand nationwide",
+      "description": "Technology reshapes administration.",
+      "content": "Digital governance initiatives are expanding nationwide, improving service delivery and reducing administrative delays. Officials highlight transparency and efficiency gains.",
+      "pubDate": "2025-01-19 09:50:00",
+      "image_url": "https://picsum.photos/600/400?politics15",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_016",
+      "title": "Public consultations shape upcoming legislation",
+      "description": "Citizen participation increases.",
+      "content": "Public consultations are increasingly influencing upcoming legislation. Lawmakers say citizen feedback helps align policies with real-world needs.",
+      "pubDate": "2025-01-20 10:00:00",
+      "image_url": "https://picsum.photos/600/400?politics16",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_017",
+      "title": "Political analysts discuss long-term governance challenges",
+      "description": "Experts evaluate future risks.",
+      "content": "Political analysts are discussing long-term governance challenges, including demographic shifts, economic transitions, and climate-related policy demands.",
+      "pubDate": "2025-01-21 09:15:00",
+      "image_url": "https://picsum.photos/600/400?politics17",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_018",
+      "title": "Cross-party discussions aim to reduce legislative gridlock",
+      "description": "Consensus-building efforts grow.",
+      "content": "Cross-party discussions are underway to reduce legislative gridlock. Leaders emphasize cooperation to ensure smooth governance and policy continuity.",
+      "pubDate": "2025-01-22 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics18",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_019",
+      "title": "Civil society groups advocate policy reforms",
+      "description": "Grassroots voices gain attention.",
+      "content": "Civil society organizations continue to advocate for policy reforms on issues such as education, healthcare, and environmental protection, engaging actively with policymakers.",
+      "pubDate": "2025-01-23 09:45:00",
+      "image_url": "https://picsum.photos/600/400?politics19",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_020",
+      "title": "Governance reforms aim to improve public service delivery",
+      "description": "Efficiency and accountability prioritized.",
+      "content": "Governance reforms are being introduced to improve public service delivery. Officials stress accountability, transparency, and measurable outcomes as core objectives.",
+      "pubDate": "2025-01-24 09:00:00",
+      "image_url": "https://picsum.photos/600/400?politics20",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

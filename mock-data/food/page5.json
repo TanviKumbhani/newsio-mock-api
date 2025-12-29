@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "food_081",
+      "title": "Traditional home remedies regain trust among families",
+      "description": "Natural food-based healing returns.",
+      "content": "Families are returning to traditional home remedies using everyday kitchen ingredients such as turmeric, ginger, and honey to support immunity and minor health concerns, supported by growing scientific validation.",
+      "pubDate": "2025-04-22 09:10:00",
+      "image_url": "https://picsum.photos/600/400?food81",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_082",
+      "title": "Low-oil cooking methods gain popularity nationwide",
+      "description": "Health-conscious kitchens evolve.",
+      "content": "Low-oil cooking methods such as steaming, grilling, and air frying are becoming popular as households aim to reduce calorie intake without sacrificing taste.",
+      "pubDate": "2025-04-23 08:45:00",
+      "image_url": "https://picsum.photos/600/400?food82",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_083",
+      "title": "Food cooperatives strengthen farmer-to-consumer networks",
+      "description": "Direct sourcing improves quality.",
+      "content": "Food cooperatives are strengthening direct farmer-to-consumer networks, ensuring fair prices for farmers and fresher produce for consumers.",
+      "pubDate": "2025-04-24 09:30:00",
+      "image_url": "https://picsum.photos/600/400?food83",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_084",
+      "title": "Smart kitchen appliances simplify daily cooking",
+      "description": "Technology enters food preparation.",
+      "content": "Smart kitchen appliances with programmable settings and app integration are simplifying daily cooking tasks while improving efficiency and consistency.",
+      "pubDate": "2025-04-25 10:15:00",
+      "image_url": "https://picsum.photos/600/400?food84",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_085",
+      "title": "Homemade sauces replace processed alternatives",
+      "description": "Clean-label food choices rise.",
+      "content": "Consumers are replacing processed sauces with homemade versions to avoid preservatives and control ingredient quality, leading to healthier meal options.",
+      "pubDate": "2025-04-26 09:05:00",
+      "image_url": "https://picsum.photos/600/400?food85",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_086",
+      "title": "Balanced meal planning supports busy lifestyles",
+      "description": "Structure helps nutrition goals.",
+      "content": "Balanced meal planning is helping busy individuals maintain nutritional goals by reducing reliance on fast food and impulsive eating habits.",
+      "pubDate": "2025-04-27 08:50:00",
+      "image_url": "https://picsum.photos/600/400?food86",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_087",
+      "title": "Cultural food festivals revive forgotten recipes",
+      "description": "Heritage dishes gain recognition.",
+      "content": "Cultural food festivals are reviving forgotten recipes by celebrating traditional cooking methods and regional flavors passed down through generations.",
+      "pubDate": "2025-04-28 09:40:00",
+      "image_url": "https://picsum.photos/600/400?food87",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_088",
+      "title": "Food packaging innovations focus on sustainability",
+      "description": "Eco-friendly materials expand.",
+      "content": "Food packaging innovations are focusing on sustainable materials such as biodegradable containers and recyclable paper-based packaging to reduce environmental impact.",
+      "pubDate": "2025-04-29 10:10:00",
+      "image_url": "https://picsum.photos/600/400?food88",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_089",
+      "title": "Street food vendors adopt better hygiene standards",
+      "description": "Cleanliness improves consumer confidence.",
+      "content": "Street food vendors are adopting better hygiene practices and quality standards to improve consumer confidence while maintaining authentic flavors.",
+      "pubDate": "2025-04-30 09:25:00",
+      "image_url": "https://picsum.photos/600/400?food89",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_090",
+      "title": "Mindful grocery shopping reduces food waste",
+      "description": "Planning prevents excess buying.",
+      "content": "Mindful grocery shopping habits, including planning meals and checking pantry stock, are helping households reduce food waste and save money.",
+      "pubDate": "2025-05-01 08:55:00",
+      "image_url": "https://picsum.photos/600/400?food90",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_091",
+      "title": "Healthy breakfast routines improve daily productivity",
+      "description": "Morning nutrition gains importance.",
+      "content": "Nutritionists highlight that healthy breakfast routines improve concentration, energy levels, and overall productivity throughout the day.",
+      "pubDate": "2025-05-02 09:15:00",
+      "image_url": "https://picsum.photos/600/400?food91",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_092",
+      "title": "Community-supported agriculture connects urban consumers",
+      "description": "Direct farm connections grow.",
+      "content": "Community-supported agriculture programs are connecting urban consumers directly with local farms, providing fresh produce and supporting sustainable farming.",
+      "pubDate": "2025-05-03 10:00:00",
+      "image_url": "https://picsum.photos/600/400?food92",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_093",
+      "title": "Traditional spices recognized for medicinal value",
+      "description": "Scientific studies support ancient knowledge.",
+      "content": "Scientific studies increasingly recognize the medicinal value of traditional spices such as turmeric, cumin, and coriander, reinforcing ancient dietary wisdom.",
+      "pubDate": "2025-05-04 09:30:00",
+      "image_url": "https://picsum.photos/600/400?food93",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_094",
+      "title": "Home gardening supports fresh vegetable consumption",
+      "description": "Small gardens make big impact.",
+      "content": "Home gardening initiatives encourage families to grow fresh vegetables, improving food quality and promoting sustainable living practices.",
+      "pubDate": "2025-05-05 08:40:00",
+      "image_url": "https://picsum.photos/600/400?food94",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_095",
+      "title": "Nutrition labels influence smarter food choices",
+      "description": "Consumers read labels carefully.",
+      "content": "Clear nutrition labeling is influencing consumers to make smarter food choices by understanding sugar, fat, and calorie content before purchasing.",
+      "pubDate": "2025-05-06 09:20:00",
+      "image_url": "https://picsum.photos/600/400?food95",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_096",
+      "title": "Mindful portion control supports long-term health",
+      "description": "Eating habits slowly change.",
+      "content": "Mindful portion control helps individuals enjoy food while preventing overeating, supporting sustainable and long-term health improvements.",
+      "pubDate": "2025-05-07 10:05:00",
+      "image_url": "https://picsum.photos/600/400?food96",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_097",
+      "title": "Culinary education programs attract young learners",
+      "description": "Cooking skills taught early.",
+      "content": "Culinary education programs are attracting young learners interested in developing practical cooking skills and understanding food culture.",
+      "pubDate": "2025-05-08 09:10:00",
+      "image_url": "https://picsum.photos/600/400?food97",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_098",
+      "title": "Seasonal fruit consumption linked to stronger immunity",
+      "description": "Natural nutrition benefits highlighted.",
+      "content": "Doctors link seasonal fruit consumption to stronger immunity due to natural nutrient cycles and reduced chemical exposure.",
+      "pubDate": "2025-05-09 08:50:00",
+      "image_url": "https://picsum.photos/600/400?food98",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_099",
+      "title": "Cultural cooking traditions preserve family bonds",
+      "description": "Food strengthens relationships.",
+      "content": "Cultural cooking traditions help preserve family bonds by bringing generations together through shared recipes and meal preparation rituals.",
+      "pubDate": "2025-05-10 09:35:00",
+      "image_url": "https://picsum.photos/600/400?food99",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_100",
+      "title": "Simple dietary changes lead to sustainable health benefits",
+      "description": "Small steps make big difference.",
+      "content": "Nutrition experts confirm that simple dietary changes, when maintained consistently, lead to sustainable health benefits and improved quality of life.",
+      "pubDate": "2025-05-11 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food100",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

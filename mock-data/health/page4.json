@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "health_061",
+      "title": "Balanced breakfast improves daily productivity",
+      "description": "Morning nutrition sets the tone for the day.",
+      "content": "Nutrition experts explain that a balanced breakfast stabilizes blood sugar levels and improves focus throughout the day. Including protein, fiber, and healthy fats helps maintain sustained energy and prevents mid-morning fatigue.",
+      "pubDate": "2025-06-30 08:20:00",
+      "image_url": "https://picsum.photos/600/400?health61",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_062",
+      "title": "Sunlight exposure supports vitamin D production",
+      "description": "Natural light plays an important role in health.",
+      "content": "Doctors recommend moderate sunlight exposure to support vitamin D production, which is essential for bone strength and immune function. Even short daily exposure can have measurable benefits.",
+      "pubDate": "2025-07-01 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health62",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_063",
+      "title": "Limiting screen time improves sleep quality",
+      "description": "Digital habits affect rest.",
+      "content": "Sleep specialists advise reducing screen exposure before bedtime to improve sleep quality. Blue light from screens interferes with melatonin production, delaying natural sleep cycles.",
+      "pubDate": "2025-07-02 08:45:00",
+      "image_url": "https://picsum.photos/600/400?health63",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_064",
+      "title": "Regular stretching supports joint mobility",
+      "description": "Movement keeps joints flexible.",
+      "content": "Physiotherapists recommend daily stretching to maintain joint flexibility and reduce stiffness. Gentle mobility exercises are especially beneficial for people with sedentary lifestyles.",
+      "pubDate": "2025-07-03 09:30:00",
+      "image_url": "https://picsum.photos/600/400?health64",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_065",
+      "title": "Reducing sugar intake lowers chronic disease risk",
+      "description": "Moderation supports long-term health.",
+      "content": "Health researchers link high sugar consumption to increased risks of obesity, diabetes, and heart disease. Reducing added sugars improves metabolic health and energy balance.",
+      "pubDate": "2025-07-04 10:00:00",
+      "image_url": "https://picsum.photos/600/400?health65",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_066",
+      "title": "Mindfulness practices reduce daily stress",
+      "description": "Mental calm supports physical health.",
+      "content": "Mindfulness practices such as deep breathing and meditation help reduce stress hormones. Mental health professionals encourage short daily sessions for long-term benefits.",
+      "pubDate": "2025-07-05 09:15:00",
+      "image_url": "https://picsum.photos/600/400?health66",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_067",
+      "title": "Adequate protein intake supports muscle strength",
+      "description": "Nutrition plays a key role in strength.",
+      "content": "Dietitians explain that sufficient protein intake supports muscle repair, strength, and metabolism. Balanced protein sources include legumes, dairy, eggs, and lean meats.",
+      "pubDate": "2025-07-06 08:40:00",
+      "image_url": "https://picsum.photos/600/400?health67",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_068",
+      "title": "Healthy routines improve emotional stability",
+      "description": "Consistency supports mental health.",
+      "content": "Mental health professionals emphasize that structured daily routines improve emotional regulation and reduce anxiety. Predictable habits help create a sense of control and stability.",
+      "pubDate": "2025-07-07 09:00:00",
+      "image_url": "https://picsum.photos/600/400?health68",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_069",
+      "title": "Healthy snacks prevent overeating later",
+      "description": "Smart choices support appetite control.",
+      "content": "Nutrition experts suggest healthy snacks between meals to stabilize hunger levels. Foods rich in fiber and protein reduce overeating and improve dietary balance.",
+      "pubDate": "2025-07-08 09:35:00",
+      "image_url": "https://picsum.photos/600/400?health69",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_070",
+      "title": "Positive thinking supports immune health",
+      "description": "Mental outlook affects physical wellness.",
+      "content": "Studies indicate that positive emotional states contribute to improved immune response. Stress reduction and optimism are associated with better overall health outcomes.",
+      "pubDate": "2025-07-09 08:55:00",
+      "image_url": "https://picsum.photos/600/400?health70",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_071",
+      "title": "Regular hydration improves digestion",
+      "description": "Water supports digestive processes.",
+      "content": "Doctors emphasize that drinking adequate water aids digestion and nutrient absorption. Proper hydration also helps prevent common digestive discomforts.",
+      "pubDate": "2025-07-10 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health71",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_072",
+      "title": "Outdoor activities improve mental clarity",
+      "description": "Nature supports cognitive function.",
+      "content": "Spending time outdoors has been shown to improve mental clarity and reduce stress. Exposure to natural environments supports emotional well-being and creativity.",
+      "pubDate": "2025-07-11 08:50:00",
+      "image_url": "https://picsum.photos/600/400?health72",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_073",
+      "title": "Healthy sleep habits improve concentration",
+      "description": "Rest enhances cognitive performance.",
+      "content": "Sleep researchers note that consistent sleep schedules improve concentration, memory, and decision-making abilities. Adequate rest is essential for mental performance.",
+      "pubDate": "2025-07-12 09:25:00",
+      "image_url": "https://picsum.photos/600/400?health73",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_074",
+      "title": "Limiting caffeine improves sleep cycles",
+      "description": "Moderation supports restful nights.",
+      "content": "Health experts advise limiting caffeine intake in the afternoon and evening. Excess caffeine disrupts sleep patterns and reduces sleep quality.",
+      "pubDate": "2025-07-13 09:40:00",
+      "image_url": "https://picsum.photos/600/400?health74",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_075",
+      "title": "Healthy relationships improve emotional well-being",
+      "description": "Social bonds matter.",
+      "content": "Psychologists emphasize that supportive relationships improve emotional well-being and reduce stress. Strong social connections contribute to overall life satisfaction.",
+      "pubDate": "2025-07-14 09:00:00",
+      "image_url": "https://picsum.photos/600/400?health75",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_076",
+      "title": "Daily movement improves metabolic health",
+      "description": "Activity boosts internal balance.",
+      "content": "Doctors encourage regular daily movement to improve metabolic health. Simple activities such as walking help regulate blood sugar and cholesterol levels.",
+      "pubDate": "2025-07-15 08:35:00",
+      "image_url": "https://picsum.photos/600/400?health76",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_077",
+      "title": "Reducing salt intake lowers blood pressure",
+      "description": "Dietary awareness supports heart health.",
+      "content": "Health organizations recommend reducing salt consumption to maintain healthy blood pressure levels. Small dietary changes can produce long-term cardiovascular benefits.",
+      "pubDate": "2025-07-16 09:15:00",
+      "image_url": "https://picsum.photos/600/400?health77",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_078",
+      "title": "Mental breaks improve workplace productivity",
+      "description": "Rest boosts performance.",
+      "content": "Occupational health experts advise taking short mental breaks during work hours. These breaks reduce fatigue and enhance overall productivity.",
+      "pubDate": "2025-07-17 08:55:00",
+      "image_url": "https://picsum.photos/600/400?health78",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_079",
+      "title": "Healthy routines support long-term wellness",
+      "description": "Consistency drives health outcomes.",
+      "content": "Health professionals agree that sustainable routines have the greatest impact on long-term wellness. Gradual improvements are more effective than extreme changes.",
+      "pubDate": "2025-07-18 09:30:00",
+      "image_url": "https://picsum.photos/600/400?health79",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_080",
+      "title": "Preventive care reduces long-term health risks",
+      "description": "Early action improves outcomes.",
+      "content": "Healthcare professionals emphasize that preventive care, regular screenings, and lifestyle management significantly reduce long-term health risks and medical expenses.",
+      "pubDate": "2025-07-19 09:05:00",
+      "image_url": "https://picsum.photos/600/400?health80",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "5"
+}

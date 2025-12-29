@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "science_021",
+      "title": "Scientists develop AI-powered microscope for cell analysis",
+      "description": "Advanced imaging boosts medical research.",
+      "content": "Researchers have developed an AI-powered microscope capable of identifying cellular changes in real time. The technology improves accuracy in disease detection and significantly reduces diagnostic time in medical laboratories.",
+      "pubDate": "2025-01-22 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science21",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_022",
+      "title": "Study finds strong link between sleep and immune strength",
+      "description": "Sleep quality impacts overall health.",
+      "content": "A multi-year study has confirmed that individuals with consistent, high-quality sleep patterns exhibit stronger immune responses and lower risks of chronic illnesses.",
+      "pubDate": "2025-01-23 08:45:00",
+      "image_url": "https://picsum.photos/600/400?science22",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_023",
+      "title": "New robotic system assists surgeons in complex procedures",
+      "description": "Precision surgery enhanced by robotics.",
+      "content": "Medical researchers have unveiled a robotic assistance system designed to improve precision during complex surgeries, reducing human error and improving patient recovery times.",
+      "pubDate": "2025-01-24 09:35:00",
+      "image_url": "https://picsum.photos/600/400?science23",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_024",
+      "title": "Scientists monitor Antarctic ice melt using satellites",
+      "description": "Climate data reveals alarming trends.",
+      "content": "Satellite monitoring has revealed accelerated ice melt in Antarctica, providing scientists with critical data to understand rising sea levels and global climate impact.",
+      "pubDate": "2025-01-25 09:00:00",
+      "image_url": "https://picsum.photos/600/400?science24",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_025",
+      "title": "Breakthrough study explains human aging process",
+      "description": "Cell regeneration key to longevity.",
+      "content": "A breakthrough study has identified cellular mechanisms responsible for aging, offering potential pathways for therapies that slow age-related decline.",
+      "pubDate": "2025-01-26 10:20:00",
+      "image_url": "https://picsum.photos/600/400?science25",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_026",
+      "title": "New material absorbs carbon dioxide efficiently",
+      "description": "Innovation supports climate goals.",
+      "content": "Scientists have developed a novel material capable of absorbing large amounts of carbon dioxide from the atmosphere, supporting global carbon reduction efforts.",
+      "pubDate": "2025-01-27 09:50:00",
+      "image_url": "https://picsum.photos/600/400?science26",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_027",
+      "title": "Neuroscience research reveals brain adaptability",
+      "description": "Brain remains flexible longer than believed.",
+      "content": "New neuroscience research shows the human brain retains its ability to adapt and rewire well into adulthood, challenging long-standing assumptions.",
+      "pubDate": "2025-01-28 08:30:00",
+      "image_url": "https://picsum.photos/600/400?science27",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_028",
+      "title": "Astronomers detect mysterious radio signals from space",
+      "description": "Signals raise questions about cosmic sources.",
+      "content": "Astronomers have detected unusual radio signals originating from distant galaxies, prompting new research into their possible sources and significance.",
+      "pubDate": "2025-01-29 09:15:00",
+      "image_url": "https://picsum.photos/600/400?science28",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_029",
+      "title": "Researchers improve water purification technology",
+      "description": "Cleaner water access expands globally.",
+      "content": "A new water purification system developed by scientists increases filtration efficiency and reduces cost, helping expand access to clean drinking water.",
+      "pubDate": "2025-01-30 09:40:00",
+      "image_url": "https://picsum.photos/600/400?science29",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_030",
+      "title": "Study explores effects of screen time on young minds",
+      "description": "Digital habits under scientific review.",
+      "content": "Scientists are studying how prolonged screen exposure affects cognitive development in children, highlighting the importance of balanced digital usage.",
+      "pubDate": "2025-01-31 08:55:00",
+      "image_url": "https://picsum.photos/600/400?science30",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_031",
+      "title": "Volcanic activity provides insight into Earth's core",
+      "description": "Geological studies uncover new data.",
+      "content": "Scientists studying volcanic activity have gained new insights into the Earth’s core composition, improving understanding of tectonic behavior.",
+      "pubDate": "2025-02-01 09:05:00",
+      "image_url": "https://picsum.photos/600/400?science31",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_032",
+      "title": "Scientists test algae-based biofuel alternatives",
+      "description": "Renewable energy research expands.",
+      "content": "Researchers are testing algae-based biofuels that could provide a sustainable alternative to fossil fuels with lower environmental impact.",
+      "pubDate": "2025-02-02 09:30:00",
+      "image_url": "https://picsum.photos/600/400?science32",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_033",
+      "title": "New study examines gut microbiome diversity",
+      "description": "Digestive health linked to bacteria balance.",
+      "content": "Scientists are examining how gut microbiome diversity influences digestion, immunity, and mental health, opening doors to personalized medicine.",
+      "pubDate": "2025-02-03 08:40:00",
+      "image_url": "https://picsum.photos/600/400?science33",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_034",
+      "title": "Researchers create self-healing concrete material",
+      "description": "Infrastructure durability improved.",
+      "content": "A self-healing concrete material has been developed that can repair cracks automatically, extending the lifespan of buildings and infrastructure.",
+      "pubDate": "2025-02-04 09:25:00",
+      "image_url": "https://picsum.photos/600/400?science34",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_035",
+      "title": "Study highlights importance of biodiversity conservation",
+      "description": "Ecosystem balance at risk.",
+      "content": "A comprehensive study emphasizes the critical role biodiversity plays in maintaining ecosystem stability and supporting human life.",
+      "pubDate": "2025-02-05 10:00:00",
+      "image_url": "https://picsum.photos/600/400?science35",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_036",
+      "title": "Researchers simulate black hole behavior in laboratory",
+      "description": "Physics experiments break new ground.",
+      "content": "Physicists have successfully simulated black hole-like behavior in laboratory conditions, allowing deeper exploration of fundamental physics.",
+      "pubDate": "2025-02-06 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science36",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_037",
+      "title": "AI assists in early cancer detection",
+      "description": "Medical diagnostics enhanced.",
+      "content": "Artificial intelligence systems are being used to detect early signs of cancer with higher accuracy, potentially saving lives through early intervention.",
+      "pubDate": "2025-02-07 09:45:00",
+      "image_url": "https://picsum.photos/600/400?science37",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_038",
+      "title": "Scientists analyze impact of urban heat islands",
+      "description": "Cities face rising temperatures.",
+      "content": "Research into urban heat islands reveals how dense city infrastructure increases local temperatures, prompting strategies for greener urban design.",
+      "pubDate": "2025-02-08 08:35:00",
+      "image_url": "https://picsum.photos/600/400?science38",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_039",
+      "title": "Breakthrough in nanotechnology enables precision medicine",
+      "description": "Targeted treatments become possible.",
+      "content": "Nanotechnology advancements are enabling targeted drug delivery systems, reducing side effects and improving treatment outcomes.",
+      "pubDate": "2025-02-09 09:20:00",
+      "image_url": "https://picsum.photos/600/400?science39",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_040",
+      "title": "Study shows exercise boosts brain performance",
+      "description": "Physical activity benefits cognition.",
+      "content": "Scientific studies confirm that regular physical exercise enhances brain performance, memory retention, and emotional well-being.",
+      "pubDate": "2025-02-10 09:55:00",
+      "image_url": "https://picsum.photos/600/400?science40",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "food_001",
+      "title": "Traditional Indian diets gain global popularity",
+      "description": "Ancient food habits meet modern nutrition science.",
+      "content": "Traditional Indian diets based on whole grains, lentils, vegetables, and spices are gaining global attention for their balanced nutrition and health benefits. Nutrition experts highlight the role of turmeric, millet, and fermented foods in improving gut health and immunity.",
+      "pubDate": "2025-02-01 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food1",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_002",
+      "title": "Plant-based food industry records steady growth",
+      "description": "Consumer demand for vegan options rises.",
+      "content": "The plant-based food industry continues to grow as consumers increasingly choose vegan and vegetarian options for health, environmental, and ethical reasons. Major food brands are expanding plant-based product lines worldwide.",
+      "pubDate": "2025-02-02 10:15:00",
+      "image_url": "https://picsum.photos/600/400?food2",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_003",
+      "title": "Street food culture thrives in urban India",
+      "description": "Local flavors attract global attention.",
+      "content": "Indian street food culture continues to thrive, offering affordable and flavorful meals. Dishes like pani puri, dosa, and chaat are increasingly featured in international food festivals.",
+      "pubDate": "2025-02-03 08:40:00",
+      "image_url": "https://picsum.photos/600/400?food3",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_004",
+      "title": "Organic food demand increases among urban consumers",
+      "description": "Health awareness drives purchasing decisions.",
+      "content": "Urban consumers are increasingly choosing organic food products due to rising awareness about pesticide-free farming and long-term health benefits.",
+      "pubDate": "2025-02-04 11:00:00",
+      "image_url": "https://picsum.photos/600/400?food4",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_005",
+      "title": "Millets return as a staple in modern kitchens",
+      "description": "Ancient grains regain importance.",
+      "content": "Millets such as ragi, jowar, and bajra are making a comeback due to their high nutritional value and climate resilience. Chefs and home cooks alike are experimenting with millet-based recipes.",
+      "pubDate": "2025-02-05 09:30:00",
+      "image_url": "https://picsum.photos/600/400?food5",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_006",
+      "title": "Food delivery apps reshape eating habits",
+      "description": "Convenience changes urban lifestyles.",
+      "content": "Food delivery apps have transformed eating habits in cities by offering convenience and access to a wide variety of cuisines. However, experts advise moderation and mindful eating.",
+      "pubDate": "2025-02-06 10:05:00",
+      "image_url": "https://picsum.photos/600/400?food6",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_007",
+      "title": "Fermented foods gain attention for gut health",
+      "description": "Probiotics support digestion.",
+      "content": "Fermented foods like curd, kimchi, and kombucha are gaining popularity due to their probiotic benefits that support digestion and overall gut health.",
+      "pubDate": "2025-02-07 08:50:00",
+      "image_url": "https://picsum.photos/600/400?food7",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_008",
+      "title": "Sustainable food packaging reduces plastic waste",
+      "description": "Eco-friendly alternatives adopted.",
+      "content": "Food companies are adopting sustainable packaging materials to reduce plastic waste. Biodegradable and reusable packaging solutions are becoming more common.",
+      "pubDate": "2025-02-08 09:45:00",
+      "image_url": "https://picsum.photos/600/400?food8",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_009",
+      "title": "Regional Indian cuisines gain international recognition",
+      "description": "Local dishes reach global tables.",
+      "content": "Regional Indian cuisines from Kerala, Rajasthan, and the Northeast are gaining international recognition for their unique flavors and cooking techniques.",
+      "pubDate": "2025-02-09 11:20:00",
+      "image_url": "https://picsum.photos/600/400?food9",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_010",
+      "title": "Home cooking trends rise after health awareness",
+      "description": "Families return to homemade meals.",
+      "content": "Health awareness has encouraged many families to return to home cooking, focusing on fresh ingredients and balanced meals.",
+      "pubDate": "2025-02-10 09:10:00",
+      "image_url": "https://picsum.photos/600/400?food10",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_011",
+      "title": "High-protein diets influence food product innovation",
+      "description": "Fitness trends shape food choices.",
+      "content": "The rise of fitness culture has led to increased demand for high-protein foods, prompting innovation in snacks, beverages, and ready-to-eat meals.",
+      "pubDate": "2025-02-11 10:00:00",
+      "image_url": "https://picsum.photos/600/400?food11",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_012",
+      "title": "Traditional sweets evolve with healthier ingredients",
+      "description": "Sugar alternatives gain popularity.",
+      "content": "Traditional sweets are being reinvented using healthier ingredients like jaggery, dates, and natural sweeteners to meet modern dietary preferences.",
+      "pubDate": "2025-02-12 08:55:00",
+      "image_url": "https://picsum.photos/600/400?food12",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_013",
+      "title": "Global chefs explore Indian spices in fusion cuisine",
+      "description": "Flavors cross cultural boundaries.",
+      "content": "Indian spices such as cardamom, cumin, and garam masala are increasingly used by global chefs to create innovative fusion dishes.",
+      "pubDate": "2025-02-13 09:40:00",
+      "image_url": "https://picsum.photos/600/400?food13",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_014",
+      "title": "Food safety regulations strengthen consumer trust",
+      "description": "Quality control becomes priority.",
+      "content": "Stronger food safety regulations and quality checks are helping build consumer trust and ensure safer food supply chains.",
+      "pubDate": "2025-02-14 10:25:00",
+      "image_url": "https://picsum.photos/600/400?food14",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_015",
+      "title": "Seasonal eating promoted for better nutrition",
+      "description": "Local produce supports health.",
+      "content": "Nutritionists encourage seasonal eating to maximize nutrient intake and support local farmers while reducing environmental impact.",
+      "pubDate": "2025-02-15 09:15:00",
+      "image_url": "https://picsum.photos/600/400?food15",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "food_016",
+      "title": "Culinary tourism boosts local economies",
+      "description": "Food becomes travel attraction.",
+      "content": "Culinary tourism is boosting local economies as travelers seek authentic food experiences and traditional cooking methods.",
+      "pubDate": "2025-02-16 10:10:00",
+      "image_url": "https://picsum.photos/600/400?food16",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_017",
+      "title": "Food waste reduction initiatives expand globally",
+      "description": "Sustainability drives change.",
+      "content": "Food waste reduction initiatives encourage better storage, donation, and recycling practices across households and businesses.",
+      "pubDate": "2025-02-17 08:35:00",
+      "image_url": "https://picsum.photos/600/400?food17",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_018",
+      "title": "Smart kitchen appliances improve cooking efficiency",
+      "description": "Technology enters home kitchens.",
+      "content": "Smart kitchen appliances powered by IoT technology help improve cooking efficiency, safety, and energy usage.",
+      "pubDate": "2025-02-18 09:50:00",
+      "image_url": "https://picsum.photos/600/400?food18",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_019",
+      "title": "Nutrition labeling influences consumer decisions",
+      "description": "Transparency affects buying habits.",
+      "content": "Clear nutrition labeling helps consumers make informed food choices, contributing to healthier dietary habits.",
+      "pubDate": "2025-02-19 10:30:00",
+      "image_url": "https://picsum.photos/600/400?food19",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    },
+    {
+      "article_id": "food_020",
+      "title": "Balanced diets emphasized in public health campaigns",
+      "description": "Awareness programs promote wellness.",
+      "content": "Public health campaigns emphasize balanced diets rich in fruits, vegetables, proteins, and whole grains to prevent lifestyle diseases.",
+      "pubDate": "2025-02-20 09:00:00",
+      "image_url": "https://picsum.photos/600/400?food20",
+      "source_id": "newsio_food",
+      "category": ["food"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "health_081",
+      "title": "Morning sunlight helps regulate body clock",
+      "description": "Natural light supports circadian rhythm.",
+      "content": "Health experts explain that exposure to morning sunlight helps regulate the body’s internal clock. This improves sleep quality, mood stability, and overall energy levels throughout the day.",
+      "pubDate": "2025-07-20 08:10:00",
+      "image_url": "https://picsum.photos/600/400?health81",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_082",
+      "title": "Balanced meals reduce afternoon fatigue",
+      "description": "Food choices affect daily energy.",
+      "content": "Nutritionists highlight that meals containing complex carbohydrates, protein, and healthy fats help prevent sudden energy crashes during the afternoon hours.",
+      "pubDate": "2025-07-21 09:05:00",
+      "image_url": "https://picsum.photos/600/400?health82",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_083",
+      "title": "Walking after meals improves digestion",
+      "description": "Light movement supports gut health.",
+      "content": "Doctors recommend short walks after meals to support digestion and regulate blood sugar levels. Gentle movement improves metabolism without stressing the body.",
+      "pubDate": "2025-07-22 08:40:00",
+      "image_url": "https://picsum.photos/600/400?health83",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_084",
+      "title": "Limiting late-night eating improves sleep",
+      "description": "Timing matters for rest.",
+      "content": "Sleep specialists note that avoiding heavy meals late at night helps improve sleep quality. Proper digestion before bedtime reduces discomfort and sleep disruptions.",
+      "pubDate": "2025-07-23 09:20:00",
+      "image_url": "https://picsum.photos/600/400?health84",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_085",
+      "title": "Maintaining posture reduces back pain",
+      "description": "Ergonomics support spinal health.",
+      "content": "Physiotherapists emphasize that maintaining proper posture while sitting and standing reduces chronic back pain and muscle strain, especially for desk workers.",
+      "pubDate": "2025-07-24 09:00:00",
+      "image_url": "https://picsum.photos/600/400?health85",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_086",
+      "title": "Breathing exercises lower stress levels",
+      "description": "Controlled breathing calms the mind.",
+      "content": "Deep breathing exercises activate the parasympathetic nervous system, reducing stress hormones and improving emotional balance throughout the day.",
+      "pubDate": "2025-07-25 08:30:00",
+      "image_url": "https://picsum.photos/600/400?health86",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_087",
+      "title": "Healthy fats support brain function",
+      "description": "Nutrition affects cognition.",
+      "content": "Nutrition experts explain that healthy fats from nuts, seeds, and fish support brain health and cognitive function. These fats play a role in memory and concentration.",
+      "pubDate": "2025-07-26 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health87",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_088",
+      "title": "Reducing alcohol improves liver health",
+      "description": "Moderation supports organ function.",
+      "content": "Medical professionals advise limiting alcohol consumption to protect liver health. Even small reductions can lead to noticeable improvements over time.",
+      "pubDate": "2025-07-27 08:50:00",
+      "image_url": "https://picsum.photos/600/400?health88",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_089",
+      "title": "Positive self-talk improves emotional resilience",
+      "description": "Mental habits shape well-being.",
+      "content": "Psychologists explain that positive self-talk helps build emotional resilience and reduces negative thought patterns, improving overall mental health.",
+      "pubDate": "2025-07-28 09:30:00",
+      "image_url": "https://picsum.photos/600/400?health89",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_090",
+      "title": "Regular stretching reduces muscle stiffness",
+      "description": "Flexibility supports mobility.",
+      "content": "Stretching routines help reduce muscle stiffness and improve mobility, especially for individuals with sedentary work schedules.",
+      "pubDate": "2025-07-29 08:55:00",
+      "image_url": "https://picsum.photos/600/400?health90",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_091",
+      "title": "Consistent sleep schedule improves recovery",
+      "description": "Routine enhances rest quality.",
+      "content": "Sleep researchers recommend maintaining a consistent sleep schedule to improve physical recovery, immune function, and mental clarity.",
+      "pubDate": "2025-07-30 09:05:00",
+      "image_url": "https://picsum.photos/600/400?health91",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_092",
+      "title": "Hydration supports skin health",
+      "description": "Water improves skin function.",
+      "content": "Dermatologists emphasize that proper hydration supports skin elasticity and overall appearance. Water intake helps maintain healthy skin barriers.",
+      "pubDate": "2025-07-31 08:45:00",
+      "image_url": "https://picsum.photos/600/400?health92",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_093",
+      "title": "Mindful eating improves digestion",
+      "description": "Awareness supports gut health.",
+      "content": "Mindful eating encourages slower consumption and better digestion. Health professionals suggest focusing on meals without distractions.",
+      "pubDate": "2025-08-01 09:15:00",
+      "image_url": "https://picsum.photos/600/400?health93",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_094",
+      "title": "Maintaining social connections boosts happiness",
+      "description": "Relationships improve quality of life.",
+      "content": "Research shows that maintaining strong social connections improves emotional well-being and reduces feelings of isolation and stress.",
+      "pubDate": "2025-08-02 09:40:00",
+      "image_url": "https://picsum.photos/600/400?health94",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_095",
+      "title": "Healthy habits reduce long-term medical costs",
+      "description": "Prevention saves resources.",
+      "content": "Healthcare studies indicate that consistent healthy habits significantly reduce long-term medical expenses and chronic disease risks.",
+      "pubDate": "2025-08-03 08:50:00",
+      "image_url": "https://picsum.photos/600/400?health95",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_096",
+      "title": "Moderate exercise improves heart health",
+      "description": "Movement strengthens cardiovascular system.",
+      "content": "Doctors recommend moderate physical activity such as brisk walking or cycling to improve heart health and circulation.",
+      "pubDate": "2025-08-04 09:00:00",
+      "image_url": "https://picsum.photos/600/400?health96",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_097",
+      "title": "Reducing processed foods improves nutrition",
+      "description": "Whole foods support wellness.",
+      "content": "Nutrition experts encourage limiting processed foods to reduce excess salt, sugar, and unhealthy fats while improving overall diet quality.",
+      "pubDate": "2025-08-05 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health97",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_098",
+      "title": "Daily gratitude practice improves mental health",
+      "description": "Positive reflection builds resilience.",
+      "content": "Mental health specialists suggest daily gratitude practices to improve mood, emotional balance, and overall mental resilience.",
+      "pubDate": "2025-08-06 08:45:00",
+      "image_url": "https://picsum.photos/600/400?health98",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_099",
+      "title": "Listening to music reduces stress hormones",
+      "description": "Music supports relaxation.",
+      "content": "Studies show that listening to calming music reduces stress hormone levels and promotes relaxation and emotional well-being.",
+      "pubDate": "2025-08-07 09:20:00",
+      "image_url": "https://picsum.photos/600/400?health99",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_100",
+      "title": "Consistent healthy routines support longevity",
+      "description": "Small habits create lasting impact.",
+      "content": "Health experts agree that consistent healthy routines over time significantly improve longevity, quality of life, and overall wellness.",
+      "pubDate": "2025-08-08 09:00:00",
+      "image_url": "https://picsum.photos/600/400?health100",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

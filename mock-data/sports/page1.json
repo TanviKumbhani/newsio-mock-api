@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "sports_001",
+      "title": "India secures thrilling victory in last over cricket match",
+      "description": "A dramatic finish keeps fans on edge until the final ball.",
+      "content": "In an unforgettable cricket match, India clinched victory in the final over after a tense chase. The match showcased exceptional batting performances, strategic bowling changes, and electric crowd energy, making it one of the season’s most talked-about games.",
+      "pubDate": "2025-03-01 19:45:00",
+      "image_url": "https://picsum.photos/600/400?sports1",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_002",
+      "title": "Football league witnesses record-breaking attendance this season",
+      "description": "Fans return to stadiums in massive numbers.",
+      "content": "The national football league has recorded its highest-ever stadium attendance, signaling a strong revival of live sports. Clubs credit improved fan engagement, competitive matches, and better stadium experiences.",
+      "pubDate": "2025-03-02 18:30:00",
+      "image_url": "https://picsum.photos/600/400?sports2",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_003",
+      "title": "Young badminton star wins international championship",
+      "description": "Rising talent shines on global stage.",
+      "content": "A 19-year-old badminton sensation stunned the world by winning an international title. The victory highlights the country’s growing strength in badminton and the effectiveness of grassroots training programs.",
+      "pubDate": "2025-03-03 16:20:00",
+      "image_url": "https://picsum.photos/600/400?sports3",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_004",
+      "title": "Olympic committee announces new sports for upcoming games",
+      "description": "Modern sports gain global recognition.",
+      "content": "The Olympic committee has officially approved several new sports for the next Olympic Games, aiming to attract younger audiences and reflect evolving athletic trends worldwide.",
+      "pubDate": "2025-03-04 14:10:00",
+      "image_url": "https://picsum.photos/600/400?sports4",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_005",
+      "title": "Tennis legend announces retirement after iconic career",
+      "description": "End of an era in international tennis.",
+      "content": "One of tennis history’s greatest players has announced retirement, ending a career filled with Grand Slam titles, historic rivalries, and unforgettable moments that inspired generations.",
+      "pubDate": "2025-03-05 20:00:00",
+      "image_url": "https://picsum.photos/600/400?sports5",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_006",
+      "title": "Women’s football team qualifies for continental championship",
+      "description": "Historic achievement celebrated nationwide.",
+      "content": "The national women’s football team secured qualification for the continental championship after a dominant performance, marking a significant milestone for women’s sports development.",
+      "pubDate": "2025-03-06 17:35:00",
+      "image_url": "https://picsum.photos/600/400?sports6",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_007",
+      "title": "Formula racing season opens with dramatic podium finish",
+      "description": "High-speed action thrills motorsport fans.",
+      "content": "The opening race of the formula racing season delivered intense competition, unexpected overtakes, and a dramatic podium finish that set the tone for the championship.",
+      "pubDate": "2025-03-07 15:50:00",
+      "image_url": "https://picsum.photos/600/400?sports7",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_008",
+      "title": "National hockey team prepares for world cup challenge",
+      "description": "Focus on fitness and strategy.",
+      "content": "As the world cup approaches, the national hockey team intensifies training sessions, focusing on endurance, tactical awareness, and team coordination.",
+      "pubDate": "2025-03-08 10:40:00",
+      "image_url": "https://picsum.photos/600/400?sports8",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_009",
+      "title": "Kabaddi league attracts international players this season",
+      "description": "Traditional sport gains global reach.",
+      "content": "The kabaddi league has expanded its global appeal, attracting players from multiple countries and increasing international viewership.",
+      "pubDate": "2025-03-09 19:05:00",
+      "image_url": "https://picsum.photos/600/400?sports9",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_010",
+      "title": "Marathon event sees record participation in major city",
+      "description": "Fitness movement grows stronger.",
+      "content": "A city marathon recorded its highest-ever participation, reflecting growing public interest in fitness, endurance sports, and community-driven events.",
+      "pubDate": "2025-03-10 06:30:00",
+      "image_url": "https://picsum.photos/600/400?sports10",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_011",
+      "title": "Cricket board announces new domestic tournament format",
+      "description": "Structural changes aim to boost talent.",
+      "content": "The cricket board has introduced a revamped domestic tournament structure designed to provide young players with more competitive exposure.",
+      "pubDate": "2025-03-11 13:15:00",
+      "image_url": "https://picsum.photos/600/400?sports11",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_012",
+      "title": "Basketball team stages comeback win in league match",
+      "description": "Late surge turns the game around.",
+      "content": "Trailing for most of the match, the basketball team delivered a stunning comeback in the final quarter, thrilling fans with fast-paced offense.",
+      "pubDate": "2025-03-12 21:10:00",
+      "image_url": "https://picsum.photos/600/400?sports12",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_013",
+      "title": "Sports ministry increases funding for grassroots programs",
+      "description": "Focus on future champions.",
+      "content": "The government announced increased funding for grassroots sports initiatives to identify talent early and provide structured training nationwide.",
+      "pubDate": "2025-03-13 12:00:00",
+      "image_url": "https://picsum.photos/600/400?sports13",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_014",
+      "title": "Wrestlers dominate international tournament with multiple medals",
+      "description": "Strong showing on global mat.",
+      "content": "National wrestlers delivered outstanding performances at an international tournament, winning multiple medals and boosting the country’s ranking.",
+      "pubDate": "2025-03-14 18:45:00",
+      "image_url": "https://picsum.photos/600/400?sports14",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_015",
+      "title": "Athletics federation revises selection criteria",
+      "description": "Transparency emphasized.",
+      "content": "The athletics federation has revised its athlete selection criteria to ensure transparency, fairness, and performance-based evaluation.",
+      "pubDate": "2025-03-15 11:20:00",
+      "image_url": "https://picsum.photos/600/400?sports15",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_016",
+      "title": "Chess grandmaster wins prestigious international open",
+      "description": "Strategic brilliance on display.",
+      "content": "A grandmaster secured victory at a major international chess open, demonstrating exceptional strategic depth and consistency throughout the tournament.",
+      "pubDate": "2025-03-16 17:00:00",
+      "image_url": "https://picsum.photos/600/400?sports16",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_017",
+      "title": "Swimming championship highlights rising young athletes",
+      "description": "New records and fresh faces.",
+      "content": "The national swimming championship showcased emerging talent, with several young swimmers breaking records and gaining international attention.",
+      "pubDate": "2025-03-17 09:50:00",
+      "image_url": "https://picsum.photos/600/400?sports17",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_018",
+      "title": "Esports tournament draws massive online viewership",
+      "description": "Digital sports continue rapid growth.",
+      "content": "An international esports tournament attracted millions of online viewers, highlighting the rapid growth and commercial potential of competitive gaming.",
+      "pubDate": "2025-03-18 22:10:00",
+      "image_url": "https://picsum.photos/600/400?sports18",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_019",
+      "title": "Cycling event promotes eco-friendly transportation",
+      "description": "Sports meet sustainability.",
+      "content": "A nationwide cycling event promoted eco-friendly transport while encouraging fitness and environmental awareness among participants.",
+      "pubDate": "2025-03-19 07:15:00",
+      "image_url": "https://picsum.photos/600/400?sports19",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_020",
+      "title": "Coach emphasizes mental health support for athletes",
+      "description": "Well-being becomes priority.",
+      "content": "Leading coaches stress the importance of mental health support systems for athletes, recognizing psychological well-being as key to long-term performance.",
+      "pubDate": "2025-03-20 16:40:00",
+      "image_url": "https://picsum.photos/600/400?sports20",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

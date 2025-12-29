@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "science_001",
+      "title": "Scientists discover new exoplanet with Earth-like conditions",
+      "description": "The planet lies within a habitable zone of its star.",
+      "content": "Astronomers have discovered a new exoplanet located within the habitable zone of its parent star. Early studies suggest the presence of water-friendly atmospheric conditions, making it a strong candidate for further research.",
+      "pubDate": "2025-01-02 09:15:00",
+      "image_url": "https://picsum.photos/600/400?science1",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_002",
+      "title": "AI helps researchers predict earthquakes more accurately",
+      "description": "Machine learning models improve seismic analysis.",
+      "content": "Researchers are using artificial intelligence to analyze seismic data, helping predict earthquakes with improved accuracy and faster response times.",
+      "pubDate": "2025-01-03 08:40:00",
+      "image_url": "https://picsum.photos/600/400?science2",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_003",
+      "title": "New battery technology promises faster charging",
+      "description": "Breakthrough could transform electric vehicles.",
+      "content": "Scientists have developed a new battery technology that significantly reduces charging time while increasing energy efficiency, potentially revolutionizing electric transportation.",
+      "pubDate": "2025-01-04 10:00:00",
+      "image_url": "https://picsum.photos/600/400?science3",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_004",
+      "title": "Study reveals microplastics found in human bloodstream",
+      "description": "Environmental pollution impacts health.",
+      "content": "A new study has revealed the presence of microplastics in human blood samples, raising concerns about long-term health and environmental exposure.",
+      "pubDate": "2025-01-05 09:30:00",
+      "image_url": "https://picsum.photos/600/400?science4",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_005",
+      "title": "NASA tests next-generation space telescope",
+      "description": "Deep space observation enhanced.",
+      "content": "NASA has successfully tested components of a next-generation space telescope designed to observe distant galaxies and study cosmic evolution.",
+      "pubDate": "2025-01-06 08:55:00",
+      "image_url": "https://picsum.photos/600/400?science5",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_006",
+      "title": "Gene editing shows promise in treating inherited diseases",
+      "description": "CRISPR-based therapies advance.",
+      "content": "Scientists report encouraging results from gene-editing trials targeting inherited disorders, offering hope for long-term treatment solutions.",
+      "pubDate": "2025-01-07 09:20:00",
+      "image_url": "https://picsum.photos/600/400?science6",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_007",
+      "title": "Climate models improved using satellite data",
+      "description": "More accurate weather predictions possible.",
+      "content": "Enhanced satellite data integration has improved climate models, enabling scientists to better predict extreme weather events and long-term climate trends.",
+      "pubDate": "2025-01-08 09:45:00",
+      "image_url": "https://picsum.photos/600/400?science7",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_008",
+      "title": "Scientists identify new species in deep ocean",
+      "description": "Biodiversity continues to surprise researchers.",
+      "content": "Marine scientists have identified several new species living in deep ocean environments, highlighting the vast unknown biodiversity beneath the sea.",
+      "pubDate": "2025-01-09 10:10:00",
+      "image_url": "https://picsum.photos/600/400?science8",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_009",
+      "title": "Quantum computing reaches new milestone",
+      "description": "Faster problem-solving achieved.",
+      "content": "Researchers have achieved a new milestone in quantum computing, demonstrating faster processing speeds for complex scientific calculations.",
+      "pubDate": "2025-01-10 09:00:00",
+      "image_url": "https://picsum.photos/600/400?science9",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_010",
+      "title": "Study links air pollution to cognitive decline",
+      "description": "Long-term exposure raises concerns.",
+      "content": "A long-term study has linked air pollution exposure to increased risk of cognitive decline, emphasizing the need for cleaner air policies.",
+      "pubDate": "2025-01-11 08:30:00",
+      "image_url": "https://picsum.photos/600/400?science10",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_011",
+      "title": "Mars rover discovers evidence of ancient water flow",
+      "description": "Findings boost life research hopes.",
+      "content": "New data from a Mars rover shows geological formations consistent with ancient water flow, supporting theories of past habitability.",
+      "pubDate": "2025-01-12 09:35:00",
+      "image_url": "https://picsum.photos/600/400?science11",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_012",
+      "title": "Renewable energy efficiency hits record high",
+      "description": "Solar and wind technologies advance.",
+      "content": "Advancements in solar and wind technology have pushed renewable energy efficiency to record levels, accelerating clean energy adoption.",
+      "pubDate": "2025-01-13 09:50:00",
+      "image_url": "https://picsum.photos/600/400?science12",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_013",
+      "title": "Brain mapping project reveals neural connections",
+      "description": "Understanding human cognition improves.",
+      "content": "A large-scale brain mapping project has revealed new neural connections, helping scientists better understand memory, learning, and behavior.",
+      "pubDate": "2025-01-14 08:45:00",
+      "image_url": "https://picsum.photos/600/400?science13",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_014",
+      "title": "Scientists develop biodegradable plastic alternative",
+      "description": "Eco-friendly materials emerge.",
+      "content": "Researchers have developed a biodegradable alternative to conventional plastics that decomposes naturally without harming ecosystems.",
+      "pubDate": "2025-01-15 10:05:00",
+      "image_url": "https://picsum.photos/600/400?science14",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_015",
+      "title": "Space agency announces lunar research mission",
+      "description": "Moon exploration continues.",
+      "content": "A new lunar research mission aims to study the moon’s surface composition and support future human exploration plans.",
+      "pubDate": "2025-01-16 09:10:00",
+      "image_url": "https://picsum.photos/600/400?science15",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "science_016",
+      "title": "AI accelerates drug discovery process",
+      "description": "Medical research benefits from automation.",
+      "content": "Artificial intelligence tools are accelerating drug discovery by identifying promising compounds faster than traditional methods.",
+      "pubDate": "2025-01-17 09:40:00",
+      "image_url": "https://picsum.photos/600/400?science16",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_017",
+      "title": "Scientists study effects of space travel on human body",
+      "description": "Long-duration missions analyzed.",
+      "content": "New research examines how prolonged space travel affects human health, focusing on muscle loss, bone density, and mental well-being.",
+      "pubDate": "2025-01-18 08:50:00",
+      "image_url": "https://picsum.photos/600/400?science17",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_018",
+      "title": "Breakthrough in fusion energy research reported",
+      "description": "Clean energy future moves closer.",
+      "content": "Scientists have reported a breakthrough in fusion energy research, bringing the possibility of clean and virtually limitless power closer to reality.",
+      "pubDate": "2025-01-19 09:25:00",
+      "image_url": "https://picsum.photos/600/400?science18",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_019",
+      "title": "Ocean warming linked to coral reef decline",
+      "description": "Marine ecosystems under threat.",
+      "content": "Rising ocean temperatures have been linked to widespread coral reef decline, threatening marine biodiversity and coastal communities.",
+      "pubDate": "2025-01-20 09:55:00",
+      "image_url": "https://picsum.photos/600/400?science19",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    },
+    {
+      "article_id": "science_020",
+      "title": "Researchers unveil smart materials that adapt to environment",
+      "description": "Innovation in material science.",
+      "content": "New smart materials can adapt to environmental changes such as temperature and pressure, opening doors to advanced engineering applications.",
+      "pubDate": "2025-01-21 10:15:00",
+      "image_url": "https://picsum.photos/600/400?science20",
+      "source_id": "newsio_science",
+      "category": ["science"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

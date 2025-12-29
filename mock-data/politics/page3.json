@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "politics_041",
+      "title": "Government launches nationwide civic awareness campaign",
+      "description": "Citizens encouraged to participate actively in democracy.",
+      "content": "The government has launched a nationwide civic awareness campaign aimed at educating citizens about their rights, responsibilities, and the importance of active participation in democratic processes.",
+      "pubDate": "2025-02-14 09:00:00",
+      "image_url": "https://picsum.photos/600/400?politics41",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_042",
+      "title": "Election commission updates voter registration guidelines",
+      "description": "Simpler process for new voters.",
+      "content": "The election commission has updated voter registration guidelines to simplify the process for first-time voters while strengthening verification mechanisms.",
+      "pubDate": "2025-02-15 10:10:00",
+      "image_url": "https://picsum.photos/600/400?politics42",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_043",
+      "title": "Parliamentary panel reviews national digital policy",
+      "description": "Focus on innovation and data security.",
+      "content": "A parliamentary panel has begun reviewing the national digital policy with emphasis on innovation, cybersecurity, and responsible data usage across sectors.",
+      "pubDate": "2025-02-16 09:25:00",
+      "image_url": "https://picsum.photos/600/400?politics43",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_044",
+      "title": "State leaders discuss decentralization reforms",
+      "description": "Greater autonomy for local bodies.",
+      "content": "State leaders met to discuss decentralization reforms aimed at granting greater autonomy and financial independence to local governing bodies.",
+      "pubDate": "2025-02-17 08:40:00",
+      "image_url": "https://picsum.photos/600/400?politics44",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_045",
+      "title": "Foreign policy review emphasizes regional cooperation",
+      "description": "Diplomatic ties strengthened.",
+      "content": "A comprehensive foreign policy review has emphasized the importance of regional cooperation, economic partnerships, and diplomatic dialogue.",
+      "pubDate": "2025-02-18 09:50:00",
+      "image_url": "https://picsum.photos/600/400?politics45",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_046",
+      "title": "Youth leaders demand greater political representation",
+      "description": "Young voices seek policy inclusion.",
+      "content": "Youth leaders across the country are demanding greater representation in political decision-making, calling for policies that reflect the aspirations of younger generations.",
+      "pubDate": "2025-02-19 10:05:00",
+      "image_url": "https://picsum.photos/600/400?politics46",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_047",
+      "title": "Public consultations held on urban housing policy",
+      "description": "Affordable housing prioritized.",
+      "content": "Public consultations have been held to gather feedback on urban housing policies, focusing on affordability, sustainability, and inclusive planning.",
+      "pubDate": "2025-02-20 09:15:00",
+      "image_url": "https://picsum.photos/600/400?politics47",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_048",
+      "title": "Lawmakers propose reforms in public procurement system",
+      "description": "Transparency and efficiency targeted.",
+      "content": "Lawmakers have proposed reforms in the public procurement system to enhance transparency, reduce delays, and ensure fair competition.",
+      "pubDate": "2025-02-21 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics48",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_049",
+      "title": "Judicial reforms discussed at national policy forum",
+      "description": "Access to justice in focus.",
+      "content": "Judicial reforms were discussed at a national policy forum, focusing on improving access to justice, reducing case backlogs, and modernizing courts.",
+      "pubDate": "2025-02-22 09:35:00",
+      "image_url": "https://picsum.photos/600/400?politics49",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_050",
+      "title": "Government strengthens disaster management framework",
+      "description": "Preparedness and response enhanced.",
+      "content": "The government has strengthened the disaster management framework to improve preparedness, coordination, and rapid response during emergencies.",
+      "pubDate": "2025-02-23 10:20:00",
+      "image_url": "https://picsum.photos/600/400?politics50",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_051",
+      "title": "Political parties agree on code of ethical campaigning",
+      "description": "Clean elections emphasized.",
+      "content": "Major political parties have agreed on a code of ethical campaigning to promote clean elections and responsible political discourse.",
+      "pubDate": "2025-02-24 09:00:00",
+      "image_url": "https://picsum.photos/600/400?politics51",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_052",
+      "title": "Experts advise reforms in public education governance",
+      "description": "Accountability and quality improvement.",
+      "content": "Education experts have advised reforms in public education governance to enhance accountability, teacher training, and learning outcomes.",
+      "pubDate": "2025-02-25 08:45:00",
+      "image_url": "https://picsum.photos/600/400?politics52",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_053",
+      "title": "Government reviews national cybersecurity strategy",
+      "description": "Digital safety prioritized.",
+      "content": "A comprehensive review of the national cybersecurity strategy is underway to address emerging threats and protect critical digital infrastructure.",
+      "pubDate": "2025-02-26 09:30:00",
+      "image_url": "https://picsum.photos/600/400?politics53",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_054",
+      "title": "Rural governance reforms aim to empower village councils",
+      "description": "Local leadership strengthened.",
+      "content": "New governance reforms aim to empower village councils with greater decision-making authority and access to development funds.",
+      "pubDate": "2025-02-27 09:10:00",
+      "image_url": "https://picsum.photos/600/400?politics54",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_055",
+      "title": "National policy dialogue addresses income inequality",
+      "description": "Inclusive growth strategies discussed.",
+      "content": "A national policy dialogue has addressed income inequality, discussing inclusive growth strategies and targeted welfare measures.",
+      "pubDate": "2025-02-28 10:00:00",
+      "image_url": "https://picsum.photos/600/400?politics55",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_056",
+      "title": "Cross-party committee formed on electoral reforms",
+      "description": "Consensus-building effort.",
+      "content": "A cross-party committee has been formed to examine electoral reforms and propose changes aimed at strengthening democratic institutions.",
+      "pubDate": "2025-03-01 09:20:00",
+      "image_url": "https://picsum.photos/600/400?politics56",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_057",
+      "title": "Urban policy focuses on public transport expansion",
+      "description": "Sustainable mobility encouraged.",
+      "content": "Urban policy initiatives are focusing on expanding public transport networks to reduce congestion and promote sustainable mobility.",
+      "pubDate": "2025-03-02 08:50:00",
+      "image_url": "https://picsum.photos/600/400?politics57",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_058",
+      "title": "Civil society groups push for transparency legislation",
+      "description": "Open governance demand grows.",
+      "content": "Civil society groups are pushing for stronger transparency legislation to ensure open governance and public accountability.",
+      "pubDate": "2025-03-03 09:40:00",
+      "image_url": "https://picsum.photos/600/400?politics58",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_059",
+      "title": "Policy analysts highlight need for long-term planning",
+      "description": "Vision-driven governance.",
+      "content": "Policy analysts have highlighted the need for long-term planning and evidence-based policymaking to address future challenges effectively.",
+      "pubDate": "2025-03-04 09:10:00",
+      "image_url": "https://picsum.photos/600/400?politics59",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_060",
+      "title": "Government encourages public feedback on draft policies",
+      "description": "Participatory governance promoted.",
+      "content": "The government has encouraged citizens to provide feedback on draft policies through digital platforms, promoting participatory governance.",
+      "pubDate": "2025-03-05 09:30:00",
+      "image_url": "https://picsum.photos/600/400?politics60",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

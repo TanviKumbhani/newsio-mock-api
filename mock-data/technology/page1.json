@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "technology_001",
+      "title": "Artificial intelligence reshapes software development industry",
+      "description": "AI tools dramatically improve developer productivity worldwide.",
+      "content": "Artificial intelligence is rapidly transforming the software development industry by automating repetitive tasks, improving code quality, and accelerating deployment cycles. Developers are increasingly relying on AI-powered tools for code generation, bug detection, documentation, and testing. Industry experts believe AI will not replace developers but instead augment their abilities, allowing teams to focus on creative problem-solving and system design. Companies adopting AI-assisted development report faster delivery timelines and reduced operational costs.",
+      "pubDate": "2025-01-01 09:15:00",
+      "image_url": "https://picsum.photos/600/400?tech1",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_002",
+      "title": "Smartphones integrate more AI features for everyday users",
+      "description": "Mobile devices become more intelligent and personalized.",
+      "content": "Modern smartphones are integrating advanced artificial intelligence features to enhance user experience. From camera optimization and voice assistants to predictive text and battery management, AI is becoming central to mobile computing. Manufacturers are focusing on on-device AI processing to improve privacy and reduce latency. Analysts predict that AI-driven personalization will soon become a standard expectation for smartphone users worldwide.",
+      "pubDate": "2025-01-02 10:30:00",
+      "image_url": "https://picsum.photos/600/400?tech2",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_003",
+      "title": "Cloud computing adoption accelerates among startups",
+      "description": "Scalable infrastructure supports rapid business growth.",
+      "content": "Startups are increasingly adopting cloud computing solutions to scale operations efficiently and reduce infrastructure costs. Cloud platforms offer flexible pricing, global reach, and integrated tools that support development, analytics, and security. Founders highlight the ability to launch products faster and adapt to changing market demands as key advantages of cloud-based systems.",
+      "pubDate": "2025-01-03 08:45:00",
+      "image_url": "https://picsum.photos/600/400?tech3",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_004",
+      "title": "Cybersecurity threats increase as digital adoption grows",
+      "description": "Organizations strengthen security strategies.",
+      "content": "As businesses continue their digital transformation journeys, cybersecurity threats are becoming more frequent and sophisticated. Experts warn that ransomware, phishing attacks, and data breaches pose serious risks to organizations of all sizes. Companies are investing in advanced security frameworks, employee training, and real-time monitoring systems to safeguard sensitive information and maintain customer trust.",
+      "pubDate": "2025-01-04 11:20:00",
+      "image_url": "https://picsum.photos/600/400?tech4",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_005",
+      "title": "5G technology enables faster and more reliable connectivity",
+      "description": "Next-generation networks support innovation.",
+      "content": "The rollout of 5G networks is enabling faster data speeds, lower latency, and more reliable connections. This advancement supports innovations such as smart cities, autonomous vehicles, and immersive virtual experiences. Telecom providers are expanding coverage while governments work to establish regulatory frameworks that encourage innovation and fair competition.",
+      "pubDate": "2025-01-05 09:40:00",
+      "image_url": "https://picsum.photos/600/400?tech5",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "technology_006",
+      "title": "Blockchain technology gains traction beyond cryptocurrencies",
+      "description": "Enterprises explore decentralized solutions.",
+      "content": "Blockchain technology is finding applications beyond digital currencies, including supply chain management, identity verification, and secure data sharing. Enterprises are exploring private and hybrid blockchain models to improve transparency, traceability, and operational efficiency. Analysts believe blockchain adoption will continue to grow as platforms mature and regulations become clearer.",
+      "pubDate": "2025-01-06 10:10:00",
+      "image_url": "https://picsum.photos/600/400?tech6",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_007",
+      "title": "Wearable technology evolves with health monitoring features",
+      "description": "Smart devices support preventive healthcare.",
+      "content": "Wearable devices are evolving to include advanced health monitoring capabilities such as heart rate analysis, sleep tracking, and stress detection. These technologies empower users to take proactive steps toward better health and wellness. Healthcare professionals are increasingly leveraging wearable data to support early diagnosis and personalized treatment plans.",
+      "pubDate": "2025-01-07 08:55:00",
+      "image_url": "https://picsum.photos/600/400?tech7",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_008",
+      "title": "Electric vehicles rely heavily on software innovation",
+      "description": "Automotive industry shifts toward digital systems.",
+      "content": "Electric vehicles are becoming increasingly software-driven, with updates delivered over the air and features controlled through digital platforms. Automakers are investing heavily in software engineering to improve performance, safety, and user experience. Experts note that software will play a critical role in the future competitiveness of the automotive industry.",
+      "pubDate": "2025-01-08 11:05:00",
+      "image_url": "https://picsum.photos/600/400?tech8",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_009",
+      "title": "Virtual reality finds applications in education and training",
+      "description": "Immersive learning gains popularity.",
+      "content": "Virtual reality technology is being adopted in education and professional training to create immersive learning experiences. VR simulations allow learners to practice complex skills in safe and controlled environments. Institutions and organizations report improved engagement, retention, and learning outcomes through immersive training programs.",
+      "pubDate": "2025-01-09 09:30:00",
+      "image_url": "https://picsum.photos/600/400?tech9",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_010",
+      "title": "Data analytics drives smarter business decisions",
+      "description": "Companies leverage insights for growth.",
+      "content": "Organizations across industries are using data analytics to gain actionable insights and drive strategic decision-making. Advanced analytics tools help identify trends, optimize operations, and enhance customer experiences. Business leaders emphasize the importance of data-driven cultures to remain competitive in rapidly evolving markets.",
+      "pubDate": "2025-01-10 08:40:00",
+      "image_url": "https://picsum.photos/600/400?tech10",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "technology_011",
+      "title": "Open-source software continues to shape modern development",
+      "description": "Community-driven innovation expands.",
+      "content": "Open-source software remains a cornerstone of modern application development. Developers worldwide collaborate to build tools and frameworks that power web, mobile, and cloud platforms. Organizations increasingly contribute to open-source projects, recognizing the value of transparency, security, and shared innovation.",
+      "pubDate": "2025-01-11 10:00:00",
+      "image_url": "https://picsum.photos/600/400?tech11",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_012",
+      "title": "Quantum computing research advances steadily",
+      "description": "Scientists move closer to practical applications.",
+      "content": "Quantum computing research continues to make steady progress, with scientists achieving improvements in stability and error correction. Although widespread commercial use remains years away, experts believe quantum systems will eventually revolutionize fields such as cryptography, materials science, and complex simulations.",
+      "pubDate": "2025-01-12 09:50:00",
+      "image_url": "https://picsum.photos/600/400?tech12",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_013",
+      "title": "Internet of Things connects homes and cities",
+      "description": "Smart infrastructure adoption rises.",
+      "content": "Internet of Things technology is connecting devices across homes and cities, enabling automation and real-time monitoring. Smart lighting, traffic management systems, and energy-efficient buildings are becoming more common. City planners emphasize IoT’s role in improving sustainability and quality of life.",
+      "pubDate": "2025-01-13 11:15:00",
+      "image_url": "https://picsum.photos/600/400?tech13",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_014",
+      "title": "Software testing evolves with automation and AI",
+      "description": "Quality assurance becomes more efficient.",
+      "content": "Software testing practices are evolving with the adoption of automation and AI-driven tools. These technologies help identify defects earlier and reduce manual effort. Development teams report faster release cycles and improved reliability as automated testing becomes a standard practice.",
+      "pubDate": "2025-01-14 08:35:00",
+      "image_url": "https://picsum.photos/600/400?tech14",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_015",
+      "title": "Edge computing supports real-time data processing",
+      "description": "Latency-sensitive applications benefit.",
+      "content": "Edge computing enables data processing closer to the source, reducing latency and bandwidth usage. This approach is particularly valuable for applications such as autonomous systems, industrial automation, and smart healthcare devices. Companies are integrating edge solutions to complement cloud infrastructure.",
+      "pubDate": "2025-01-15 10:25:00",
+      "image_url": "https://picsum.photos/600/400?tech15",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "technology_016",
+      "title": "DevOps practices streamline software delivery pipelines",
+      "description": "Collaboration improves deployment speed.",
+      "content": "DevOps practices are streamlining software delivery by improving collaboration between development and operations teams. Automation, continuous integration, and monitoring tools help organizations release updates more frequently and reliably. Companies adopting DevOps report higher productivity and improved system stability.",
+      "pubDate": "2025-01-16 09:05:00",
+      "image_url": "https://picsum.photos/600/400?tech16",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_017",
+      "title": "Augmented reality enhances retail experiences",
+      "description": "Customers engage with interactive shopping tools.",
+      "content": "Augmented reality is enhancing retail experiences by allowing customers to visualize products in real-world environments. Retailers use AR for virtual try-ons, interactive catalogs, and in-store navigation. These technologies increase customer engagement and reduce return rates.",
+      "pubDate": "2025-01-17 11:40:00",
+      "image_url": "https://picsum.photos/600/400?tech17",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_018",
+      "title": "Digital payments expand with enhanced security features",
+      "description": "Cashless transactions gain trust.",
+      "content": "Digital payment platforms are expanding rapidly, supported by enhanced security features such as biometric authentication and tokenization. Consumers appreciate the convenience and speed of cashless transactions. Financial institutions continue to invest in fraud prevention and compliance measures.",
+      "pubDate": "2025-01-18 08:50:00",
+      "image_url": "https://picsum.photos/600/400?tech18",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_019",
+      "title": "Remote work technologies redefine workplace collaboration",
+      "description": "Hybrid work models become standard.",
+      "content": "Remote work technologies are redefining collaboration by enabling teams to communicate and coordinate across locations. Video conferencing, project management tools, and cloud-based platforms support hybrid work models. Employers focus on digital productivity tools to maintain efficiency and employee engagement.",
+      "pubDate": "2025-01-19 10:10:00",
+      "image_url": "https://picsum.photos/600/400?tech19",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_020",
+      "title": "Technology education becomes essential for future careers",
+      "description": "Digital skills gain importance worldwide.",
+      "content": "Technology education is becoming essential as digital skills are increasingly required across industries. Schools, universities, and online platforms are expanding programs focused on coding, data science, and cybersecurity. Educators emphasize lifelong learning to keep pace with technological change.",
+      "pubDate": "2025-01-20 09:35:00",
+      "image_url": "https://picsum.photos/600/400?tech20",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "environment_041",
+      "title": "Climate-resilient infrastructure gains policy focus",
+      "description": "Governments adapt to extreme weather risks.",
+      "content": "Governments are increasingly investing in climate-resilient infrastructure such as flood-resistant roads, heat-tolerant buildings, and stormwater management systems. These measures aim to reduce economic losses and protect communities from extreme climate events.",
+      "pubDate": "2025-02-14 09:10:00",
+      "image_url": "https://picsum.photos/600/400?env41",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_042",
+      "title": "Nature-based solutions emerge as climate strategy",
+      "description": "Ecosystems help mitigate environmental risks.",
+      "content": "Nature-based solutions such as wetland restoration, urban forests, and river rejuvenation are gaining recognition as cost-effective methods to address climate challenges while supporting biodiversity.",
+      "pubDate": "2025-02-15 10:00:00",
+      "image_url": "https://picsum.photos/600/400?env42",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_043",
+      "title": "Climate finance accelerates green innovation",
+      "description": "Funding supports sustainable technologies.",
+      "content": "Increased climate finance is enabling startups and research institutions to develop innovative technologies focused on emissions reduction, renewable energy, and sustainable resource management.",
+      "pubDate": "2025-02-16 08:45:00",
+      "image_url": "https://picsum.photos/600/400?env43",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_044",
+      "title": "Cities redesign public spaces to combat heat stress",
+      "description": "Urban planning responds to rising temperatures.",
+      "content": "Cities are redesigning public spaces with shaded walkways, reflective surfaces, and green corridors to reduce heat stress and improve urban livability during hotter summers.",
+      "pubDate": "2025-02-17 09:30:00",
+      "image_url": "https://picsum.photos/600/400?env44",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_045",
+      "title": "Climate literacy programs expand in universities",
+      "description": "Education supports environmental awareness.",
+      "content": "Universities worldwide are introducing climate literacy programs that equip students with scientific knowledge and policy insights needed to address environmental challenges.",
+      "pubDate": "2025-02-18 10:20:00",
+      "image_url": "https://picsum.photos/600/400?env45",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_046",
+      "title": "Hydrogen energy projects attract global investment",
+      "description": "Clean fuel alternatives gain traction.",
+      "content": "Green hydrogen projects are receiving significant investment as industries seek low-carbon alternatives for heavy manufacturing and transportation sectors.",
+      "pubDate": "2025-02-19 08:55:00",
+      "image_url": "https://picsum.photos/600/400?env46",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_047",
+      "title": "Biodiversity corridors reconnect fragmented habitats",
+      "description": "Wildlife movement improves ecosystem health.",
+      "content": "Biodiversity corridors help reconnect fragmented habitats, allowing wildlife to migrate safely and maintain genetic diversity essential for ecosystem resilience.",
+      "pubDate": "2025-02-20 09:40:00",
+      "image_url": "https://picsum.photos/600/400?env47",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_048",
+      "title": "Climate-smart fisheries protect ocean resources",
+      "description": "Sustainable fishing practices expand.",
+      "content": "Climate-smart fisheries management focuses on sustainable catch limits and habitat protection, ensuring long-term ocean health and food security.",
+      "pubDate": "2025-02-21 10:05:00",
+      "image_url": "https://picsum.photos/600/400?env48",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_049",
+      "title": "Digital tools improve climate risk forecasting",
+      "description": "Data-driven predictions support planning.",
+      "content": "Advanced digital tools and AI models are improving climate risk forecasting, helping governments and businesses prepare for extreme weather events.",
+      "pubDate": "2025-02-22 09:15:00",
+      "image_url": "https://picsum.photos/600/400?env49",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_050",
+      "title": "Low-carbon construction materials gain acceptance",
+      "description": "Building industry reduces emissions.",
+      "content": "Low-carbon cement, recycled steel, and sustainable materials are gaining acceptance as construction industries work to reduce their carbon footprint.",
+      "pubDate": "2025-02-23 11:00:00",
+      "image_url": "https://picsum.photos/600/400?env50",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_051",
+      "title": "Urban biodiversity initiatives bring nature back",
+      "description": "Cities support local ecosystems.",
+      "content": "Urban biodiversity initiatives include creating green roofs, wildlife-friendly parks, and pollinator gardens that restore nature within city environments.",
+      "pubDate": "2025-02-24 09:30:00",
+      "image_url": "https://picsum.photos/600/400?env51",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_052",
+      "title": "Climate disclosure rules reshape corporate reporting",
+      "description": "Transparency improves accountability.",
+      "content": "New climate disclosure regulations require companies to report environmental risks and emissions data, increasing transparency and investor confidence.",
+      "pubDate": "2025-02-25 08:40:00",
+      "image_url": "https://picsum.photos/600/400?env52",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_053",
+      "title": "Soil carbon sequestration supports climate goals",
+      "description": "Agriculture aids emission reduction.",
+      "content": "Soil carbon sequestration practices enhance soil health while capturing carbon, offering a practical solution for climate mitigation in agriculture.",
+      "pubDate": "2025-02-26 10:15:00",
+      "image_url": "https://picsum.photos/600/400?env53",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_054",
+      "title": "Floating solar plants expand renewable capacity",
+      "description": "Innovation optimizes land use.",
+      "content": "Floating solar plants installed on reservoirs and lakes optimize land use while increasing renewable energy generation capacity.",
+      "pubDate": "2025-02-27 09:00:00",
+      "image_url": "https://picsum.photos/600/400?env54",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_055",
+      "title": "Citizen science strengthens environmental monitoring",
+      "description": "Public participation enhances data collection.",
+      "content": "Citizen science initiatives empower individuals to collect environmental data, contributing to research and conservation efforts.",
+      "pubDate": "2025-02-28 11:10:00",
+      "image_url": "https://picsum.photos/600/400?env55",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_056",
+      "title": "Climate adaptation funding supports vulnerable regions",
+      "description": "Resilience-building programs expand.",
+      "content": "Climate adaptation funding focuses on protecting vulnerable regions from floods, droughts, and rising sea levels through infrastructure and community programs.",
+      "pubDate": "2025-03-01 09:35:00",
+      "image_url": "https://picsum.photos/600/400?env56",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_057",
+      "title": "Circular economy policies reduce industrial waste",
+      "description": "Resource efficiency becomes priority.",
+      "content": "Circular economy policies encourage recycling, reuse, and waste reduction across industries, minimizing environmental impact.",
+      "pubDate": "2025-03-02 08:55:00",
+      "image_url": "https://picsum.photos/600/400?env57",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_058",
+      "title": "Renewable microgrids power remote communities",
+      "description": "Energy access improves sustainably.",
+      "content": "Renewable microgrids provide reliable power to remote communities, improving living standards while avoiding fossil fuel dependency.",
+      "pubDate": "2025-03-03 10:10:00",
+      "image_url": "https://picsum.photos/600/400?env58",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_059",
+      "title": "Climate migration challenges urban planning",
+      "description": "Population shifts affect cities.",
+      "content": "Climate-driven migration is reshaping urban planning as cities adapt to growing populations displaced by environmental impacts.",
+      "pubDate": "2025-03-04 09:25:00",
+      "image_url": "https://picsum.photos/600/400?env59",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_060",
+      "title": "Global environmental cooperation strengthens resilience",
+      "description": "Joint action addresses climate risks.",
+      "content": "International environmental cooperation enables knowledge sharing, funding support, and coordinated climate action to strengthen global resilience.",
+      "pubDate": "2025-03-05 10:00:00",
+      "image_url": "https://picsum.photos/600/400?env60",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

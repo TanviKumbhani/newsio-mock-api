@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "health_041",
+      "title": "Daily walking routines improve heart health significantly",
+      "description": "Simple movement delivers powerful benefits.",
+      "content": "Medical professionals state that walking for at least 30 minutes a day improves cardiovascular health, lowers blood pressure, and supports weight management. Regular walking also reduces stress and enhances mental well-being without requiring special equipment.",
+      "pubDate": "2025-06-10 08:30:00",
+      "image_url": "https://picsum.photos/600/400?health41",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_042",
+      "title": "Hydration plays key role in energy and focus",
+      "description": "Water intake impacts daily performance.",
+      "content": "Health experts highlight that even mild dehydration can affect energy levels, concentration, and digestion. Drinking adequate water throughout the day supports cellular function and overall physical performance.",
+      "pubDate": "2025-06-11 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health42",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_043",
+      "title": "Mindful eating helps regulate portion control",
+      "description": "Awareness improves dietary habits.",
+      "content": "Nutritionists recommend mindful eating practices to prevent overeating. Paying attention to hunger cues, eating slowly, and reducing distractions during meals help improve digestion and support healthy weight management.",
+      "pubDate": "2025-06-12 08:45:00",
+      "image_url": "https://picsum.photos/600/400?health43",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_044",
+      "title": "Stretching exercises reduce muscle stiffness",
+      "description": "Flexibility supports injury prevention.",
+      "content": "Regular stretching improves flexibility, reduces muscle stiffness, and enhances posture. Physiotherapists advise incorporating stretching routines before and after physical activity to minimize injury risk.",
+      "pubDate": "2025-06-13 09:20:00",
+      "image_url": "https://picsum.photos/600/400?health44",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_045",
+      "title": "Sleep consistency strengthens immune function",
+      "description": "Quality rest supports immunity.",
+      "content": "Researchers emphasize that maintaining consistent sleep schedules strengthens immune response and improves hormonal balance. Poor sleep patterns are linked to increased susceptibility to illness.",
+      "pubDate": "2025-06-14 10:00:00",
+      "image_url": "https://picsum.photos/600/400?health45",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_046",
+      "title": "Healthy fats contribute to brain development",
+      "description": "Nutrition supports cognitive health.",
+      "content": "Dietitians highlight that healthy fats such as omega-3 fatty acids support brain development, memory, and cognitive function. Foods like fish, nuts, and seeds are recommended for balanced nutrition.",
+      "pubDate": "2025-06-15 09:35:00",
+      "image_url": "https://picsum.photos/600/400?health46",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_047",
+      "title": "Posture awareness reduces chronic back pain",
+      "description": "Small adjustments make big differences.",
+      "content": "Health specialists advise maintaining proper posture during work and daily activities to prevent chronic back pain. Ergonomic furniture and regular movement breaks contribute to spinal health.",
+      "pubDate": "2025-06-16 08:50:00",
+      "image_url": "https://picsum.photos/600/400?health47",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_048",
+      "title": "Meditation practices improve emotional resilience",
+      "description": "Mental training gains recognition.",
+      "content": "Mental health professionals report that regular meditation enhances emotional resilience and reduces anxiety. Even short daily sessions help individuals manage stress more effectively.",
+      "pubDate": "2025-06-17 09:15:00",
+      "image_url": "https://picsum.photos/600/400?health48",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_049",
+      "title": "Reducing processed food intake improves digestion",
+      "description": "Whole foods support gut health.",
+      "content": "Experts recommend minimizing processed food consumption to improve digestion and nutrient absorption. Diets rich in whole foods support gut health and reduce inflammation.",
+      "pubDate": "2025-06-18 08:40:00",
+      "image_url": "https://picsum.photos/600/400?health49",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_050",
+      "title": "Laughter therapy shows positive mental health effects",
+      "description": "Joy contributes to healing.",
+      "content": "Studies suggest that laughter therapy improves mood, reduces stress hormones, and enhances social connection. Incorporating humor into daily life supports emotional well-being.",
+      "pubDate": "2025-06-19 09:55:00",
+      "image_url": "https://picsum.photos/600/400?health50",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_051",
+      "title": "Preventive checkups reduce long-term health costs",
+      "description": "Early detection saves lives.",
+      "content": "Healthcare providers stress that preventive health checkups help detect issues early, reducing treatment costs and improving outcomes. Regular screenings play a vital role in long-term wellness.",
+      "pubDate": "2025-06-20 09:20:00",
+      "image_url": "https://picsum.photos/600/400?health51",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_052",
+      "title": "Social connections positively impact mental health",
+      "description": "Community strengthens well-being.",
+      "content": "Psychologists emphasize that strong social connections reduce loneliness, improve mental health, and increase life satisfaction. Maintaining relationships supports emotional resilience.",
+      "pubDate": "2025-06-21 08:35:00",
+      "image_url": "https://picsum.photos/600/400?health52",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_053",
+      "title": "Balanced routines reduce burnout risk",
+      "description": "Work-life balance matters.",
+      "content": "Health experts warn that prolonged stress leads to burnout. Establishing balanced routines with rest, physical activity, and leisure helps maintain mental and physical health.",
+      "pubDate": "2025-06-22 09:10:00",
+      "image_url": "https://picsum.photos/600/400?health53",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_054",
+      "title": "Healthy cooking methods preserve nutrients",
+      "description": "Preparation impacts nutrition.",
+      "content": "Nutritionists suggest using cooking methods like steaming, grilling, and baking to preserve nutrients. Excessive frying can reduce nutritional value and increase unhealthy fats.",
+      "pubDate": "2025-06-23 10:00:00",
+      "image_url": "https://picsum.photos/600/400?health54",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_055",
+      "title": "Regular eye checkups prevent vision complications",
+      "description": "Early care protects eyesight.",
+      "content": "Eye specialists advise regular eye examinations to detect vision issues early. Screen usage and aging increase the importance of preventive eye care.",
+      "pubDate": "2025-06-24 09:45:00",
+      "image_url": "https://picsum.photos/600/400?health55",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "health_056",
+      "title": "Healthy hydration supports kidney function",
+      "description": "Fluid balance is essential.",
+      "content": "Doctors emphasize that proper hydration supports kidney function and helps flush toxins from the body. Adequate fluid intake reduces the risk of kidney stones.",
+      "pubDate": "2025-06-25 08:30:00",
+      "image_url": "https://picsum.photos/600/400?health56",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_057",
+      "title": "Positive habits improve long-term mental stability",
+      "description": "Consistency builds resilience.",
+      "content": "Mental health experts note that consistent positive habits such as journaling, exercise, and mindfulness improve emotional stability over time.",
+      "pubDate": "2025-06-26 09:05:00",
+      "image_url": "https://picsum.photos/600/400?health57",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_058",
+      "title": "Healthy aging depends on active lifestyles",
+      "description": "Movement supports longevity.",
+      "content": "Studies show that maintaining an active lifestyle supports mobility, cognitive function, and independence as people age. Regular activity improves overall quality of life.",
+      "pubDate": "2025-06-27 08:55:00",
+      "image_url": "https://picsum.photos/600/400?health58",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_059",
+      "title": "Public health awareness campaigns show positive results",
+      "description": "Education drives prevention.",
+      "content": "Public health campaigns focusing on hygiene, nutrition, and disease prevention have shown measurable improvements in community health outcomes.",
+      "pubDate": "2025-06-28 09:40:00",
+      "image_url": "https://picsum.photos/600/400?health59",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    },
+    {
+      "article_id": "health_060",
+      "title": "Long-term wellness requires balanced lifestyle choices",
+      "description": "Sustainable habits matter most.",
+      "content": "Health professionals conclude that long-term wellness is achieved through balanced nutrition, regular activity, mental well-being, and preventive care rather than quick solutions.",
+      "pubDate": "2025-06-29 09:00:00",
+      "image_url": "https://picsum.photos/600/400?health60",
+      "source_id": "newsio_health",
+      "category": ["health"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

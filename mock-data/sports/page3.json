@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "sports_041",
+      "title": "National swimming camp focuses on endurance and technique refinement",
+      "description": "Swimmers undergo high-intensity preparation.",
+      "content": "The national swimming camp has begun with a strong focus on endurance building and stroke refinement. Coaches are using underwater cameras and biomechanical analysis to help swimmers improve efficiency and reduce drag.",
+      "pubDate": "2025-04-10 07:30:00",
+      "image_url": "https://picsum.photos/600/400?sports41",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_042",
+      "title": "Cricket selectors monitor domestic league performances closely",
+      "description": "Consistent performers gain attention.",
+      "content": "Cricket selectors are closely monitoring domestic league performances to identify consistent players for upcoming international tours. Fitness, adaptability, and match temperament remain key evaluation criteria.",
+      "pubDate": "2025-04-11 18:10:00",
+      "image_url": "https://picsum.photos/600/400?sports42",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_043",
+      "title": "Women’s football league records highest-ever viewership",
+      "description": "Growing support boosts confidence.",
+      "content": "The women’s football league has recorded its highest-ever viewership numbers, reflecting growing fan engagement and increased media coverage. Players credit consistent scheduling and grassroots programs for the rise.",
+      "pubDate": "2025-04-12 21:00:00",
+      "image_url": "https://picsum.photos/600/400?sports43",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_044",
+      "title": "Badminton academy expands talent scouting program nationwide",
+      "description": "Focus on early identification.",
+      "content": "A leading badminton academy has expanded its talent scouting program nationwide to identify young players with exceptional reflexes, agility, and match awareness.",
+      "pubDate": "2025-04-13 10:45:00",
+      "image_url": "https://picsum.photos/600/400?sports44",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_045",
+      "title": "Cycling federation announces new national ranking system",
+      "description": "Performance tracking improves transparency.",
+      "content": "The cycling federation has introduced a new national ranking system designed to improve transparency and reward consistent performances across domestic and international events.",
+      "pubDate": "2025-04-14 16:20:00",
+      "image_url": "https://picsum.photos/600/400?sports45",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_046",
+      "title": "Martial arts championship promotes discipline among youth",
+      "description": "Values emphasized through competition.",
+      "content": "The national martial arts championship highlighted discipline, respect, and self-control. Coaches stressed that competitive success should be balanced with strong character development.",
+      "pubDate": "2025-04-15 09:10:00",
+      "image_url": "https://picsum.photos/600/400?sports46",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_047",
+      "title": "Athletics federation upgrades timing and measurement systems",
+      "description": "Accuracy enhanced for competitions.",
+      "content": "Modern timing and measurement systems have been installed at major athletics venues to ensure accuracy and compliance with international standards.",
+      "pubDate": "2025-04-16 14:35:00",
+      "image_url": "https://picsum.photos/600/400?sports47",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_048",
+      "title": "Kabaddi league franchises invest in youth academies",
+      "description": "Long-term talent pipeline created.",
+      "content": "Kabaddi league franchises are investing heavily in youth academies to create a strong talent pipeline. Training focuses on agility, strength, and tactical awareness.",
+      "pubDate": "2025-04-17 20:25:00",
+      "image_url": "https://picsum.photos/600/400?sports48",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_049",
+      "title": "National tennis circuit provides exposure to emerging players",
+      "description": "Competitive experience increases.",
+      "content": "The national tennis circuit is offering emerging players valuable competitive exposure against experienced opponents, helping them adapt to high-pressure match situations.",
+      "pubDate": "2025-04-18 11:55:00",
+      "image_url": "https://picsum.photos/600/400?sports49",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_050",
+      "title": "Fitness trainers emphasize recovery as key performance factor",
+      "description": "Rest and rehabilitation prioritized.",
+      "content": "Fitness trainers emphasize that proper recovery, sleep, and rehabilitation are essential for sustained performance and injury prevention in competitive sports.",
+      "pubDate": "2025-04-19 08:40:00",
+      "image_url": "https://picsum.photos/600/400?sports50",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_051",
+      "title": "Hockey team experiments with new attacking formations",
+      "description": "Tactical flexibility tested.",
+      "content": "The national hockey team is experimenting with new attacking formations during training sessions to improve goal-scoring efficiency against top-ranked opponents.",
+      "pubDate": "2025-04-20 17:10:00",
+      "image_url": "https://picsum.photos/600/400?sports51",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_052",
+      "title": "University games strengthen campus-level sports culture",
+      "description": "Student participation increases.",
+      "content": "Inter-university games are strengthening sports culture on campuses, encouraging students to balance academics with competitive physical activity.",
+      "pubDate": "2025-04-21 13:00:00",
+      "image_url": "https://picsum.photos/600/400?sports52",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_053",
+      "title": "Referees attend advanced officiating workshop",
+      "description": "Decision-making skills enhanced.",
+      "content": "Referees from multiple sports attended an advanced officiating workshop focused on decision-making, rule interpretation, and match control.",
+      "pubDate": "2025-04-22 15:30:00",
+      "image_url": "https://picsum.photos/600/400?sports53",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_054",
+      "title": "National fencing squad prepares for continental championships",
+      "description": "Technical drills intensified.",
+      "content": "The national fencing squad has intensified technical drills and tactical planning ahead of upcoming continental championships.",
+      "pubDate": "2025-04-23 09:20:00",
+      "image_url": "https://picsum.photos/600/400?sports54",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_055",
+      "title": "Sports ministry announces funding boost for grassroots programs",
+      "description": "Infrastructure development planned.",
+      "content": "The sports ministry has announced increased funding for grassroots programs aimed at improving infrastructure and coaching access in underserved regions.",
+      "pubDate": "2025-04-24 12:50:00",
+      "image_url": "https://picsum.photos/600/400?sports55",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "sports_056",
+      "title": "Professional runners focus on altitude training benefits",
+      "description": "Endurance levels improve.",
+      "content": "Professional runners are focusing on altitude training to enhance endurance and oxygen efficiency ahead of long-distance events.",
+      "pubDate": "2025-04-25 06:40:00",
+      "image_url": "https://picsum.photos/600/400?sports56",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_057",
+      "title": "Wrestling federation introduces injury insurance scheme",
+      "description": "Athlete welfare strengthened.",
+      "content": "The wrestling federation has introduced an injury insurance scheme to provide financial security and medical support to registered athletes.",
+      "pubDate": "2025-04-26 14:15:00",
+      "image_url": "https://picsum.photos/600/400?sports57",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_058",
+      "title": "Beach sports festival attracts large crowds",
+      "description": "Recreational sports gain momentum.",
+      "content": "A beach sports festival featuring volleyball, football, and fitness activities attracted large crowds, promoting recreational sports participation.",
+      "pubDate": "2025-04-27 17:45:00",
+      "image_url": "https://picsum.photos/600/400?sports58",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_059",
+      "title": "Athletes stress importance of mental resilience",
+      "description": "Psychological strength highlighted.",
+      "content": "Elite athletes highlighted the importance of mental resilience in overcoming setbacks, maintaining consistency, and handling competitive pressure.",
+      "pubDate": "2025-04-28 19:30:00",
+      "image_url": "https://picsum.photos/600/400?sports59",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    },
+    {
+      "article_id": "sports_060",
+      "title": "National sports awards honor excellence across disciplines",
+      "description": "Achievements recognized.",
+      "content": "The national sports awards ceremony honored athletes and coaches across disciplines for their dedication, achievements, and contributions to sports development.",
+      "pubDate": "2025-04-29 20:10:00",
+      "image_url": "https://picsum.photos/600/400?sports60",
+      "source_id": "newsio_sports",
+      "category": ["sports"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

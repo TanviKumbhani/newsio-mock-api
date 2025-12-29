@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "politics_021",
+      "title": "Parliament discusses amendments to labor laws",
+      "description": "Worker rights and flexibility debated.",
+      "content": "Members of parliament engaged in detailed discussions over proposed amendments to labor laws. The debate focused on balancing worker protections with the need for business flexibility in a changing economy.",
+      "pubDate": "2025-01-25 09:10:00",
+      "image_url": "https://picsum.photos/600/400?politics21",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_022",
+      "title": "Government announces roadmap for administrative reforms",
+      "description": "Efficiency gains targeted.",
+      "content": "The government has released a roadmap outlining administrative reforms aimed at reducing bureaucratic delays and improving efficiency across departments.",
+      "pubDate": "2025-01-26 10:00:00",
+      "image_url": "https://picsum.photos/600/400?politics22",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_023",
+      "title": "Opposition leaders meet to discuss electoral strategy",
+      "description": "Coordination ahead of elections.",
+      "content": "Opposition leaders convened to discuss electoral strategies and potential alliances ahead of upcoming elections, emphasizing unity and voter outreach.",
+      "pubDate": "2025-01-27 09:30:00",
+      "image_url": "https://picsum.photos/600/400?politics23",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_024",
+      "title": "Policy review highlights need for education reforms",
+      "description": "Quality and access under focus.",
+      "content": "A recent policy review highlighted the need for comprehensive education reforms to improve learning outcomes and expand access to quality education nationwide.",
+      "pubDate": "2025-01-28 08:45:00",
+      "image_url": "https://picsum.photos/600/400?politics24",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_025",
+      "title": "Finance ministry consults stakeholders on tax proposals",
+      "description": "Inclusive policy development.",
+      "content": "The finance ministry has begun consultations with industry leaders and civil society groups on proposed tax changes aimed at boosting growth and compliance.",
+      "pubDate": "2025-01-29 10:15:00",
+      "image_url": "https://picsum.photos/600/400?politics25",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_026",
+      "title": "Local governments receive increased development grants",
+      "description": "Boost for grassroots projects.",
+      "content": "Local governments are set to receive increased development grants to support infrastructure, healthcare, and education projects at the grassroots level.",
+      "pubDate": "2025-01-30 09:20:00",
+      "image_url": "https://picsum.photos/600/400?politics26",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_027",
+      "title": "Leaders call for bipartisan approach to national security",
+      "description": "Unity on security matters.",
+      "content": "Political leaders from across parties have called for a bipartisan approach to national security issues, stressing cooperation over confrontation.",
+      "pubDate": "2025-01-31 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics27",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_028",
+      "title": "Women lawmakers advocate stronger representation policies",
+      "description": "Gender inclusion emphasized.",
+      "content": "Women lawmakers are advocating for stronger policies to improve representation and participation of women in political decision-making.",
+      "pubDate": "2025-02-01 09:40:00",
+      "image_url": "https://picsum.photos/600/400?politics28",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_029",
+      "title": "Government reviews public healthcare funding models",
+      "description": "Sustainability under discussion.",
+      "content": "The government is reviewing public healthcare funding models to ensure long-term sustainability while maintaining affordable access for citizens.",
+      "pubDate": "2025-02-02 10:05:00",
+      "image_url": "https://picsum.photos/600/400?politics29",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_030",
+      "title": "Think tanks propose climate policy integration",
+      "description": "Environment and governance intersect.",
+      "content": "Leading think tanks have proposed integrating climate considerations into broader governance and economic policies to ensure sustainable development.",
+      "pubDate": "2025-02-03 09:25:00",
+      "image_url": "https://picsum.photos/600/400?politics30",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_031",
+      "title": "Digital voting pilots evaluated by election authorities",
+      "description": "Technology in democracy.",
+      "content": "Election authorities are evaluating digital voting pilots aimed at improving accessibility and efficiency while maintaining security and transparency.",
+      "pubDate": "2025-02-04 08:50:00",
+      "image_url": "https://picsum.photos/600/400?politics31",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_032",
+      "title": "Rural development programs receive policy boost",
+      "description": "Focus on inclusive growth.",
+      "content": "New policy measures are being introduced to strengthen rural development programs, focusing on infrastructure, livelihoods, and digital connectivity.",
+      "pubDate": "2025-02-05 09:15:00",
+      "image_url": "https://picsum.photos/600/400?politics32",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_033",
+      "title": "Foreign delegation visits to strengthen bilateral relations",
+      "description": "Diplomatic engagement continues.",
+      "content": "Foreign delegations have visited the country to strengthen bilateral relations, focusing on trade, technology exchange, and cultural cooperation.",
+      "pubDate": "2025-02-06 10:10:00",
+      "image_url": "https://picsum.photos/600/400?politics33",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_034",
+      "title": "Lawmakers debate data protection and privacy bill",
+      "description": "Balancing security and rights.",
+      "content": "The proposed data protection and privacy bill has sparked debate in parliament, with lawmakers discussing safeguards for citizens’ rights alongside national security concerns.",
+      "pubDate": "2025-02-07 09:35:00",
+      "image_url": "https://picsum.photos/600/400?politics34",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_035",
+      "title": "Civil servants receive training on digital governance tools",
+      "description": "Capacity building underway.",
+      "content": "Civil servants across departments are receiving training on digital governance tools to improve service delivery and administrative efficiency.",
+      "pubDate": "2025-02-08 08:45:00",
+      "image_url": "https://picsum.photos/600/400?politics35",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_036",
+      "title": "Public finance reforms aim to improve fiscal discipline",
+      "description": "Transparency and accountability prioritized.",
+      "content": "Public finance reforms are being introduced to improve fiscal discipline, enhance transparency, and ensure responsible use of public funds.",
+      "pubDate": "2025-02-09 09:05:00",
+      "image_url": "https://picsum.photos/600/400?politics36",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_037",
+      "title": "Political discourse shifts toward issue-based campaigns",
+      "description": "Policy over personality.",
+      "content": "Political discourse is gradually shifting toward issue-based campaigns, with greater emphasis on policy proposals and governance records.",
+      "pubDate": "2025-02-10 10:00:00",
+      "image_url": "https://picsum.photos/600/400?politics37",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_038",
+      "title": "Urban development plans prioritize sustainable cities",
+      "description": "Long-term planning focus.",
+      "content": "Urban development plans are prioritizing sustainable city models, integrating public transport, green spaces, and smart infrastructure.",
+      "pubDate": "2025-02-11 09:30:00",
+      "image_url": "https://picsum.photos/600/400?politics38",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_039",
+      "title": "Government expands social security coverage",
+      "description": "Welfare reach increases.",
+      "content": "The government has announced plans to expand social security coverage, aiming to provide greater protection for informal and vulnerable workers.",
+      "pubDate": "2025-02-12 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics39",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_040",
+      "title": "Policy forums encourage citizen-led governance ideas",
+      "description": "Public engagement grows.",
+      "content": "Policy forums are encouraging citizens to contribute governance ideas, strengthening participatory democracy and public trust.",
+      "pubDate": "2025-02-13 09:20:00",
+      "image_url": "https://picsum.photos/600/400?politics40",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

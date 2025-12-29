@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "politics_081",
+      "title": "Government reviews national urban development strategy",
+      "description": "Smart cities and sustainable growth prioritized.",
+      "content": "The government has initiated a comprehensive review of the national urban development strategy, focusing on smart cities, sustainable infrastructure, and improved quality of life for urban residents.",
+      "pubDate": "2025-03-26 09:10:00",
+      "image_url": "https://picsum.photos/600/400?politics81",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_082",
+      "title": "Parliamentary panel examines digital privacy safeguards",
+      "description": "Data protection measures under scrutiny.",
+      "content": "A parliamentary panel has examined digital privacy safeguards to ensure personal data protection while enabling innovation in digital services.",
+      "pubDate": "2025-03-27 09:45:00",
+      "image_url": "https://picsum.photos/600/400?politics82",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_083",
+      "title": "Government expands diplomatic engagement in Asia-Pacific",
+      "description": "Regional cooperation strengthened.",
+      "content": "Diplomatic engagement in the Asia-Pacific region has been expanded to strengthen trade ties, security cooperation, and cultural exchange.",
+      "pubDate": "2025-03-28 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics83",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_084",
+      "title": "Election commission upgrades voter awareness initiatives",
+      "description": "Democratic participation encouraged.",
+      "content": "The election commission has upgraded voter awareness initiatives to encourage informed participation and strengthen democratic processes.",
+      "pubDate": "2025-03-29 09:20:00",
+      "image_url": "https://picsum.photos/600/400?politics84",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_085",
+      "title": "Government outlines roadmap for administrative decentralization",
+      "description": "Local governance empowered.",
+      "content": "A new roadmap has been outlined to decentralize administrative powers, empowering local governments to address regional priorities effectively.",
+      "pubDate": "2025-03-30 09:50:00",
+      "image_url": "https://picsum.photos/600/400?politics85",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_086",
+      "title": "Policy reforms proposed to boost youth employment",
+      "description": "Skill development and innovation focused.",
+      "content": "Policy reforms aimed at boosting youth employment emphasize skill development, entrepreneurship, and innovation-driven growth.",
+      "pubDate": "2025-03-31 08:40:00",
+      "image_url": "https://picsum.photos/600/400?politics86",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_087",
+      "title": "Government strengthens disaster preparedness framework",
+      "description": "Risk mitigation strategies updated.",
+      "content": "The disaster preparedness framework has been strengthened with updated risk mitigation strategies, early warning systems, and community training programs.",
+      "pubDate": "2025-04-01 09:15:00",
+      "image_url": "https://picsum.photos/600/400?politics87",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_088",
+      "title": "Public consultation launched on national transport policy",
+      "description": "Sustainable mobility prioritized.",
+      "content": "A public consultation has been launched on the national transport policy to prioritize sustainable mobility, safety, and accessibility.",
+      "pubDate": "2025-04-02 09:35:00",
+      "image_url": "https://picsum.photos/600/400?politics88",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_089",
+      "title": "Government promotes transparency in public procurement",
+      "description": "Accountability measures enhanced.",
+      "content": "New guidelines promote transparency in public procurement, enhancing accountability and fair competition across sectors.",
+      "pubDate": "2025-04-03 10:00:00",
+      "image_url": "https://picsum.photos/600/400?politics89",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_090",
+      "title": "Strategic affairs committee reviews global geopolitical trends",
+      "description": "Foreign policy alignment assessed.",
+      "content": "The strategic affairs committee has reviewed global geopolitical trends to align foreign policy priorities with national interests.",
+      "pubDate": "2025-04-04 09:05:00",
+      "image_url": "https://picsum.photos/600/400?politics90",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_091",
+      "title": "Government commits to inclusive digital governance",
+      "description": "Technology for all citizens.",
+      "content": "The government has reaffirmed its commitment to inclusive digital governance, ensuring access to technology for all citizens.",
+      "pubDate": "2025-04-05 09:30:00",
+      "image_url": "https://picsum.photos/600/400?politics91",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_092",
+      "title": "Parliament discusses reforms in public health financing",
+      "description": "Healthcare funding debated.",
+      "content": "Parliament has discussed reforms in public health financing to improve service delivery and ensure long-term sustainability.",
+      "pubDate": "2025-04-06 09:10:00",
+      "image_url": "https://picsum.photos/600/400?politics92",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_093",
+      "title": "Government launches platform for citizen feedback",
+      "description": "Public participation encouraged.",
+      "content": "A new digital platform has been launched to collect citizen feedback on public policies and government services.",
+      "pubDate": "2025-04-07 09:50:00",
+      "image_url": "https://picsum.photos/600/400?politics93",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_094",
+      "title": "National ethics committee proposes governance guidelines",
+      "description": "Integrity in public life emphasized.",
+      "content": "The national ethics committee has proposed new governance guidelines to promote integrity, transparency, and accountability in public life.",
+      "pubDate": "2025-04-08 08:55:00",
+      "image_url": "https://picsum.photos/600/400?politics94",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_095",
+      "title": "Government evaluates impact of social justice initiatives",
+      "description": "Equity outcomes reviewed.",
+      "content": "The impact of recent social justice initiatives is being evaluated to assess progress toward equity and inclusion goals.",
+      "pubDate": "2025-04-09 09:40:00",
+      "image_url": "https://picsum.photos/600/400?politics95",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "politics_096",
+      "title": "Policy experts recommend reforms in electoral funding",
+      "description": "Transparency and accountability discussed.",
+      "content": "Policy experts have recommended reforms in electoral funding to enhance transparency and strengthen democratic accountability.",
+      "pubDate": "2025-04-10 09:20:00",
+      "image_url": "https://picsum.photos/600/400?politics96",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_097",
+      "title": "Government launches national capacity-building program",
+      "description": "Skills and governance improved.",
+      "content": "A national capacity-building program has been launched to enhance skills and governance capabilities across public institutions.",
+      "pubDate": "2025-04-11 09:05:00",
+      "image_url": "https://picsum.photos/600/400?politics97",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_098",
+      "title": "Public sector innovation lab presents policy solutions",
+      "description": "Evidence-based governance promoted.",
+      "content": "A public sector innovation lab has presented evidence-based policy solutions to address complex governance challenges.",
+      "pubDate": "2025-04-12 10:00:00",
+      "image_url": "https://picsum.photos/600/400?politics98",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_099",
+      "title": "Government reaffirms commitment to democratic institutions",
+      "description": "Rule of law emphasized.",
+      "content": "The government has reaffirmed its commitment to democratic institutions, the rule of law, and constitutional values.",
+      "pubDate": "2025-04-13 09:35:00",
+      "image_url": "https://picsum.photos/600/400?politics99",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    },
+    {
+      "article_id": "politics_100",
+      "title": "Year-end governance review highlights policy milestones",
+      "description": "Reforms and achievements summarized.",
+      "content": "A year-end governance review has highlighted key policy milestones, reforms, and initiatives implemented over the past year.",
+      "pubDate": "2025-04-14 09:50:00",
+      "image_url": "https://picsum.photos/600/400?politics100",
+      "source_id": "newsio_politics",
+      "category": ["politics"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

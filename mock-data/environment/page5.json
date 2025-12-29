@@ -1,0 +1,230 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "environment_081",
+      "title": "Nature-based solutions gain policy support worldwide",
+      "description": "Governments turn to ecosystems for climate resilience.",
+      "content": "Nature-based solutions such as mangrove restoration, urban forests, and wetland conservation are increasingly supported by governments as cost-effective climate resilience strategies.",
+      "pubDate": "2025-03-26 09:00:00",
+      "image_url": "https://picsum.photos/600/400?env81",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_082",
+      "title": "Climate-resilient crops help secure global food supply",
+      "description": "Agriculture adapts to extreme weather.",
+      "content": "Climate-resilient crop varieties are being adopted globally to withstand droughts, floods, and rising temperatures, helping farmers maintain yields.",
+      "pubDate": "2025-03-27 10:10:00",
+      "image_url": "https://picsum.photos/600/400?env82",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_083",
+      "title": "Environmental justice movements influence climate policy",
+      "description": "Communities demand fair solutions.",
+      "content": "Environmental justice movements emphasize the need for equitable climate policies that protect vulnerable communities disproportionately affected by environmental harm.",
+      "pubDate": "2025-03-28 08:45:00",
+      "image_url": "https://picsum.photos/600/400?env83",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_084",
+      "title": "Green urban planning reshapes modern cities",
+      "description": "Sustainability becomes central to development.",
+      "content": "Green urban planning integrates parks, public transport, and renewable energy to reduce emissions and improve quality of life in growing cities.",
+      "pubDate": "2025-03-29 09:30:00",
+      "image_url": "https://picsum.photos/600/400?env84",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_085",
+      "title": "Climate finance accelerates low-carbon transition",
+      "description": "Investments support sustainable growth.",
+      "content": "Climate finance mechanisms channel public and private investments into low-carbon technologies and climate adaptation projects.",
+      "pubDate": "2025-03-30 10:00:00",
+      "image_url": "https://picsum.photos/600/400?env85",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_086",
+      "title": "Digital tools improve environmental monitoring",
+      "description": "Technology enhances data accuracy.",
+      "content": "Digital tools such as AI-powered sensors and remote monitoring platforms improve environmental data collection and analysis.",
+      "pubDate": "2025-03-31 08:20:00",
+      "image_url": "https://picsum.photos/600/400?env86",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_087",
+      "title": "Circular economy policies reduce industrial waste",
+      "description": "Reuse and recycling expand.",
+      "content": "Circular economy policies encourage industries to reuse materials, reduce waste, and design products for longevity.",
+      "pubDate": "2025-04-01 09:40:00",
+      "image_url": "https://picsum.photos/600/400?env87",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_088",
+      "title": "Climate migration planning gains international attention",
+      "description": "Displacement risks addressed.",
+      "content": "International organizations are developing frameworks to manage climate-induced migration and protect displaced populations.",
+      "pubDate": "2025-04-02 10:05:00",
+      "image_url": "https://picsum.photos/600/400?env88",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_089",
+      "title": "Renewable-powered transport expands in urban areas",
+      "description": "Clean mobility solutions grow.",
+      "content": "Electric buses, trains, and charging infrastructure powered by renewables are expanding rapidly in cities worldwide.",
+      "pubDate": "2025-04-03 09:10:00",
+      "image_url": "https://picsum.photos/600/400?env89",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_090",
+      "title": "Biodiversity action plans protect endangered species",
+      "description": "Conservation efforts intensify.",
+      "content": "National biodiversity action plans focus on habitat protection, anti-poaching measures, and species recovery programs.",
+      "pubDate": "2025-04-04 10:30:00",
+      "image_url": "https://picsum.photos/600/400?env90",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_091",
+      "title": "Low-impact agriculture improves soil health",
+      "description": "Farming practices evolve.",
+      "content": "Low-impact agriculture techniques such as crop rotation and organic fertilization improve soil health and reduce environmental damage.",
+      "pubDate": "2025-04-05 08:55:00",
+      "image_url": "https://picsum.photos/600/400?env91",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_092",
+      "title": "Climate literacy campaigns increase public awareness",
+      "description": "Education drives action.",
+      "content": "Climate literacy campaigns aim to educate the public about climate science and empower communities to take sustainable action.",
+      "pubDate": "2025-04-06 09:45:00",
+      "image_url": "https://picsum.photos/600/400?env92",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_093",
+      "title": "Green infrastructure investment boosts resilience",
+      "description": "Cities prepare for climate risks.",
+      "content": "Investments in green infrastructure such as permeable pavements and rain gardens reduce flooding and heat stress.",
+      "pubDate": "2025-04-07 10:15:00",
+      "image_url": "https://picsum.photos/600/400?env93",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_094",
+      "title": "Sustainable fisheries management protects oceans",
+      "description": "Marine resources conserved.",
+      "content": "Sustainable fisheries management practices help prevent overfishing while supporting livelihoods and marine biodiversity.",
+      "pubDate": "2025-04-08 09:25:00",
+      "image_url": "https://picsum.photos/600/400?env94",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_095",
+      "title": "Climate adaptation funding targets vulnerable regions",
+      "description": "Support reaches high-risk areas.",
+      "content": "Climate adaptation funding prioritizes vulnerable regions to strengthen resilience against extreme weather and sea-level rise.",
+      "pubDate": "2025-04-09 10:00:00",
+      "image_url": "https://picsum.photos/600/400?env95",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+
+    {
+      "article_id": "environment_096",
+      "title": "Environmental reporting standards improve transparency",
+      "description": "Accountability increases.",
+      "content": "Enhanced environmental reporting standards improve transparency and allow better tracking of sustainability commitments.",
+      "pubDate": "2025-04-10 08:35:00",
+      "image_url": "https://picsum.photos/600/400?env96",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_097",
+      "title": "Sustainable packaging reduces plastic pollution",
+      "description": "Alternatives gain traction.",
+      "content": "Sustainable packaging materials such as biodegradable plastics and paper-based solutions reduce plastic pollution.",
+      "pubDate": "2025-04-11 09:55:00",
+      "image_url": "https://picsum.photos/600/400?env97",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_098",
+      "title": "Climate innovation hubs support clean technology",
+      "description": "Startups drive green solutions.",
+      "content": "Climate innovation hubs provide funding, mentorship, and resources to startups developing clean technologies.",
+      "pubDate": "2025-04-12 10:20:00",
+      "image_url": "https://picsum.photos/600/400?env98",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_099",
+      "title": "Urban biodiversity initiatives restore natural habitats",
+      "description": "Cities support wildlife.",
+      "content": "Urban biodiversity initiatives create green corridors and restore habitats, supporting wildlife within city environments.",
+      "pubDate": "2025-04-13 09:15:00",
+      "image_url": "https://picsum.photos/600/400?env99",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    },
+    {
+      "article_id": "environment_100",
+      "title": "Long-term climate strategies emphasize sustainability",
+      "description": "Planning for future generations.",
+      "content": "Long-term climate strategies emphasize sustainable development, balancing economic growth with environmental protection.",
+      "pubDate": "2025-04-14 10:00:00",
+      "image_url": "https://picsum.photos/600/400?env100",
+      "source_id": "newsio_environment",
+      "category": ["environment"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

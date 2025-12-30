@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "world_081",
+      "title": "Global summit on artificial intelligence safety",
+      "description": "Experts discuss regulations and ethical AI use.",
+      "content": "World leaders and AI experts gathered to create guidelines ensuring safe and ethical use of artificial intelligence across industries.",
+      "pubDate": "2025-09-19 09:30:00",
+      "image_url": "https://picsum.photos/600/400?world81",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_082",
+      "title": "International renewable energy investment increases",
+      "description": "Funding for green projects surges globally.",
+      "content": "Countries committed to expanding renewable energy capacity through investments in solar, wind, and hydro projects worldwide.",
+      "pubDate": "2025-09-20 11:45:00",
+      "image_url": "https://picsum.photos/600/400?world82",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_083",
+      "title": "Global digital literacy initiative launched",
+      "description": "Programs target underserved communities.",
+      "content": "International organizations launched initiatives to enhance digital skills and bridge the technology gap in low-income regions.",
+      "pubDate": "2025-09-21 14:10:00",
+      "image_url": "https://picsum.photos/600/400?world83",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_084",
+      "title": "International space collaboration expands",
+      "description": "Joint missions to explore deep space planned.",
+      "content": "Space agencies from multiple countries announced new collaborative missions to study asteroids, Mars, and deep-space phenomena.",
+      "pubDate": "2025-09-22 10:05:00",
+      "image_url": "https://picsum.photos/600/400?world84",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_085",
+      "title": "Global health summit prioritizes vaccination equity",
+      "description": "Ensuring vaccine access for all nations.",
+      "content": "Health leaders discussed strategies to distribute vaccines fairly and improve immunization rates worldwide.",
+      "pubDate": "2025-09-23 12:50:00",
+      "image_url": "https://picsum.photos/600/400?world85",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_086",
+      "title": "International trade forum discusses sustainable commerce",
+      "description": "Green policies integrated into global trade.",
+      "content": "World leaders explored environmentally responsible trade practices and sustainability measures for international business.",
+      "pubDate": "2025-09-24 09:30:00",
+      "image_url": "https://picsum.photos/600/400?world86",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_087",
+      "title": "Global summit on climate resilience concludes",
+      "description": "Strategies to combat extreme weather adopted.",
+      "content": "Delegates discussed infrastructure adaptation, disaster preparedness, and community-based initiatives to mitigate climate impacts.",
+      "pubDate": "2025-09-25 11:15:00",
+      "image_url": "https://picsum.photos/600/400?world87",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_088",
+      "title": "International cybersecurity alliance strengthens cooperation",
+      "description": "Countries coordinate against cyber threats.",
+      "content": "Global cybersecurity agencies formed an alliance to share intelligence, prevent attacks, and secure critical digital infrastructure.",
+      "pubDate": "2025-09-26 13:40:00",
+      "image_url": "https://picsum.photos/600/400?world88",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_089",
+      "title": "Global education conference emphasizes innovation",
+      "description": "Digital tools transform learning worldwide.",
+      "content": "Educators and policymakers shared strategies to incorporate technology, creativity, and personalized learning approaches across schools globally.",
+      "pubDate": "2025-09-27 10:25:00",
+      "image_url": "https://picsum.photos/600/400?world89",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_090",
+      "title": "International wildlife protection treaty signed",
+      "description": "Nations commit to preserving biodiversity.",
+      "content": "Countries agreed on stricter protections for endangered species and global efforts to restore natural habitats.",
+      "pubDate": "2025-09-28 09:50:00",
+      "image_url": "https://picsum.photos/600/400?world90",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_091",
+      "title": "Global forum on AI in education held",
+      "description": "Technology transforms classroom learning.",
+      "content": "Experts shared advancements in AI-assisted learning tools and their potential to improve student engagement and outcomes worldwide.",
+      "pubDate": "2025-09-29 12:10:00",
+      "image_url": "https://picsum.photos/600/400?world91",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_092",
+      "title": "International summit on ocean sustainability concludes",
+      "description": "Protecting marine ecosystems prioritized.",
+      "content": "Delegates agreed on measures to prevent overfishing, reduce pollution, and conserve biodiversity in oceans globally.",
+      "pubDate": "2025-09-30 14:30:00",
+      "image_url": "https://picsum.photos/600/400?world92",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_093",
+      "title": "Global summit on sustainable transport held",
+      "description": "Green mobility innovations showcased.",
+      "content": "Transport leaders discussed electric vehicles, public transit improvements, and policies to reduce carbon emissions worldwide.",
+      "pubDate": "2025-10-01 12:40:00",
+      "image_url": "https://picsum.photos/600/400?world93",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_094",
+      "title": "International summit addresses climate migration",
+      "description": "Solutions for displaced populations proposed.",
+      "content": "World leaders discussed strategies for supporting communities affected by climate-induced migration and extreme weather events.",
+      "pubDate": "2025-10-02 09:15:00",
+      "image_url": "https://picsum.photos/600/400?world94",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_095",
+      "title": "Global cultural festival celebrates diversity",
+      "description": "Artists from around the world showcase talent.",
+      "content": "Musicians, dancers, and visual artists participated in performances highlighting cultural traditions and global creativity.",
+      "pubDate": "2025-10-03 11:50:00",
+      "image_url": "https://picsum.photos/600/400?world95",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_096",
+      "title": "International summit on AI governance held",
+      "description": "Policy frameworks for AI adoption discussed.",
+      "content": "Governments and organizations discussed regulations, ethical practices, and frameworks to govern AI technologies globally.",
+      "pubDate": "2025-10-04 14:20:00",
+      "image_url": "https://picsum.photos/600/400?world96",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_097",
+      "title": "Global summit on renewable agriculture launched",
+      "description": "Sustainable farming methods promoted.",
+      "content": "Experts presented techniques in organic farming, water conservation, and precision agriculture to increase sustainability worldwide.",
+      "pubDate": "2025-10-05 10:05:00",
+      "image_url": "https://picsum.photos/600/400?world97",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_098",
+      "title": "International summit on global finance concludes",
+      "description": "Economic growth and sustainability discussed.",
+      "content": "Leaders explored strategies for economic recovery, sustainable investments, and digital currency regulation worldwide.",
+      "pubDate": "2025-10-06 13:40:00",
+      "image_url": "https://picsum.photos/600/400?world98",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_099",
+      "title": "Global education forum emphasizes equity",
+      "description": "Ensuring access to quality learning for all.",
+      "content": "Policymakers and educators discussed strategies to reduce educational disparities and enhance learning opportunities worldwide.",
+      "pubDate": "2025-10-07 09:50:00",
+      "image_url": "https://picsum.photos/600/400?world99",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_100",
+      "title": "International summit on climate action held",
+      "description": "Global leaders commit to emission reductions.",
+      "content": "Countries pledged to implement policies to reduce carbon emissions and enhance resilience to climate change impacts worldwide.",
+      "pubDate": "2025-10-08 12:30:00",
+      "image_url": "https://picsum.photos/600/400?world100",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

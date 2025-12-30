@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "tourism_021",
+      "title": "Airport modernization projects improve tourist connectivity",
+      "description": "Faster and smoother travel experiences.",
+      "content": "Major airports are undergoing modernization to enhance passenger experience, reduce congestion, and improve international connectivity for tourists.",
+      "pubDate": "2025-04-21 09:20:00",
+      "image_url": "https://picsum.photos/600/400?tourism21",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_022",
+      "title": "Homestay tourism gains trust among solo travelers",
+      "description": "Local stays offer authentic experiences.",
+      "content": "Homestays are becoming a preferred option for solo travelers seeking safety, affordability, and cultural immersion.",
+      "pubDate": "2025-04-22 11:35:00",
+      "image_url": "https://picsum.photos/600/400?tourism22",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_023",
+      "title": "Marine tourism expands with coastal conservation focus",
+      "description": "Sea travel meets sustainability.",
+      "content": "Marine tourism operators are adopting conservation-friendly practices to protect coral reefs and marine biodiversity.",
+      "pubDate": "2025-04-23 07:50:00",
+      "image_url": "https://picsum.photos/600/400?tourism23",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_024",
+      "title": "Luxury resorts introduce AI-powered guest services",
+      "description": "Technology enhances hospitality.",
+      "content": "Luxury resorts are integrating AI-driven services such as smart rooms and personalized concierge systems for guests.",
+      "pubDate": "2025-04-24 16:10:00",
+      "image_url": "https://picsum.photos/600/400?tourism24",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_025",
+      "title": "Railway tourism packages attract domestic travelers",
+      "description": "Scenic journeys gain attention.",
+      "content": "Railway tourism packages offering scenic routes and cultural experiences are drawing strong interest from domestic tourists.",
+      "pubDate": "2025-04-25 06:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism25",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_026",
+      "title": "Travel influencers shape destination choices",
+      "description": "Social media drives tourism trends.",
+      "content": "Travel influencers are playing a major role in shaping destination preferences through social media storytelling.",
+      "pubDate": "2025-04-26 19:40:00",
+      "image_url": "https://picsum.photos/600/400?tourism26",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_027",
+      "title": "Snow tourism destinations prepare for peak season",
+      "description": "Winter travel demand rises.",
+      "content": "Snow destinations are upgrading facilities and safety measures in preparation for the peak winter tourism season.",
+      "pubDate": "2025-04-27 08:15:00",
+      "image_url": "https://picsum.photos/600/400?tourism27",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_028",
+      "title": "Medical tourism attracts international patients",
+      "description": "Healthcare and travel combine.",
+      "content": "Affordable healthcare and quality services are positioning several countries as hubs for medical tourism.",
+      "pubDate": "2025-04-28 14:55:00",
+      "image_url": "https://picsum.photos/600/400?tourism28",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_029",
+      "title": "Theme parks report surge in family tourism",
+      "description": "Entertainment travel rebounds strongly.",
+      "content": "Theme parks are witnessing increased footfall as families prioritize leisure and entertainment-focused vacations.",
+      "pubDate": "2025-04-29 10:25:00",
+      "image_url": "https://picsum.photos/600/400?tourism29",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_030",
+      "title": "Photography tourism draws creative travelers",
+      "description": "Visual storytelling inspires trips.",
+      "content": "Destinations with scenic landscapes are promoting photography tourism to attract creative and social-media-savvy travelers.",
+      "pubDate": "2025-04-30 17:45:00",
+      "image_url": "https://picsum.photos/600/400?tourism30",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_031",
+      "title": "Floating hotels offer unique stay experiences",
+      "description": "Water-based tourism evolves.",
+      "content": "Floating hotels and houseboats are gaining popularity for their unique views and immersive water-based experiences.",
+      "pubDate": "2025-05-01 09:10:00",
+      "image_url": "https://picsum.photos/600/400?tourism31",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_032",
+      "title": "Cave tourism opens ancient sites to visitors",
+      "description": "Underground wonders gain spotlight.",
+      "content": "Ancient caves and underground sites are being developed responsibly to allow safe tourism and preservation.",
+      "pubDate": "2025-05-02 12:00:00",
+      "image_url": "https://picsum.photos/600/400?tourism32",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_033",
+      "title": "Night tourism initiatives boost city economies",
+      "description": "Cities come alive after dark.",
+      "content": "Night tourism initiatives including light shows and night markets are boosting urban tourism revenue.",
+      "pubDate": "2025-05-03 21:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism33",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_034",
+      "title": "Glamping tourism blends luxury with nature",
+      "description": "Comfort meets outdoor travel.",
+      "content": "Glamping sites offer travelers luxury amenities while staying close to nature, appealing to comfort-seeking adventurers.",
+      "pubDate": "2025-05-04 08:40:00",
+      "image_url": "https://picsum.photos/600/400?tourism34",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_035",
+      "title": "Senior citizen tourism packages gain demand",
+      "description": "Comfort-focused travel plans rise.",
+      "content": "Tour operators are designing special packages for senior citizens, focusing on comfort, safety, and relaxed itineraries.",
+      "pubDate": "2025-05-05 11:50:00",
+      "image_url": "https://picsum.photos/600/400?tourism35",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_036",
+      "title": "Art tourism highlights museums and galleries",
+      "description": "Creative travel gains momentum.",
+      "content": "Art tourism is rising as travelers plan trips around museums, exhibitions, and cultural galleries.",
+      "pubDate": "2025-05-06 15:35:00",
+      "image_url": "https://picsum.photos/600/400?tourism36",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_037",
+      "title": "Border tourism corridors improve cross-country travel",
+      "description": "Easier movement for tourists.",
+      "content": "New border tourism corridors are simplifying cross-country travel and promoting regional tourism cooperation.",
+      "pubDate": "2025-05-07 07:05:00",
+      "image_url": "https://picsum.photos/600/400?tourism37",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_038",
+      "title": "Volunteer tourism attracts socially conscious travelers",
+      "description": "Travel with purpose grows.",
+      "content": "Volunteer tourism programs allow travelers to contribute to local communities while exploring new destinations.",
+      "pubDate": "2025-05-08 18:25:00",
+      "image_url": "https://picsum.photos/600/400?tourism38",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_039",
+      "title": "Heritage walks promote responsible city tourism",
+      "description": "Walking tours gain popularity.",
+      "content": "Guided heritage walks are encouraging responsible tourism while educating visitors about local history.",
+      "pubDate": "2025-05-09 10:10:00",
+      "image_url": "https://picsum.photos/600/400?tourism39",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_040",
+      "title": "Travel startups innovate booking experiences",
+      "description": "Simplified travel planning emerges.",
+      "content": "Travel startups are introducing innovative booking platforms with AI recommendations and seamless payment options.",
+      "pubDate": "2025-05-10 20:00:00",
+      "image_url": "https://picsum.photos/600/400?tourism40",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

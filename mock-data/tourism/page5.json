@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "tourism_081",
+      "title": "Glacier trekking tours attract extreme adventurers",
+      "description": "Snow and ice adventures gain popularity.",
+      "content": "Glacier trekking destinations are drawing thrill-seekers looking for extreme adventure and breathtaking icy landscapes.",
+      "pubDate": "2025-06-21 09:20:00",
+      "image_url": "https://picsum.photos/600/400?tourism81",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_082",
+      "title": "Beachside yoga retreats grow in popularity",
+      "description": "Mind-body wellness tourism rises.",
+      "content": "Yoga retreats along scenic beaches are attracting tourists seeking relaxation, mindfulness, and wellness experiences.",
+      "pubDate": "2025-06-22 11:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism82",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_083",
+      "title": "Sailing regattas attract global participants",
+      "description": "Water sport competitions boost tourism.",
+      "content": "International sailing events are bringing participants and spectators, boosting tourism in coastal regions.",
+      "pubDate": "2025-06-23 07:50:00",
+      "image_url": "https://picsum.photos/600/400?tourism83",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_084",
+      "title": "Heritage castle tours highlight medieval architecture",
+      "description": "History enthusiasts explore castles.",
+      "content": "Tourists are visiting heritage castles to learn about medieval history and architectural splendor.",
+      "pubDate": "2025-06-24 14:10:00",
+      "image_url": "https://picsum.photos/600/400?tourism84",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_085",
+      "title": "Wildlife photography safaris expand globally",
+      "description": "Eco-tourism meets visual arts.",
+      "content": "Specialized wildlife photography safaris are attracting tourists who want to capture rare species and natural habitats.",
+      "pubDate": "2025-06-25 06:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism85",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_086",
+      "title": "Urban street art tours attract creative travelers",
+      "description": "City murals become tourist attractions.",
+      "content": "Street art tours are guiding tourists through urban neighborhoods to explore murals, graffiti, and creative installations.",
+      "pubDate": "2025-06-26 19:40:00",
+      "image_url": "https://picsum.photos/600/400?tourism86",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_087",
+      "title": "Hot spring wellness centers attract global visitors",
+      "description": "Thermal tourism on the rise.",
+      "content": "Natural hot spring resorts are growing in popularity as wellness centers for tourists seeking relaxation and health benefits.",
+      "pubDate": "2025-06-27 08:15:00",
+      "image_url": "https://picsum.photos/600/400?tourism87",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_088",
+      "title": "Cultural heritage festivals draw international crowds",
+      "description": "Traditional events become tourist magnets.",
+      "content": "Festivals showcasing music, dance, and arts are attracting global tourists interested in cultural immersion.",
+      "pubDate": "2025-06-28 14:55:00",
+      "image_url": "https://picsum.photos/600/400?tourism88",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_089",
+      "title": "Eco-lodges in rainforests promote sustainable travel",
+      "description": "Responsible tourism protects nature.",
+      "content": "Rainforest eco-lodges are offering sustainable accommodations, attracting environmentally conscious travelers.",
+      "pubDate": "2025-06-29 10:25:00",
+      "image_url": "https://picsum.photos/600/400?tourism89",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_090",
+      "title": "Floating eco-resorts offer unique water stays",
+      "description": "Tourism meets sustainability on water.",
+      "content": "Floating resorts are providing eco-friendly experiences for tourists who want immersive stays on lakes and rivers.",
+      "pubDate": "2025-06-30 17:45:00",
+      "image_url": "https://picsum.photos/600/400?tourism90",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_091",
+      "title": "Urban cycling tours attract fitness-focused travelers",
+      "description": "Healthy tourism experiences grow.",
+      "content": "City cycling tours are becoming popular among tourists looking to explore urban landscapes while staying active.",
+      "pubDate": "2025-07-01 09:10:00",
+      "image_url": "https://picsum.photos/600/400?tourism91",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_092",
+      "title": "Cave exploration tours appeal to adventure seekers",
+      "description": "Underground tourism grows.",
+      "content": "Adventure tourists are exploring caves and underground formations through guided tours designed for safety and thrill.",
+      "pubDate": "2025-07-02 12:00:00",
+      "image_url": "https://picsum.photos/600/400?tourism92",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_093",
+      "title": "Desert safari tourism expands with cultural shows",
+      "description": "Experience adventure and local traditions.",
+      "content": "Desert safaris now include cultural performances, offering tourists a mix of adventure and traditional entertainment.",
+      "pubDate": "2025-07-03 21:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism93",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_094",
+      "title": "Glamping resorts offer luxury camping experiences",
+      "description": "Outdoor adventure meets comfort.",
+      "content": "Glamping resorts are combining nature immersion with luxury amenities, attracting travelers seeking unique experiences.",
+      "pubDate": "2025-07-04 08:40:00",
+      "image_url": "https://picsum.photos/600/400?tourism94",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_095",
+      "title": "Wildlife conservation tours educate travelers",
+      "description": "Tourism supports species protection.",
+      "content": "Wildlife conservation tours are teaching tourists about endangered species while promoting responsible travel practices.",
+      "pubDate": "2025-07-05 11:50:00",
+      "image_url": "https://picsum.photos/600/400?tourism95",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_096",
+      "title": "River rafting adventures attract thrill-seekers",
+      "description": "Water sports tourism grows.",
+      "content": "River rafting destinations are drawing adventure travelers with varying difficulty levels for safety and excitement.",
+      "pubDate": "2025-07-06 15:35:00",
+      "image_url": "https://picsum.photos/600/400?tourism96",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_097",
+      "title": "Art residencies provide immersive travel experiences",
+      "description": "Creative tourism attracts global travelers.",
+      "content": "Art residencies allow tourists to participate in creative projects, combining cultural learning with leisure travel.",
+      "pubDate": "2025-07-07 07:05:00",
+      "image_url": "https://picsum.photos/600/400?tourism97",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_098",
+      "title": "Adventure parks expand activities for all ages",
+      "description": "Family-friendly outdoor tourism grows.",
+      "content": "Adventure parks are adding new attractions suitable for families and individuals seeking outdoor recreation.",
+      "pubDate": "2025-07-08 18:25:00",
+      "image_url": "https://picsum.photos/600/400?tourism98",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_099",
+      "title": "Photography workshops enhance travel experiences",
+      "description": "Visual tourism engages travelers.",
+      "content": "Photography workshops are being offered in scenic locations to enhance travelers’ skills while exploring new destinations.",
+      "pubDate": "2025-07-09 10:10:00",
+      "image_url": "https://picsum.photos/600/400?tourism99",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_100",
+      "title": "Mountain lodge tourism attracts adventure enthusiasts",
+      "description": "High-altitude stays gain popularity.",
+      "content": "Mountain lodges are catering to adventure travelers with hiking, climbing, and scenic high-altitude experiences.",
+      "pubDate": "2025-07-10 20:00:00",
+      "image_url": "https://picsum.photos/600/400?tourism100",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

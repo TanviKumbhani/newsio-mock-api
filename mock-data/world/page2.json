@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "world_021",
+      "title": "Global summit on artificial intelligence begins",
+      "description": "Leaders discuss AI ethics and innovation.",
+      "content": "Experts and policymakers from around the world gathered to discuss the ethical use of AI and its impact on society and the economy.",
+      "pubDate": "2025-07-21 09:30:00",
+      "image_url": "https://picsum.photos/600/400?world21",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_022",
+      "title": "International maritime conference addresses ocean security",
+      "description": "Global cooperation on marine safety emphasized.",
+      "content": "Delegates discussed strategies to combat piracy, ensure safe shipping routes, and protect marine resources worldwide.",
+      "pubDate": "2025-07-22 11:45:00",
+      "image_url": "https://picsum.photos/600/400?world22",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_023",
+      "title": "World leaders commit to renewable energy targets",
+      "description": "Sustainable development goals reinforced.",
+      "content": "During the global energy summit, countries pledged to increase investments in solar, wind, and hydropower to combat climate change.",
+      "pubDate": "2025-07-23 14:20:00",
+      "image_url": "https://picsum.photos/600/400?world23",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_024",
+      "title": "Global pandemic preparedness initiative launched",
+      "description": "International cooperation strengthens health security.",
+      "content": "Health organizations and governments launched a new program to enhance global readiness for future pandemics and health emergencies.",
+      "pubDate": "2025-07-24 08:50:00",
+      "image_url": "https://picsum.photos/600/400?world24",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_025",
+      "title": "UN releases report on global human rights",
+      "description": "Focus on protecting vulnerable populations.",
+      "content": "The United Nations published a report highlighting human rights violations and emphasizing the need for international protection measures.",
+      "pubDate": "2025-07-25 10:30:00",
+      "image_url": "https://picsum.photos/600/400?world25",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_026",
+      "title": "Global economic forum highlights emerging markets",
+      "description": "Investment opportunities identified worldwide.",
+      "content": "The forum showcased trends and opportunities in emerging markets, with emphasis on sustainable investment and regional growth strategies.",
+      "pubDate": "2025-07-26 13:15:00",
+      "image_url": "https://picsum.photos/600/400?world26",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_027",
+      "title": "International disaster relief exercise conducted",
+      "description": "Nations prepare for natural catastrophes.",
+      "content": "Multiple countries participated in coordinated disaster relief exercises to improve emergency response efficiency and global collaboration.",
+      "pubDate": "2025-07-27 09:10:00",
+      "image_url": "https://picsum.photos/600/400?world27",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_028",
+      "title": "Global cultural exchange program expanded",
+      "description": "Students and artists travel internationally.",
+      "content": "Educational and cultural exchange programs are expanding, allowing participants to experience different countries’ traditions, arts, and languages.",
+      "pubDate": "2025-07-28 15:40:00",
+      "image_url": "https://picsum.photos/600/400?world28",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_029",
+      "title": "International cybersecurity alliance formed",
+      "description": "Countries collaborate against digital threats.",
+      "content": "A new alliance was created to enhance cybersecurity measures, share intelligence, and prevent cyber-attacks globally.",
+      "pubDate": "2025-07-29 12:25:00",
+      "image_url": "https://picsum.photos/600/400?world29",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_030",
+      "title": "Global summit addresses food security",
+      "description": "Strategies to combat hunger discussed.",
+      "content": "World leaders and NGOs gathered to tackle food insecurity and propose sustainable agricultural practices to ensure access for all.",
+      "pubDate": "2025-07-30 10:05:00",
+      "image_url": "https://picsum.photos/600/400?world30",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_031",
+      "title": "International transport summit explores future mobility",
+      "description": "Innovation in global transportation.",
+      "content": "Delegates discussed sustainable, high-tech solutions to improve urban and intercity transport networks worldwide.",
+      "pubDate": "2025-07-31 09:45:00",
+      "image_url": "https://picsum.photos/600/400?world31",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_032",
+      "title": "Global youth forum highlights climate activism",
+      "description": "Young leaders drive change.",
+      "content": "Youth representatives from over 100 countries convened to discuss initiatives combating climate change and promoting sustainable lifestyles.",
+      "pubDate": "2025-08-01 14:10:00",
+      "image_url": "https://picsum.photos/600/400?world32",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_033",
+      "title": "International water conservation agreement signed",
+      "description": "Countries commit to protecting resources.",
+      "content": "A multilateral agreement was signed to implement water-saving initiatives and address shortages in critical regions globally.",
+      "pubDate": "2025-08-02 11:50:00",
+      "image_url": "https://picsum.photos/600/400?world33",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_034",
+      "title": "Global space exploration partnership announced",
+      "description": "Collaborative missions planned.",
+      "content": "Space agencies from multiple nations announced new collaborative missions to explore asteroids, Mars, and other celestial bodies.",
+      "pubDate": "2025-08-03 16:20:00",
+      "image_url": "https://picsum.photos/600/400?world34",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_035",
+      "title": "International anti-corruption conference concludes",
+      "description": "Transparency initiatives reinforced.",
+      "content": "Officials from around the globe discussed measures to strengthen governance, combat corruption, and improve accountability in public institutions.",
+      "pubDate": "2025-08-04 10:30:00",
+      "image_url": "https://picsum.photos/600/400?world35",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_036",
+      "title": "Global renewable energy investment surges",
+      "description": "Green technology attracts funding.",
+      "content": "Private and public sector investment in renewable energy projects increased significantly, supporting the transition to cleaner power sources.",
+      "pubDate": "2025-08-05 08:15:00",
+      "image_url": "https://picsum.photos/600/400?world36",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_037",
+      "title": "International cultural festival promotes heritage arts",
+      "description": "Global artisans showcase talents.",
+      "content": "Artists and performers from around the world gathered to celebrate heritage arts, crafts, music, and dance in a month-long festival.",
+      "pubDate": "2025-08-06 15:05:00",
+      "image_url": "https://picsum.photos/600/400?world37",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_038",
+      "title": "Global wildlife conservation initiatives expand",
+      "description": "Protection efforts target endangered species.",
+      "content": "New programs and funding have been introduced to protect endangered species and restore natural habitats across continents.",
+      "pubDate": "2025-08-07 12:40:00",
+      "image_url": "https://picsum.photos/600/400?world38",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_039",
+      "title": "International trade negotiations conclude successfully",
+      "description": "Countries reach mutual agreements.",
+      "content": "Key nations finalized trade agreements, reducing tariffs and opening new markets for goods and services worldwide.",
+      "pubDate": "2025-08-08 09:55:00",
+      "image_url": "https://picsum.photos/600/400?world39",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_040",
+      "title": "Global education initiatives target underprivileged regions",
+      "description": "Access to learning prioritized.",
+      "content": "International organizations launched programs to improve education access, literacy, and digital learning in underprivileged areas worldwide.",
+      "pubDate": "2025-08-09 14:30:00",
+      "image_url": "https://picsum.photos/600/400?world40",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "3"
+}

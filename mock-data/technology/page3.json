@@ -1,0 +1,186 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "tech_041",
+      "title": "Indian startups adopt edge computing to power faster AI applications",
+      "link": "https://example.com/technology/edge-computing-ai-startups",
+      "description": "Indian technology startups are rapidly adopting edge computing to reduce latency and improve real-time artificial intelligence performance. By processing data closer to the source, companies are enabling faster analytics for healthcare devices, smart factories, and autonomous delivery systems while also lowering cloud infrastructure costs.",
+      "image_url": "https://picsum.photos/seed/tech41/600/400",
+      "pubDate": "2025-01-15",
+      "source_name": "Tech Daily India"
+    },
+    {
+      "article_id": "tech_042",
+      "title": "New semiconductor policy boosts local chip manufacturing ecosystem",
+      "link": "https://example.com/technology/india-semiconductor-policy",
+      "description": "India’s updated semiconductor policy is attracting global chipmakers and encouraging domestic production. Experts say this move could strengthen supply chains, create thousands of skilled jobs, and reduce dependence on imports as demand for electronics and electric vehicles continues to rise.",
+      "image_url": "https://picsum.photos/seed/tech42/600/400",
+      "pubDate": "2025-01-16",
+      "source_name": "Economic Tech Review"
+    },
+    {
+      "article_id": "tech_043",
+      "title": "AI-powered code assistants transform software development workflows",
+      "link": "https://example.com/technology/ai-code-assistants",
+      "description": "AI-powered code assistants are becoming a standard tool for developers, helping them write cleaner code, fix bugs faster, and understand complex codebases. Companies report improved productivity, though experts caution that human review remains essential for security and accuracy.",
+      "image_url": "https://picsum.photos/seed/tech43/600/400",
+      "pubDate": "2025-01-16",
+      "source_name": "Developer News"
+    },
+    {
+      "article_id": "tech_044",
+      "title": "5G expansion enables smarter cities across major Indian metros",
+      "link": "https://example.com/technology/5g-smart-cities",
+      "description": "The rapid expansion of 5G networks is enabling smarter city initiatives, including intelligent traffic systems, real-time pollution monitoring, and connected public services. Municipal authorities say these technologies will improve efficiency and quality of life for citizens.",
+      "image_url": "https://picsum.photos/seed/tech44/600/400",
+      "pubDate": "2025-01-17",
+      "source_name": "Urban Tech Times"
+    },
+    {
+      "article_id": "tech_045",
+      "title": "Cybersecurity firms warn of rise in AI-driven phishing attacks",
+      "link": "https://example.com/technology/ai-phishing-threats",
+      "description": "Cybersecurity experts are warning organizations about a rise in AI-driven phishing attacks that are harder to detect. These attacks use personalized messages and realistic language, increasing the risk of data breaches and financial losses for businesses and individuals.",
+      "image_url": "https://picsum.photos/seed/tech45/600/400",
+      "pubDate": "2025-01-17",
+      "source_name": "Cyber Secure"
+    },
+    {
+      "article_id": "tech_046",
+      "title": "Electric vehicle software updates improve battery efficiency",
+      "link": "https://example.com/technology/ev-software-updates",
+      "description": "Automakers are rolling out over-the-air software updates that significantly improve electric vehicle battery efficiency. These updates optimize energy usage, extend driving range, and enhance safety features without requiring physical service visits.",
+      "image_url": "https://picsum.photos/seed/tech46/600/400",
+      "pubDate": "2025-01-18",
+      "source_name": "AutoTech Journal"
+    },
+    {
+      "article_id": "tech_047",
+      "title": "Cloud-native technologies drive scalability for growing enterprises",
+      "link": "https://example.com/technology/cloud-native-enterprises",
+      "description": "Cloud-native technologies such as containers and microservices are helping enterprises scale faster and deploy applications more efficiently. IT leaders say these tools allow teams to innovate quickly while maintaining reliability and security.",
+      "image_url": "https://picsum.photos/seed/tech47/600/400",
+      "pubDate": "2025-01-18",
+      "source_name": "Enterprise Tech"
+    },
+    {
+      "article_id": "tech_048",
+      "title": "Wearable technology market grows with focus on health monitoring",
+      "link": "https://example.com/technology/wearable-health-tech",
+      "description": "The wearable technology market is expanding rapidly as consumers demand advanced health monitoring features. Devices now track heart health, sleep patterns, and stress levels, offering valuable insights for preventive healthcare.",
+      "image_url": "https://picsum.photos/seed/tech48/600/400",
+      "pubDate": "2025-01-19",
+      "source_name": "HealthTech Today"
+    },
+    {
+      "article_id": "tech_049",
+      "title": "Open-source communities play key role in modern software innovation",
+      "link": "https://example.com/technology/open-source-innovation",
+      "description": "Open-source communities continue to play a vital role in modern software development. By collaborating globally, developers are creating secure, scalable, and cost-effective solutions that power everything from startups to large enterprises.",
+      "image_url": "https://picsum.photos/seed/tech49/600/400",
+      "pubDate": "2025-01-19",
+      "source_name": "Open Source Weekly"
+    },
+    {
+      "article_id": "tech_050",
+      "title": "Augmented reality finds new use cases in education and training",
+      "link": "https://example.com/technology/ar-education-training",
+      "description": "Augmented reality is finding new applications in education and corporate training. Interactive simulations and visual overlays help learners understand complex concepts more effectively, leading to higher engagement and better outcomes.",
+      "image_url": "https://picsum.photos/seed/tech50/600/400",
+      "pubDate": "2025-01-20",
+      "source_name": "EdTech World"
+    },
+    {
+      "article_id": "tech_051",
+      "title": "Data privacy regulations push companies to rethink analytics strategies",
+      "link": "https://example.com/technology/data-privacy-analytics",
+      "description": "Stricter data privacy regulations are forcing companies to rethink how they collect and analyze user data. Organizations are investing in privacy-first analytics tools that balance business insights with regulatory compliance.",
+      "image_url": "https://picsum.photos/seed/tech51/600/400",
+      "pubDate": "2025-01-20",
+      "source_name": "Privacy Tech"
+    },
+    {
+      "article_id": "tech_052",
+      "title": "Robotics automation boosts efficiency in manufacturing sector",
+      "link": "https://example.com/technology/robotics-manufacturing",
+      "description": "Robotics automation is transforming manufacturing by improving efficiency, accuracy, and workplace safety. Factories adopting collaborative robots report higher output while allowing human workers to focus on complex tasks.",
+      "image_url": "https://picsum.photos/seed/tech52/600/400",
+      "pubDate": "2025-01-21",
+      "source_name": "Manufacturing Tech"
+    },
+    {
+      "article_id": "tech_053",
+      "title": "Quantum computing research reaches new milestone",
+      "link": "https://example.com/technology/quantum-computing-milestone",
+      "description": "Researchers have achieved a new milestone in quantum computing, demonstrating improved stability and error correction. While commercial applications are still years away, experts believe these advancements bring practical quantum systems closer to reality.",
+      "image_url": "https://picsum.photos/seed/tech53/600/400",
+      "pubDate": "2025-01-21",
+      "source_name": "Future Tech Lab"
+    },
+    {
+      "article_id": "tech_054",
+      "title": "Digital payment platforms expand services to rural markets",
+      "link": "https://example.com/technology/digital-payments-rural",
+      "description": "Digital payment platforms are expanding into rural markets by offering simplified interfaces and local language support. This move is helping small businesses and farmers access financial services and participate in the digital economy.",
+      "image_url": "https://picsum.photos/seed/tech54/600/400",
+      "pubDate": "2025-01-22",
+      "source_name": "FinTech Insight"
+    },
+    {
+      "article_id": "tech_055",
+      "title": "AI ethics debates intensify as adoption accelerates",
+      "link": "https://example.com/technology/ai-ethics-debate",
+      "description": "As AI adoption accelerates across industries, debates around ethics, transparency, and accountability are intensifying. Policymakers and technology leaders are working together to establish guidelines that ensure responsible use of artificial intelligence.",
+      "image_url": "https://picsum.photos/seed/tech55/600/400",
+      "pubDate": "2025-01-22",
+      "source_name": "AI Policy Watch"
+    },
+    {
+      "article_id": "tech_056",
+      "title": "Smart home devices see increased demand amid remote work trends",
+      "link": "https://example.com/technology/smart-home-remote-work",
+      "description": "The shift toward remote work is driving demand for smart home devices that improve comfort, security, and energy efficiency. Consumers are investing in connected lighting, climate control, and voice assistants to enhance daily living.",
+      "image_url": "https://picsum.photos/seed/tech56/600/400",
+      "pubDate": "2025-01-23",
+      "source_name": "Smart Living"
+    },
+    {
+      "article_id": "tech_057",
+      "title": "Blockchain technology gains traction beyond cryptocurrencies",
+      "link": "https://example.com/technology/blockchain-beyond-crypto",
+      "description": "Blockchain technology is gaining traction in sectors such as supply chain management, healthcare, and digital identity. Companies are leveraging its transparency and security features to build trust and improve operational efficiency.",
+      "image_url": "https://picsum.photos/seed/tech57/600/400",
+      "pubDate": "2025-01-23",
+      "source_name": "Blockchain Today"
+    },
+    {
+      "article_id": "tech_058",
+      "title": "Low-code platforms empower non-technical users to build apps",
+      "link": "https://example.com/technology/low-code-platforms",
+      "description": "Low-code and no-code platforms are empowering non-technical users to build applications quickly. Businesses say these tools reduce development time and allow teams to respond faster to changing requirements.",
+      "image_url": "https://picsum.photos/seed/tech58/600/400",
+      "pubDate": "2025-01-24",
+      "source_name": "App Dev News"
+    },
+    {
+      "article_id": "tech_059",
+      "title": "Satellite internet promises better connectivity for remote regions",
+      "link": "https://example.com/technology/satellite-internet-remote",
+      "description": "Satellite internet services are promising better connectivity for remote and underserved regions. Improved access to high-speed internet could support education, healthcare, and economic development in these areas.",
+      "image_url": "https://picsum.photos/seed/tech59/600/400",
+      "pubDate": "2025-01-24",
+      "source_name": "Space Tech Review"
+    },
+    {
+      "article_id": "tech_060",
+      "title": "Future of work shaped by automation and digital collaboration tools",
+      "link": "https://example.com/technology/future-of-work-tools",
+      "description": "The future of work is being shaped by automation and advanced digital collaboration tools. Organizations are rethinking workflows, investing in upskilling, and adopting flexible work models to stay competitive in a digital-first world.",
+      "image_url": "https://picsum.photos/seed/tech60/600/400",
+      "pubDate": "2025-01-25",
+      "source_name": "WorkTech Journal"
+    }
+  ]
+}

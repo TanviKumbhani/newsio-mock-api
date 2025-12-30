@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "world_001",
+      "title": "Global leaders meet to discuss climate action goals",
+      "description": "International summit focuses on emissions reduction.",
+      "content": "World leaders convened at the annual climate summit to discuss strategies for reducing greenhouse gas emissions and promoting renewable energy globally.",
+      "pubDate": "2025-07-01 12:00:00",
+      "image_url": "https://picsum.photos/600/400?world1",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_002",
+      "title": "Global economy shows signs of recovery",
+      "description": "Economic indicators point to growth.",
+      "content": "Recent data suggest the global economy is stabilizing with improved trade, industrial output, and employment rates across multiple regions.",
+      "pubDate": "2025-07-02 09:30:00",
+      "image_url": "https://picsum.photos/600/400?world2",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_003",
+      "title": "International space agency announces new lunar mission",
+      "description": "Collaboration aims to explore the Moon.",
+      "content": "A coalition of international space agencies has unveiled plans for a new lunar mission to explore the Moon's surface and conduct scientific experiments.",
+      "pubDate": "2025-07-03 15:20:00",
+      "image_url": "https://picsum.photos/600/400?world3",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_004",
+      "title": "Global vaccination campaign reaches milestone",
+      "description": "Health organizations celebrate progress.",
+      "content": "The worldwide vaccination initiative has successfully administered over one billion doses, marking a significant achievement in global health efforts.",
+      "pubDate": "2025-07-04 10:15:00",
+      "image_url": "https://picsum.photos/600/400?world4",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_005",
+      "title": "International trade agreements foster economic ties",
+      "description": "Countries collaborate for mutual growth.",
+      "content": "New trade agreements between major economies are expected to boost international commerce, reduce tariffs, and encourage sustainable economic development.",
+      "pubDate": "2025-07-05 13:40:00",
+      "image_url": "https://picsum.photos/600/400?world5",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_006",
+      "title": "Global refugee crisis prompts international response",
+      "description": "Humanitarian aid mobilized worldwide.",
+      "content": "Governments and NGOs are working together to provide relief and support for millions of refugees affected by conflicts and natural disasters globally.",
+      "pubDate": "2025-07-06 08:50:00",
+      "image_url": "https://picsum.photos/600/400?world6",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_007",
+      "title": "Global summit addresses cybersecurity threats",
+      "description": "Nations collaborate on digital security.",
+      "content": "Leaders from multiple countries gathered to discuss strategies to strengthen cybersecurity measures and combat rising digital threats across the globe.",
+      "pubDate": "2025-07-07 17:30:00",
+      "image_url": "https://picsum.photos/600/400?world7",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_008",
+      "title": "Major international sporting event kicks off",
+      "description": "Athletes from around the world compete.",
+      "content": "The opening ceremony of a major international sports competition brought together athletes from over 50 countries, celebrating sportsmanship and cultural exchange.",
+      "pubDate": "2025-07-08 14:20:00",
+      "image_url": "https://picsum.photos/600/400?world8",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_009",
+      "title": "Global climate protests highlight urgent environmental issues",
+      "description": "Activists demand swift action worldwide.",
+      "content": "Millions of people across continents participated in climate protests demanding governments take immediate measures to combat climate change.",
+      "pubDate": "2025-07-09 12:10:00",
+      "image_url": "https://picsum.photos/600/400?world9",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_010",
+      "title": "International aid reaches disaster-stricken regions",
+      "description": "Global relief efforts underway.",
+      "content": "Countries and aid organizations have sent emergency supplies and personnel to areas affected by natural disasters to support recovery and rebuilding efforts.",
+      "pubDate": "2025-07-10 16:05:00",
+      "image_url": "https://picsum.photos/600/400?world10",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_011",
+      "title": "Global summit on renewable energy concludes successfully",
+      "description": "Countries commit to sustainable solutions.",
+      "content": "International leaders concluded a renewable energy summit with new commitments to expand solar, wind, and other green technologies worldwide.",
+      "pubDate": "2025-07-11 09:25:00",
+      "image_url": "https://picsum.photos/600/400?world11",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_012",
+      "title": "Global health conference emphasizes mental health",
+      "description": "Focus shifts to psychological well-being.",
+      "content": "Experts at the international health conference highlighted the importance of mental health initiatives and integration into global health policies.",
+      "pubDate": "2025-07-12 11:50:00",
+      "image_url": "https://picsum.photos/600/400?world12",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_013",
+      "title": "International cooperation strengthens disaster preparedness",
+      "description": "Countries collaborate on emergency planning.",
+      "content": "Global initiatives are focusing on strengthening disaster preparedness and response systems through coordinated planning and resource sharing.",
+      "pubDate": "2025-07-13 14:30:00",
+      "image_url": "https://picsum.photos/600/400?world13",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_014",
+      "title": "Global tourism rebounds after travel restrictions lifted",
+      "description": "International travel sees resurgence.",
+      "content": "Countries are experiencing a significant increase in international tourists as travel restrictions ease and safety measures are implemented.",
+      "pubDate": "2025-07-14 10:10:00",
+      "image_url": "https://picsum.photos/600/400?world14",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_015",
+      "title": "International tech summit showcases innovations",
+      "description": "Global technology trends unveiled.",
+      "content": "The international technology summit displayed breakthroughs in AI, robotics, and sustainable tech, attracting innovators and investors from around the world.",
+      "pubDate": "2025-07-15 13:45:00",
+      "image_url": "https://picsum.photos/600/400?world15",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_016",
+      "title": "Global education forum addresses learning inequalities",
+      "description": "Initiatives launched for equal access.",
+      "content": "International education leaders discussed strategies to reduce learning inequalities and ensure access to quality education globally.",
+      "pubDate": "2025-07-16 09:05:00",
+      "image_url": "https://picsum.photos/600/400?world16",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_017",
+      "title": "International film festival celebrates global cinema",
+      "description": "Diverse stories showcased.",
+      "content": "Filmmakers from around the world participated in the festival, screening films that reflect cultural diversity and social issues.",
+      "pubDate": "2025-07-17 15:20:00",
+      "image_url": "https://picsum.photos/600/400?world17",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_018",
+      "title": "Global summit discusses ocean conservation",
+      "description": "Protecting marine biodiversity prioritized.",
+      "content": "Leaders and environmentalists gathered to create actionable plans to conserve oceans and protect marine ecosystems.",
+      "pubDate": "2025-07-18 12:40:00",
+      "image_url": "https://picsum.photos/600/400?world18",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_019",
+      "title": "International trade expo highlights sustainable products",
+      "description": "Green products take center stage.",
+      "content": "Global businesses showcased sustainable and eco-friendly products, promoting environmentally responsible consumption.",
+      "pubDate": "2025-07-19 10:50:00",
+      "image_url": "https://picsum.photos/600/400?world19",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_020",
+      "title": "Global cultural heritage sites gain UNESCO recognition",
+      "description": "Historical preservation efforts honored.",
+      "content": "UNESCO announced new world heritage sites, recognizing the importance of preserving cultural and historical landmarks for future generations.",
+      "pubDate": "2025-07-20 16:15:00",
+      "image_url": "https://picsum.photos/600/400?world20",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "2"
+}

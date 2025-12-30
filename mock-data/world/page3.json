@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "world_041",
+      "title": "Global summit on ocean pollution held",
+      "description": "Leaders discuss marine conservation strategies.",
+      "content": "Experts and policymakers met to address ocean pollution, plastic waste, and initiatives to protect marine ecosystems worldwide.",
+      "pubDate": "2025-08-10 10:20:00",
+      "image_url": "https://picsum.photos/600/400?world41",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_042",
+      "title": "International space telescope discovers new exoplanets",
+      "description": "Astronomers find potentially habitable worlds.",
+      "content": "A new study from a space telescope has identified several exoplanets that may have conditions suitable for life, exciting the scientific community.",
+      "pubDate": "2025-08-11 13:15:00",
+      "image_url": "https://picsum.photos/600/400?world42",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_043",
+      "title": "Global trade summit discusses supply chain resilience",
+      "description": "Countries aim to secure international commerce.",
+      "content": "Leaders convened to address challenges in global supply chains, focusing on efficiency, sustainability, and reducing disruption risks.",
+      "pubDate": "2025-08-12 09:40:00",
+      "image_url": "https://picsum.photos/600/400?world43",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_044",
+      "title": "Global urbanization trends analyzed at UN forum",
+      "description": "Cities face growth and sustainability challenges.",
+      "content": "Urban development experts discussed trends in population growth, housing, and sustainable city planning for rapidly expanding urban areas.",
+      "pubDate": "2025-08-13 15:10:00",
+      "image_url": "https://picsum.photos/600/400?world44",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_045",
+      "title": "International renewable energy partnership formed",
+      "description": "Countries collaborate on clean power projects.",
+      "content": "A new multinational partnership aims to accelerate renewable energy deployment and promote sustainable infrastructure globally.",
+      "pubDate": "2025-08-14 11:50:00",
+      "image_url": "https://picsum.photos/600/400?world45",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_046",
+      "title": "Global health summit highlights vaccination equity",
+      "description": "Access to vaccines prioritized worldwide.",
+      "content": "Health ministers emphasized equitable distribution of vaccines to ensure protection against preventable diseases across all nations.",
+      "pubDate": "2025-08-15 08:30:00",
+      "image_url": "https://picsum.photos/600/400?world46",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_047",
+      "title": "International film collaboration showcases diversity",
+      "description": "Cultural exchange through cinema.",
+      "content": "Filmmakers from multiple countries collaborated on projects celebrating cultural diversity and addressing social issues.",
+      "pubDate": "2025-08-16 14:45:00",
+      "image_url": "https://picsum.photos/600/400?world47",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_048",
+      "title": "Global wildlife summit focuses on endangered species",
+      "description": "International efforts to protect biodiversity.",
+      "content": "Conservationists and governments discussed strategies to save endangered species and restore ecosystems around the world.",
+      "pubDate": "2025-08-17 10:05:00",
+      "image_url": "https://picsum.photos/600/400?world48",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_049",
+      "title": "Global summit addresses cybercrime challenges",
+      "description": "Countries collaborate to strengthen cybersecurity.",
+      "content": "International experts exchanged strategies to prevent cybercrime, secure critical infrastructure, and protect citizens from online threats.",
+      "pubDate": "2025-08-18 12:20:00",
+      "image_url": "https://picsum.photos/600/400?world49",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_050",
+      "title": "Global economic recovery report released",
+      "description": "Growth prospects evaluated across regions.",
+      "content": "The latest report assesses global economic trends, recovery prospects, and potential challenges impacting international markets.",
+      "pubDate": "2025-08-19 09:35:00",
+      "image_url": "https://picsum.photos/600/400?world50",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_051",
+      "title": "International space station conducts collaborative experiments",
+      "description": "Global science partnerships flourish.",
+      "content": "Astronauts from multiple countries performed experiments focusing on biology, physics, and space technology aboard the ISS.",
+      "pubDate": "2025-08-20 11:10:00",
+      "image_url": "https://picsum.photos/600/400?world51",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_052",
+      "title": "Global climate finance initiative launched",
+      "description": "Funding for sustainable projects increases.",
+      "content": "International organizations committed funding to climate action projects supporting renewable energy, reforestation, and carbon reduction worldwide.",
+      "pubDate": "2025-08-21 08:50:00",
+      "image_url": "https://picsum.photos/600/400?world52",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_053",
+      "title": "International transport network agreement signed",
+      "description": "Enhanced connectivity between regions.",
+      "content": "Countries signed agreements to improve air, rail, and maritime transport links for efficient international trade and travel.",
+      "pubDate": "2025-08-22 10:25:00",
+      "image_url": "https://picsum.photos/600/400?world53",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_054",
+      "title": "Global innovation forum highlights emerging technologies",
+      "description": "AI, robotics, and biotech in focus.",
+      "content": "Experts presented breakthroughs in artificial intelligence, robotics, and biotechnology, emphasizing their potential impact on economies and societies.",
+      "pubDate": "2025-08-23 14:05:00",
+      "image_url": "https://picsum.photos/600/400?world54",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_055",
+      "title": "International tourism conference addresses sustainable travel",
+      "description": "Green tourism initiatives promoted globally.",
+      "content": "Leaders and travel experts discussed strategies to minimize environmental impact while encouraging global tourism growth.",
+      "pubDate": "2025-08-24 12:40:00",
+      "image_url": "https://picsum.photos/600/400?world55",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_056",
+      "title": "Global summit on renewable agriculture held",
+      "description": "Sustainable farming practices highlighted.",
+      "content": "Experts shared innovations in renewable agriculture, including organic methods, precision farming, and water conservation techniques.",
+      "pubDate": "2025-08-25 09:15:00",
+      "image_url": "https://picsum.photos/600/400?world56",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_057",
+      "title": "International humanitarian aid reaches conflict zones",
+      "description": "Relief operations intensify worldwide.",
+      "content": "NGOs and governments delivered food, medical supplies, and shelter to affected populations in conflict-affected regions.",
+      "pubDate": "2025-08-26 11:50:00",
+      "image_url": "https://picsum.photos/600/400?world57",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_058",
+      "title": "Global cybersecurity conference focuses on AI threats",
+      "description": "New strategies to protect digital infrastructure.",
+      "content": "Experts discussed emerging threats from AI-powered cyber attacks and strategies for international digital security cooperation.",
+      "pubDate": "2025-08-27 14:20:00",
+      "image_url": "https://picsum.photos/600/400?world58",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_059",
+      "title": "International space mission explores asteroid belt",
+      "description": "Collaboration advances space research.",
+      "content": "A multinational space mission aims to study asteroids, their composition, and potential resources for future exploration.",
+      "pubDate": "2025-08-28 10:05:00",
+      "image_url": "https://picsum.photos/600/400?world59",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    },
+    {
+      "article_id": "world_060",
+      "title": "Global conference addresses climate-induced migration",
+      "description": "Nations plan solutions for displaced populations.",
+      "content": "The conference focused on how climate change is driving migration and strategies for adaptation and humanitarian support worldwide.",
+      "pubDate": "2025-08-29 13:40:00",
+      "image_url": "https://picsum.photos/600/400?world60",
+      "source_id": "newsio_world",
+      "category": ["world"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}

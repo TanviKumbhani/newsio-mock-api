@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "technology_081",
+      "title": "AI-powered meeting assistants summarize discussions instantly",
+      "description": "Productivity tools reduce manual note-taking.",
+      "content": "Organizations are adopting AI meeting assistants that automatically transcribe conversations, highlight key points, and generate action items, improving productivity.",
+      "pubDate": "2025-05-20 09:10:00",
+      "image_url": "https://picsum.photos/600/400?tech81",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_082",
+      "title": "Smart robots assist elderly care in assisted living centers",
+      "description": "Technology supports aging populations.",
+      "content": "Care facilities are introducing smart robots to help elderly residents with daily tasks, monitoring health, and providing companionship.",
+      "pubDate": "2025-05-21 11:40:00",
+      "image_url": "https://picsum.photos/600/400?tech82",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_083",
+      "title": "AI-driven demand forecasting improves retail inventory planning",
+      "description": "Data-driven stocking reduces waste.",
+      "content": "Retailers are using AI-powered demand forecasting tools to better predict customer needs, reduce overstocking, and minimize supply chain inefficiencies.",
+      "pubDate": "2025-05-22 14:05:00",
+      "image_url": "https://picsum.photos/600/400?tech83",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_084",
+      "title": "AI-generated virtual influencers gain popularity online",
+      "description": "Digital personas attract massive followings.",
+      "content": "Brands are experimenting with AI-generated virtual influencers on social media platforms, engaging audiences with computer-created personalities.",
+      "pubDate": "2025-05-23 18:30:00",
+      "image_url": "https://picsum.photos/600/400?tech84",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_085",
+      "title": "Smart logistics platforms optimize global shipping routes",
+      "description": "AI reduces delivery times.",
+      "content": "Logistics companies are deploying AI-based platforms to optimize shipping routes, reduce fuel consumption, and improve delivery efficiency worldwide.",
+      "pubDate": "2025-05-24 08:50:00",
+      "image_url": "https://picsum.photos/600/400?tech85",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_086",
+      "title": "AI-driven code review tools improve software quality",
+      "description": "Automation catches bugs early.",
+      "content": "Development teams are using AI-powered code review tools to identify bugs, security risks, and performance issues earlier in the development cycle.",
+      "pubDate": "2025-05-25 16:15:00",
+      "image_url": "https://picsum.photos/600/400?tech86",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_087",
+      "title": "AI-based recommendation engines personalize fintech services",
+      "description": "Financial products tailored to users.",
+      "content": "Fintech platforms are using AI to recommend personalized financial products, helping users make better investment and spending decisions.",
+      "pubDate": "2025-05-26 10:25:00",
+      "image_url": "https://picsum.photos/600/400?tech87",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_088",
+      "title": "Smart city platforms integrate data across public services",
+      "description": "Unified systems improve urban living.",
+      "content": "Municipalities are implementing smart city platforms that integrate data from transport, utilities, and public services to improve efficiency.",
+      "pubDate": "2025-05-27 13:55:00",
+      "image_url": "https://picsum.photos/600/400?tech88",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_089",
+      "title": "AI-powered accessibility tools enhance digital inclusion",
+      "description": "Technology becomes more inclusive.",
+      "content": "New AI tools are helping people with disabilities access digital content through speech recognition, real-time captions, and adaptive interfaces.",
+      "pubDate": "2025-05-28 09:35:00",
+      "image_url": "https://picsum.photos/600/400?tech89",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_090",
+      "title": "Autonomous warehouse systems speed up order fulfillment",
+      "description": "Robots streamline logistics centers.",
+      "content": "Warehouses are adopting autonomous robots and AI systems to speed up picking, packing, and shipping processes while reducing errors.",
+      "pubDate": "2025-05-29 17:10:00",
+      "image_url": "https://picsum.photos/600/400?tech90",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_091",
+      "title": "AI-powered resume builders help job seekers stand out",
+      "description": "Career tools adopt smart assistance.",
+      "content": "Job platforms are offering AI-driven resume builders that tailor content to roles, improving candidate visibility to recruiters.",
+      "pubDate": "2025-05-30 11:00:00",
+      "image_url": "https://picsum.photos/600/400?tech91",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_092",
+      "title": "AI-driven climate models improve extreme weather prediction",
+      "description": "Forecasting becomes more accurate.",
+      "content": "Climate researchers are using AI models to analyze large datasets, improving predictions of extreme weather events and natural disasters.",
+      "pubDate": "2025-05-31 19:20:00",
+      "image_url": "https://picsum.photos/600/400?tech92",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_093",
+      "title": "AI-powered document automation reduces paperwork",
+      "description": "Businesses digitize processes.",
+      "content": "Organizations are deploying AI document automation tools to process forms, contracts, and invoices faster with fewer errors.",
+      "pubDate": "2025-06-01 08:45:00",
+      "image_url": "https://picsum.photos/600/400?tech93",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_094",
+      "title": "Smart home security systems adopt AI-based threat detection",
+      "description": "Homes become safer with automation.",
+      "content": "Next-generation smart home security systems use AI to detect unusual activity and alert homeowners in real time.",
+      "pubDate": "2025-06-02 14:30:00",
+      "image_url": "https://picsum.photos/600/400?tech94",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_095",
+      "title": "AI-assisted animation tools speed up content production",
+      "description": "Creative studios embrace automation.",
+      "content": "Animation studios are using AI tools to automate repetitive tasks, accelerating production timelines while maintaining quality.",
+      "pubDate": "2025-06-03 10:15:00",
+      "image_url": "https://picsum.photos/600/400?tech95",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_096",
+      "title": "AI-driven personalization enhances news consumption experience",
+      "description": "Readers get tailored content feeds.",
+      "content": "News platforms are using AI to personalize content feeds based on reader interests, improving engagement and relevance.",
+      "pubDate": "2025-06-04 18:05:00",
+      "image_url": "https://picsum.photos/600/400?tech96",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_097",
+      "title": "Smart manufacturing platforms integrate AI and robotics",
+      "description": "Factories evolve with automation.",
+      "content": "Manufacturers are integrating AI software with robotics to create highly automated, adaptive production environments.",
+      "pubDate": "2025-06-05 09:55:00",
+      "image_url": "https://picsum.photos/600/400?tech97",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_098",
+      "title": "AI-powered chatbots expand into mental health support services",
+      "description": "Digital assistance complements care.",
+      "content": "Mental health platforms are deploying AI chatbots to provide initial support, resources, and guidance alongside human professionals.",
+      "pubDate": "2025-06-06 12:20:00",
+      "image_url": "https://picsum.photos/600/400?tech98",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_099",
+      "title": "AI-powered market analysis tools assist investment decisions",
+      "description": "Data insights guide investors.",
+      "content": "Investors are using AI-driven market analysis platforms to evaluate trends, assess risks, and make informed investment decisions.",
+      "pubDate": "2025-06-07 16:45:00",
+      "image_url": "https://picsum.photos/600/400?tech99",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    },
+    {
+      "article_id": "technology_100",
+      "title": "Future of technology shaped by responsible and ethical AI",
+      "description": "Innovation balanced with accountability.",
+      "content": "Industry experts emphasize that the future of technology depends on responsible AI development, ethical practices, and collaboration between governments and tech leaders.",
+      "pubDate": "2025-06-08 20:30:00",
+      "image_url": "https://picsum.photos/600/400?tech100",
+      "source_id": "newsio_technology",
+      "category": ["technology"],
+      "language": "en"
+    }
+  ],
+  "nextPage": null
+}

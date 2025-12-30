@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "totalResults": 100,
+  "results": [
+    {
+      "article_id": "tourism_041",
+      "title": "Island hopping tours attract summer travelers",
+      "description": "Multi-island adventures become popular.",
+      "content": "Island hopping tours are gaining popularity, offering tourists unique experiences across multiple islands in a single trip.",
+      "pubDate": "2025-05-11 09:20:00",
+      "image_url": "https://picsum.photos/600/400?tourism41",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_042",
+      "title": "Wine tourism grows in rural regions",
+      "description": "Vineyards attract international visitors.",
+      "content": "Rural regions are promoting wine tourism with vineyard tours, tastings, and cultural experiences for travelers.",
+      "pubDate": "2025-05-12 11:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism42",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_043",
+      "title": "Hot air balloon rides offer panoramic views",
+      "description": "Adventure tourism takes to the skies.",
+      "content": "Hot air balloon experiences are attracting tourists seeking scenic aerial views and adventure travel opportunities.",
+      "pubDate": "2025-05-13 07:45:00",
+      "image_url": "https://picsum.photos/600/400?tourism43",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_044",
+      "title": "Wellness resorts integrate digital detox programs",
+      "description": "Mindful tourism on the rise.",
+      "content": "Wellness resorts are offering digital detox retreats to help tourists unplug and focus on relaxation and mental health.",
+      "pubDate": "2025-05-14 14:15:00",
+      "image_url": "https://picsum.photos/600/400?tourism44",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_045",
+      "title": "Desert camping experiences attract adventure seekers",
+      "description": "Unique experiences in arid landscapes.",
+      "content": "Desert camping with cultural performances and stargazing is attracting travelers looking for one-of-a-kind adventures.",
+      "pubDate": "2025-05-15 08:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism45",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_046",
+      "title": "Mountain biking trails expand in national parks",
+      "description": "Outdoor sports tourism flourishes.",
+      "content": "National parks are developing mountain biking trails to attract adventure enthusiasts and promote eco-friendly outdoor activities.",
+      "pubDate": "2025-05-16 10:50:00",
+      "image_url": "https://picsum.photos/600/400?tourism46",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_047",
+      "title": "Cultural homestays preserve local traditions",
+      "description": "Tourism supports heritage conservation.",
+      "content": "Tourists staying with local families gain immersive cultural experiences while supporting preservation of traditional lifestyles.",
+      "pubDate": "2025-05-17 16:25:00",
+      "image_url": "https://picsum.photos/600/400?tourism47",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_048",
+      "title": "River cruises offer scenic and cultural tours",
+      "description": "Waterways become tourist hotspots.",
+      "content": "River cruises are attracting travelers with a combination of scenic views, cultural excursions, and luxury amenities.",
+      "pubDate": "2025-05-18 09:05:00",
+      "image_url": "https://picsum.photos/600/400?tourism48",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_049",
+      "title": "Night safaris gain popularity in wildlife reserves",
+      "description": "Nocturnal wildlife viewing experiences expand.",
+      "content": "Wildlife reserves are offering night safari tours to allow visitors to observe nocturnal animals safely.",
+      "pubDate": "2025-05-19 19:10:00",
+      "image_url": "https://picsum.photos/600/400?tourism49",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_050",
+      "title": "City bike-sharing programs encourage urban exploration",
+      "description": "Eco-friendly city tourism rises.",
+      "content": "Bike-sharing programs in cities are encouraging tourists to explore urban areas sustainably while enjoying local attractions.",
+      "pubDate": "2025-05-20 12:40:00",
+      "image_url": "https://picsum.photos/600/400?tourism50",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_051",
+      "title": "Surf tourism grows with coastal infrastructure upgrades",
+      "description": "Water sports attract global travelers.",
+      "content": "Coastal regions are investing in surf tourism infrastructure, drawing enthusiasts and promoting recreational water sports.",
+      "pubDate": "2025-05-21 08:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism51",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_052",
+      "title": "Historic railway journeys preserved for tourism",
+      "description": "Travelers enjoy vintage experiences.",
+      "content": "Countries are maintaining historic trains and routes to offer heritage railway journeys to tourists.",
+      "pubDate": "2025-05-22 14:15:00",
+      "image_url": "https://picsum.photos/600/400?tourism52",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_053",
+      "title": "Adventure parks attract thrill-seeking families",
+      "description": "Outdoor attractions gain momentum.",
+      "content": "Adventure parks with zip lines, rock climbing, and obstacle courses are drawing family travelers seeking active recreation.",
+      "pubDate": "2025-05-23 10:25:00",
+      "image_url": "https://picsum.photos/600/400?tourism53",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_054",
+      "title": "Culinary tours explore local street food",
+      "description": "Food-focused travel grows.",
+      "content": "Tour operators are offering street food tours to highlight local cuisine and culture to visiting travelers.",
+      "pubDate": "2025-05-24 17:50:00",
+      "image_url": "https://picsum.photos/600/400?tourism54",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_055",
+      "title": "Lakeside tourism develops eco-friendly resorts",
+      "description": "Sustainable stays near water bodies.",
+      "content": "Resorts near lakes are adopting eco-friendly practices while providing scenic and tranquil experiences for tourists.",
+      "pubDate": "2025-05-25 09:15:00",
+      "image_url": "https://picsum.photos/600/400?tourism55",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_056",
+      "title": "Cultural immersion programs target student travelers",
+      "description": "Study-travel experiences expand.",
+      "content": "Students are engaging in cultural immersion programs to learn languages, traditions, and local arts while traveling.",
+      "pubDate": "2025-05-26 12:40:00",
+      "image_url": "https://picsum.photos/600/400?tourism56",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_057",
+      "title": "Eco-lodges promote low-impact tourism",
+      "description": "Sustainability drives accommodations.",
+      "content": "Eco-lodges are gaining attention as travelers seek low-impact accommodations that support environmental conservation.",
+      "pubDate": "2025-05-27 16:30:00",
+      "image_url": "https://picsum.photos/600/400?tourism57",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_058",
+      "title": "City rooftop experiences gain popularity",
+      "description": "High-altitude urban attractions emerge.",
+      "content": "Rooftop bars, dining, and observation decks are creating new urban tourism experiences.",
+      "pubDate": "2025-05-28 19:45:00",
+      "image_url": "https://picsum.photos/600/400?tourism58",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_059",
+      "title": "Art residencies attract creative travelers",
+      "description": "Tourism meets artistic exploration.",
+      "content": "Artists and travelers are participating in art residencies that allow creative exploration in culturally rich locations.",
+      "pubDate": "2025-05-29 08:20:00",
+      "image_url": "https://picsum.photos/600/400?tourism59",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    },
+    {
+      "article_id": "tourism_060",
+      "title": "Hot spring tourism attracts wellness enthusiasts",
+      "description": "Thermal retreats gain attention.",
+      "content": "Hot spring resorts and thermal baths are growing in popularity among travelers seeking relaxation and health benefits.",
+      "pubDate": "2025-05-30 11:50:00",
+      "image_url": "https://picsum.photos/600/400?tourism60",
+      "source_id": "newsio_tourism",
+      "category": ["tourism"],
+      "language": "en"
+    }
+  ],
+  "nextPage": "4"
+}
